@@ -6,6 +6,7 @@ import {
   clearBlacklist,
   CITY_COORDS,
   computeZoomTransform,
+  computeSpreadPoint,
   findClusterHints,
   formatUniversityId,
   getBlacklist,
@@ -133,17 +134,16 @@ test("resolves German city aliases and computes haversine distance", () => {
   assert.ok(distance > 250 && distance < 300);
 });
 
-test("computes cursor-centered zoom transform with scale clamp", () => {
+test("computes spread zoom scale without shifting current pan", () => {
   const zoomedIn = computeZoomTransform({
     currentScale: 1,
-    currentTranslate: { x: 0, y: 0 },
+    currentTranslate: { x: 12, y: -8 },
     targetScale: 1.15,
     origin: { x: 100, y: 50 },
   });
 
   assert.equal(zoomedIn.scale, 1.15);
-  assert.ok(Math.abs(zoomedIn.translate.x - -15) < 0.000001);
-  assert.ok(Math.abs(zoomedIn.translate.y - -7.5) < 0.000001);
+  assert.deepEqual(zoomedIn.translate, { x: 12, y: -8 });
 
   const clamped = computeZoomTransform({
     currentScale: 7.9,
@@ -153,6 +153,15 @@ test("computes cursor-centered zoom transform with scale clamp", () => {
   });
 
   assert.equal(clamped.scale, 8);
+});
+
+test("computes spread zoom positions without scaling dot size", () => {
+  const center = { x: 100, y: 100 };
+  const point = { x: 120, y: 100 };
+
+  assert.deepEqual(computeSpreadPoint(point, center, 1), point);
+  assert.deepEqual(computeSpreadPoint(point, center, 2), { x: 136, y: 100 });
+  assert.deepEqual(computeSpreadPoint(point, center, 0.5), { x: 112, y: 100 });
 });
 
 test("distinguishes dot click from drag by total pointer movement", () => {

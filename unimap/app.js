@@ -127,6 +127,7 @@ const state = {
   city: "",
   maxDistance: 600,
   selected: null,
+  mapCenter: null,
   zoom: {
     scale: 1,
     translate: { x: 0, y: 0 },
@@ -227,13 +228,21 @@ export function computeZoomTransform({
   origin,
 }) {
   const clampedScale = Math.min(ZOOM_MAX, Math.max(ZOOM_MIN, targetScale));
-  const ratio = clampedScale / currentScale;
-  const tx = origin.x - (origin.x - currentTranslate.x) * ratio;
-  const ty = origin.y - (origin.y - currentTranslate.y) * ratio;
+  void currentScale;
+  void origin;
 
   return {
     scale: clampedScale,
-    translate: { x: tx, y: ty },
+    translate: { ...currentTranslate },
+  };
+}
+
+export function computeSpreadPoint(point, center, scale) {
+  const spreadFactor = 1 + (scale - 1) * 0.8;
+
+  return {
+    x: center.x + (point.x - center.x) * spreadFactor,
+    y: center.y + (point.y - center.y) * spreadFactor,
   };
 }
 
@@ -650,9 +659,10 @@ function updateZoomTransform() {
 
   zoomLayer.setAttribute(
     "transform",
-    `translate(${state.zoom.translate.x},${state.zoom.translate.y}) scale(${state.zoom.scale})`
+    `translate(${state.zoom.translate.x},${state.zoom.translate.y})`
   );
   updateZoomLevel();
+  updateDotSpread();
   updateLabelScaling();
 }
 
@@ -665,11 +675,23 @@ function updateZoomLevel() {
 function updateLabelScaling() {
   const labels = elements.map?.querySelectorAll(".dot-label") || [];
   labels.forEach((label) => {
-    if (state.zoom.scale > 1.5) {
-      label.setAttribute("transform", `scale(${1 / state.zoom.scale})`);
-    } else {
-      label.removeAttribute("transform");
-    }
+    label.removeAttribute("transform");
+  });
+}
+
+function updateDotSpread() {
+  if (!state.mapCenter) return;
+
+  const dots = elements.map?.querySelectorAll(".university-dot") || [];
+  dots.forEach((dot) => {
+    const basePoint = {
+      x: Number(dot.dataset.baseX),
+      y: Number(dot.dataset.baseY),
+    };
+    if (!Number.isFinite(basePoint.x) || !Number.isFinite(basePoint.y)) return;
+
+    const point = computeSpreadPoint(basePoint, state.mapCenter, state.zoom.scale);
+    dot.setAttribute("transform", `translate(${point.x} ${point.y})`);
   });
 }
 
@@ -733,6 +755,7 @@ function renderMap() {
   const center = { x: width / 2, y: height / 2 };
   const maxRadius = Math.max(180, Math.min(width, height) * 0.42);
   const cityCoords = getCityCoords(state.city);
+  state.mapCenter = center;
 
   elements.map.setAttribute("viewBox", `0 0 ${width} ${height}`);
   elements.map.innerHTML = `
@@ -758,7 +781,7 @@ function renderMap() {
     const outOfRange = isOutOfRange(uni, cityCoords);
     const point = getOrbitPoint(uni, index, center, maxRadius, outOfRange);
     const startPoint = previousPositions.get(uni.id) || center;
-    const node = createDot(uni, startPoint, point, outOfRange);
+    const node = createDot(uni, startPoint, point, center, outOfRange);
     previousPositions.set(uni.id, point);
     positions.push({ id: uni.id, x: point.x, y: point.y, distanceFromCenter: getPointDistance(point, center) });
     fragment.appendChild(node);
@@ -790,17 +813,21 @@ function renderRings(center, maxRadius) {
     .join("");
 }
 
-function createDot(uni, startPoint, targetPoint, outOfRange) {
+function createDot(uni, startPoint, targetPoint, center, outOfRange) {
   const group = document.createElementNS("http://www.w3.org/2000/svg", "g");
   const size = 8 + (uni.score.total / 100) * 6;
   let pointerStart = null;
   let latestPointer = null;
+  const displayStart = computeSpreadPoint(startPoint, center, state.zoom.scale);
+  const displayTarget = computeSpreadPoint(targetPoint, center, state.zoom.scale);
 
   group.classList.add("university-dot");
   if (uni.score.total > 80) group.classList.add("high-score");
-  group.setAttribute("transform", `translate(${startPoint.x} ${startPoint.y})`);
+  group.setAttribute("transform", `translate(${displayStart.x} ${displayStart.y})`);
   group.style.opacity = outOfRange ? "0.3" : "1";
   group.dataset.id = uni.id;
+  group.dataset.baseX = String(targetPoint.x);
+  group.dataset.baseY = String(targetPoint.y);
 
   const circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
   circle.setAttribute("r", String(size));
@@ -829,7 +856,7 @@ function createDot(uni, startPoint, targetPoint, outOfRange) {
     event.stopPropagation();
     if (shouldOpenDotAfterPointer(pointerStart, latestPointer)) openDrawer(uni);
   });
-  animateDot(group, startPoint, targetPoint);
+  animateDot(group, displayStart, displayTarget);
 
   return group;
 }
