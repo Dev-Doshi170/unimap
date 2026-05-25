@@ -64,6 +64,9 @@
       </label>
 
       <button id="reset-filters" class="ghost" type="button">Reset filters</button>
+      <button id="hidden-manager-button" class="ghost hidden-manager-button is-empty" type="button">
+        Hidden (<span id="hidden-count">0</span>)
+      </button>
 
       <div class="help">
         <button type="button" aria-label="How scoring works">?</button>
@@ -100,6 +103,20 @@
       <button id="close-drawer" class="close" type="button" aria-label="Close details">×</button>
       <div id="drawer-body"></div>
     </aside>
+
+    <div id="blacklist-modal" class="blacklist-modal" aria-hidden="true" hidden>
+      <section class="blacklist-panel" role="dialog" aria-modal="true" aria-labelledby="blacklist-title">
+        <button id="close-blacklist-modal" class="close blacklist-close" type="button" aria-label="Close hidden universities">×</button>
+        <div class="blacklist-header">
+          <div>
+            <h2 id="blacklist-title">Hidden Universities</h2>
+            <p>Restore universities you previously hid from the map.</p>
+          </div>
+          <button id="clear-blacklist" class="clear-hidden-button" type="button">Clear all</button>
+        </div>
+        <div id="blacklist-list" class="blacklist-list"></div>
+      </section>
+    </div>
 
     <footer class="stats-bar">
       <span>Total universities shown: <strong id="stats-total">0</strong></span>

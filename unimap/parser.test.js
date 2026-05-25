@@ -2,15 +2,20 @@ import assert from "node:assert/strict";
 import test from "node:test";
 
 import {
+  addToBlacklist,
+  clearBlacklist,
   CITY_COORDS,
   computeZoomTransform,
   findClusterHints,
   formatUniversityId,
+  getBlacklist,
   getCityCoords,
   getDistance,
   getDurationSemesters,
+  isBlacklisted,
   matchesDurationFilter,
   parseUniversities,
+  removeFromBlacklist,
   shouldOpenDotAfterPointer,
 } from "./app.js";
 
@@ -186,4 +191,30 @@ test("parses and filters duration by max semester count", () => {
 test("formats university id for detail display", () => {
   assert.equal(formatUniversityId({ id: "w5965" }), "w5965");
   assert.equal(formatUniversityId({ id: "" }), "Not listed");
+});
+
+test("stores blacklist ids without duplicates and removes them", () => {
+  const store = new Map();
+  globalThis.localStorage = {
+    getItem: (key) => store.get(key) || null,
+    setItem: (key, value) => store.set(key, value),
+    removeItem: (key) => store.delete(key),
+  };
+
+  clearBlacklist();
+  addToBlacklist("w5965");
+  addToBlacklist("w5965");
+  addToBlacklist("w72981");
+
+  assert.deepEqual(getBlacklist(), ["w5965", "w72981"]);
+  assert.equal(isBlacklisted("w5965"), true);
+
+  removeFromBlacklist("w5965");
+  assert.deepEqual(getBlacklist(), ["w72981"]);
+  assert.equal(isBlacklisted("w5965"), false);
+
+  clearBlacklist();
+  assert.deepEqual(getBlacklist(), []);
+
+  delete globalThis.localStorage;
 });

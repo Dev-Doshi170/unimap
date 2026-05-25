@@ -114,6 +114,7 @@ const VIEW_MAX = {
 const ZOOM_MIN = 0.5;
 const ZOOM_MAX = 8;
 const DOT_CLICK_MOVE_THRESHOLD = 5;
+export const BLACKLIST_KEY = "unimap_blacklist";
 
 const state = {
   universities: [],
@@ -294,6 +295,35 @@ export function formatUniversityId(uni) {
   return uni?.id ? uni.id : "Not listed";
 }
 
+export function getBlacklist() {
+  try {
+    return JSON.parse(getStorage()?.getItem(BLACKLIST_KEY) || "[]");
+  } catch {
+    return [];
+  }
+}
+
+export function addToBlacklist(id) {
+  const list = getBlacklist();
+  if (!id || list.includes(id)) return;
+
+  list.push(id);
+  getStorage()?.setItem(BLACKLIST_KEY, JSON.stringify(list));
+}
+
+export function removeFromBlacklist(id) {
+  const list = getBlacklist().filter((item) => item !== id);
+  getStorage()?.setItem(BLACKLIST_KEY, JSON.stringify(list));
+}
+
+export function clearBlacklist() {
+  getStorage()?.setItem(BLACKLIST_KEY, JSON.stringify([]));
+}
+
+export function isBlacklisted(id) {
+  return getBlacklist().includes(id);
+}
+
 function initApp() {
   elements = {
     map: document.querySelector("#orbit-map"),
@@ -310,6 +340,12 @@ function initApp() {
     distanceFilter: document.querySelector("#distance-filter"),
     distanceValue: document.querySelector("#distance-value"),
     resetFilters: document.querySelector("#reset-filters"),
+    hiddenButton: document.querySelector("#hidden-manager-button"),
+    hiddenCount: document.querySelector("#hidden-count"),
+    blacklistModal: document.querySelector("#blacklist-modal"),
+    closeBlacklistModal: document.querySelector("#close-blacklist-modal"),
+    clearBlacklist: document.querySelector("#clear-blacklist"),
+    blacklistList: document.querySelector("#blacklist-list"),
     statsTotal: document.querySelector("#stats-total"),
     statsFree: document.querySelector("#stats-free"),
     statsEnglish: document.querySelector("#stats-english"),
@@ -323,6 +359,7 @@ function initApp() {
 
   setupControls();
   setupZoomControls();
+  updateBlacklistControls();
   loadData();
 }
 
@@ -408,9 +445,42 @@ function setupControls() {
     applyFilters();
   });
 
+  elements.hiddenButton.addEventListener("click", openBlacklistModal);
+  elements.closeBlacklistModal.addEventListener("click", closeBlacklistModal);
+  elements.blacklistModal.addEventListener("click", (event) => {
+    if (event.target === elements.blacklistModal) closeBlacklistModal();
+  });
+  elements.clearBlacklist.addEventListener("click", () => {
+    clearBlacklist();
+    applyFilters();
+    renderBlacklistModal();
+    showToast("University restored to the map.");
+  });
+  elements.blacklistList.addEventListener("click", (event) => {
+    const button = event.target.closest("[data-restore-id]");
+    if (!button) return;
+
+    removeFromBlacklist(button.dataset.restoreId);
+    applyFilters();
+    renderBlacklistModal();
+    showToast("University restored to the map.");
+  });
+  elements.drawerBody.addEventListener("click", (event) => {
+    const button = event.target.closest("[data-blacklist-id]");
+    if (!button) return;
+
+    addToBlacklist(button.dataset.blacklistId);
+    closeDrawer();
+    applyFilters();
+    showToast("University hidden. You can restore it from the blacklist manager.");
+  });
+
   elements.closeDrawer.addEventListener("click", closeDrawer);
   document.addEventListener("keydown", (event) => {
-    if (event.key === "Escape") closeDrawer();
+    if (event.key === "Escape") {
+      closeDrawer();
+      closeBlacklistModal();
+    }
   });
 }
 
@@ -623,12 +693,14 @@ function renderCityOptions() {
 function applyFilters() {
   state.filtered = state.universities.filter((uni) => {
     return (
+      !isBlacklisted(uni.id) &&
       matchesLanguage(uni) &&
       matchesFeeFilter(uni) &&
       matchesDurationFilter(uni, state.durationFilter)
     );
   });
 
+  updateBlacklistControls();
   updateStats();
   renderMap();
 }
@@ -873,6 +945,86 @@ function closeDrawer() {
   state.selected = null;
 }
 
+function openBlacklistModal() {
+  renderBlacklistModal();
+  elements.blacklistModal.hidden = false;
+  elements.blacklistModal.setAttribute("aria-hidden", "false");
+}
+
+function closeBlacklistModal() {
+  elements.blacklistModal.hidden = true;
+  elements.blacklistModal.setAttribute("aria-hidden", "true");
+}
+
+function renderBlacklistModal() {
+  const blacklist = getBlacklist();
+  const hiddenUniversities = blacklist.map((id) => {
+    return state.universities.find((uni) => uni.id === id) || { id };
+  });
+
+  elements.clearBlacklist.disabled = blacklist.length === 0;
+  elements.blacklistList.innerHTML = hiddenUniversities.length
+    ? hiddenUniversities.map(renderBlacklistedRow).join("")
+    : `<p class="blacklist-empty">No hidden universities. Hiding a university removes it from the map.</p>`;
+}
+
+function renderBlacklistedRow(uni) {
+  return `
+    <div class="blacklist-row">
+      <div>
+        <strong>${escapeHtml(uni.universityName || formatUniversityId(uni))}</strong>
+        <span>${escapeHtml(uni.courseName || "Course not listed")}</span>
+        <small>${escapeHtml(uni.city || "City not listed")}</small>
+      </div>
+      <button class="restore-button" type="button" data-restore-id="${escapeHtml(uni.id)}">
+        <span class="ti ti-eye" aria-hidden="true"></span>
+        Restore
+      </button>
+    </div>
+  `;
+}
+
+function updateBlacklistControls() {
+  if (!elements.hiddenButton || !elements.hiddenCount) return;
+
+  const count = getBlacklist().length;
+  elements.hiddenCount.textContent = String(count);
+  elements.hiddenButton.classList.toggle("has-hidden", count > 0);
+  elements.hiddenButton.classList.toggle("is-empty", count === 0);
+}
+
+function showToast(message) {
+  const existing = document.getElementById("unimap-toast");
+  if (existing) existing.remove();
+
+  const toast = document.createElement("div");
+  toast.id = "unimap-toast";
+  toast.textContent = message;
+  toast.style.cssText = `
+    position: fixed;
+    bottom: 60px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--color-background-primary);
+    border: 0.5px solid var(--color-border-secondary);
+    border-radius: var(--border-radius-lg);
+    padding: 10px 20px;
+    font-size: 14px;
+    color: var(--color-text-primary);
+    z-index: 9999;
+    opacity: 0;
+    transition: opacity 0.2s ease;
+  `;
+  document.body.appendChild(toast);
+  requestAnimationFrame(() => {
+    toast.style.opacity = "1";
+  });
+  setTimeout(() => {
+    toast.style.opacity = "0";
+    setTimeout(() => toast.remove(), 200);
+  }, 3000);
+}
+
 function renderDrawer(uni) {
   const breakdown = [
     ["Course Relevance", uni.score.breakdown.courseRelevance, 35],
@@ -931,6 +1083,10 @@ function renderDrawer(uni) {
       ${renderLinkButton("University Website", uni.websiteUrl)}
       ${renderLinkButton("Fee Details", uni.feesLink)}
     </div>
+    <button class="blacklist-button" type="button" data-blacklist-id="${escapeHtml(uni.id)}">
+      <span class="ti ti-eye-off" aria-hidden="true"></span>
+      Hide this university
+    </button>
   `;
 }
 
@@ -1071,6 +1227,14 @@ function escapeHtml(value) {
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;");
+}
+
+function getStorage() {
+  try {
+    return globalThis.localStorage || null;
+  } catch {
+    return null;
+  }
 }
 
 if (typeof document !== "undefined") {
