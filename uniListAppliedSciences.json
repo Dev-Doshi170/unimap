@@ -1,0 +1,461 @@
+{
+    "timestamp": "2026-05-25T06:14:01.890Z",
+    "total_records": 91,
+    "records": [
+      {
+        "sr_no": 1,
+        "university": "Technische Hochschule Ingolstadt",
+        "course": "AI Engineering of Autonomous Systems"
+      },
+      {
+        "sr_no": 2,
+        "university": "Heilbronn University",
+        "course": "Applied Artificial Intelligence"
+      },
+      {
+        "sr_no": 3,
+        "university": "Technische Hochschule Deggendorf",
+        "course": "Applied Artificial Intelligence for Digital Production Management"
+      },
+      {
+        "sr_no": 4,
+        "university": "SRH University of Applied Sciences Heidelberg",
+        "course": "Applied Computer Science"
+      },
+      {
+        "sr_no": 5,
+        "university": "Technische Hochschule Deggendorf",
+        "course": "Applied Computer Science"
+      },
+      {
+        "sr_no": 6,
+        "university": "Hochschule Schmalkalden",
+        "course": "Applied Computer Science"
+      },
+      {
+        "sr_no": 7,
+        "university": "SRH University of Applied Sciences Heidelberg",
+        "course": "Applied Data Science & Artificial Intelligence"
+      },
+      {
+        "sr_no": 8,
+        "university": "Mittweida University of Applied Sciences",
+        "course": "Applied Mathematics for Network and Data Sciences"
+      },
+      {
+        "sr_no": 9,
+        "university": "IU International University",
+        "course": "Artificial Intelligence"
+      },
+      {
+        "sr_no": 10,
+        "university": "Technical University of Applied Sciences Würzburg-Schweinfurt",
+        "course": "Artificial Intelligence"
+      },
+      {
+        "sr_no": 11,
+        "university": "Technische Hochschule Ingolstadt",
+        "course": "Artificial Intelligence"
+      },
+      {
+        "sr_no": 12,
+        "university": "SRH University of Applied Sciences Heidelberg",
+        "course": "Artificial Intelligence (AI) in Business"
+      },
+      {
+        "sr_no": 13,
+        "university": "Technische Hochschule Deggendorf",
+        "course": "Artificial Intelligence and Data Science"
+      },
+      {
+        "sr_no": 14,
+        "university": "Furtwangen University - computer science, technology, economics, media, health",
+        "course": "Artificial Intelligence and Data Science for Digital Business Management"
+      },
+      {
+        "sr_no": 15,
+        "university": "University of Applied Sciences Neu-Ulm",
+        "course": "Artificial Intelligence and Health Informatics"
+      },
+      {
+        "sr_no": 16,
+        "university": "Hof University of Applied Sciences",
+        "course": "Artificial Intelligence and Robotics"
+      },
+      {
+        "sr_no": 17,
+        "university": "Technische Hochschule Deggendorf",
+        "course": "Artificial Intelligence for Smart Sensors and Actuators"
+      },
+      {
+        "sr_no": 18,
+        "university": "Technische Hochschule Köln",
+        "course": "Automation and IT"
+      },
+      {
+        "sr_no": 19,
+        "university": "Technische Hochschule Deggendorf",
+        "course": "Automotive Software Engineering"
+      },
+      {
+        "sr_no": 20,
+        "university": "Bonn-Rhine-Sieg University of Applied Sciences",
+        "course": "Autonomous Systems"
+      },
+      {
+        "sr_no": 21,
+        "university": "University of Applied Sciences Emden/Leer",
+        "course": "Business Intelligence and Data Analytics"
+      },
+      {
+        "sr_no": 22,
+        "university": "Gisma University of Applied Sciences",
+        "course": "Business Management & Cybersecurity"
+      },
+      {
+        "sr_no": 23,
+        "university": "Hochschule Nordhausen",
+        "course": "Computer Engineering for IOT SYSTEMS"
+      },
+      {
+        "sr_no": 24,
+        "university": "IU International University",
+        "course": "Computer Science"
+      },
+      {
+        "sr_no": 25,
+        "university": "Gisma University of Applied Sciences",
+        "course": "Computer Science"
+      },
+      {
+        "sr_no": 26,
+        "university": "University of Applied Sciences Fresenius",
+        "course": "Computer Science"
+      },
+      {
+        "sr_no": 27,
+        "university": "SRH University of Applied Sciences Heidelberg",
+        "course": "Computer Science"
+      },
+      {
+        "sr_no": 28,
+        "university": "SRH University of Applied Sciences Heidelberg",
+        "course": "Computer Science - Big Data and Artificial Intelligence"
+      },
+      {
+        "sr_no": 29,
+        "university": "SRH University of Applied Sciences Heidelberg",
+        "course": "Computer Science - Cyber Security"
+      },
+      {
+        "sr_no": 30,
+        "university": "Hochschule Kaiserslautern (University of Applied Sciences)",
+        "course": "Computer Science – degree programme with vocational and academic elements"
+      },
+      {
+        "sr_no": 31,
+        "university": "Technical University of Applied Sciences of Central Hesse - THM",
+        "course": "Control, Computer and Communications Engineering"
+      },
+      {
+        "sr_no": 32,
+        "university": "Hochschule der Bayerischen Wirtschaft für angewandte Wissenschaften - HDBW",
+        "course": "Cyber Security"
+      },
+      {
+        "sr_no": 33,
+        "university": "Berlin University of Applied Sciences",
+        "course": "Data Science"
+      },
+      {
+        "sr_no": 34,
+        "university": "IU International University",
+        "course": "Data Science"
+      },
+      {
+        "sr_no": 35,
+        "university": "University of Europe for Applied Sciences",
+        "course": "Data Science"
+      },
+      {
+        "sr_no": 36,
+        "university": "Fulda University of Applied Sciences",
+        "course": "Data Science"
+      },
+      {
+        "sr_no": 37,
+        "university": "XU Exponential University of Applied Sciences",
+        "course": "Data Science"
+      },
+      {
+        "sr_no": 38,
+        "university": "Bielefeld University of Applied Sciences and Arts (HSBI)",
+        "course": "Data Science (Research Master)"
+      },
+      {
+        "sr_no": 39,
+        "university": "Gisma University of Applied Sciences",
+        "course": "Data Science, AI and Digital Business"
+      },
+      {
+        "sr_no": 40,
+        "university": "SRH University of Applied Sciences Heidelberg",
+        "course": "Data Science: Business Analytics"
+      },
+      {
+        "sr_no": 41,
+        "university": "Rhine-Waal University of Applied Sciences",
+        "course": "Design and Interaction"
+      },
+      {
+        "sr_no": 42,
+        "university": "University of Europe for Applied Sciences",
+        "course": "DevOps"
+      },
+      {
+        "sr_no": 43,
+        "university": "IU International University",
+        "course": "DevOps and Cloud Computing"
+      },
+      {
+        "sr_no": 44,
+        "university": "Weihenstephan-Triesdorf University of Applied Sciences",
+        "course": "Digital Farming"
+      },
+      {
+        "sr_no": 45,
+        "university": "SRH University of Applied Sciences Heidelberg",
+        "course": "Digital Health and Data Science"
+      },
+      {
+        "sr_no": 46,
+        "university": "University of Applied Sciences Neu-Ulm",
+        "course": "Digital Innovation Management"
+      },
+      {
+        "sr_no": 47,
+        "university": "University of Applied Sciences Neu-Ulm",
+        "course": "Digital Leadership in Information Management"
+      },
+      {
+        "sr_no": 48,
+        "university": "Technische Hochschule Köln",
+        "course": "Digital Sciences"
+      },
+      {
+        "sr_no": 49,
+        "university": "SRH University of Applied Sciences Heidelberg",
+        "course": "Digital Supply Chain Management"
+      },
+      {
+        "sr_no": 50,
+        "university": "Dortmund University of Applied Sciences and Arts",
+        "course": "Digital Transformation"
+      },
+      {
+        "sr_no": 51,
+        "university": "SRH University of Applied Sciences Heidelberg",
+        "course": "Digital Transformation Management"
+      },
+      {
+        "sr_no": 52,
+        "university": "West Saxon University of Applied Sciences of Zwickau",
+        "course": "Embedded and Autonomous Systems"
+      },
+      {
+        "sr_no": 53,
+        "university": "Dortmund University of Applied Sciences and Arts",
+        "course": "Embedded Systems Engineering"
+      },
+      {
+        "sr_no": 54,
+        "university": "Technische Hochschule Ingolstadt",
+        "course": "Engineering and Management"
+      },
+      {
+        "sr_no": 55,
+        "university": "University of Applied Sciences Bremen",
+        "course": "Engineering and Management of Space Systems"
+      },
+      {
+        "sr_no": 56,
+        "university": "University of Applied Sciences Offenburg",
+        "course": "Enterprise and IT Security"
+      },
+      {
+        "sr_no": 57,
+        "university": "Technische Hochschule Ingolstadt",
+        "course": "Entrepreneurship and Corporate Venturing"
+      },
+      {
+        "sr_no": 58,
+        "university": "University of Applied Sciences for Medium-Sized Companies (FHM)",
+        "course": "General Technology Management"
+      },
+      {
+        "sr_no": 59,
+        "university": "University of Europe for Applied Sciences",
+        "course": "Generative Design & AI"
+      },
+      {
+        "sr_no": 60,
+        "university": "Fulda University of Applied Sciences",
+        "course": "Global Software Development"
+      },
+      {
+        "sr_no": 61,
+        "university": "Frankfurt University of Applied Sciences",
+        "course": "High Integrity Systems"
+      },
+      {
+        "sr_no": 62,
+        "university": "Technische Hochschule Deggendorf",
+        "course": "High performance computing / quantum computing"
+      },
+      {
+        "sr_no": 63,
+        "university": "Albstadt-Sigmaringen University - University of Engineering and Economics",
+        "course": "Industrial Artificial Intelligence"
+      },
+      {
+        "sr_no": 64,
+        "university": "University of Applied Sciences Emden/Leer",
+        "course": "Industrial Informatics"
+      },
+      {
+        "sr_no": 65,
+        "university": "SRH University of Applied Sciences Heidelberg",
+        "course": "Infomation Technology and Business Transformation"
+      },
+      {
+        "sr_no": 66,
+        "university": "South Westphalia University of Applied Sciences",
+        "course": "Informatics and Business"
+      },
+      {
+        "sr_no": 67,
+        "university": "Hamburg University of Applied Sciences",
+        "course": "Information and Communications Engineering"
+      },
+      {
+        "sr_no": 68,
+        "university": "Rhine-Waal University of Applied Sciences",
+        "course": "Information Engineering and Computer Science"
+      },
+      {
+        "sr_no": 69,
+        "university": "FH Aachen - University of Applied Sciences",
+        "course": "Information Systems"
+      },
+      {
+        "sr_no": 70,
+        "university": "FH Aachen - University of Applied Sciences",
+        "course": "Information Systems (part-time)"
+      },
+      {
+        "sr_no": 71,
+        "university": "SRH University of Applied Sciences Heidelberg",
+        "course": "Information Technology - Artificial Intelligence"
+      },
+      {
+        "sr_no": 72,
+        "university": "Media Design University for Design and Computer Science",
+        "course": "Information Technology - Data Science"
+      },
+      {
+        "sr_no": 73,
+        "university": "Media Design University for Design and Computer Science",
+        "course": "Information Technology - Data Science"
+      },
+      {
+        "sr_no": 74,
+        "university": "Georg Simon Ohm University of Applied Sciences Nuremberg",
+        "course": "Intelligent & Autonomous Systems"
+      },
+      {
+        "sr_no": 75,
+        "university": "Technische Hochschule Brandenburg",
+        "course": "Interactive Media"
+      },
+      {
+        "sr_no": 76,
+        "university": "Augsburg University of Applied Sciences",
+        "course": "International Master of Research and Innovation"
+      },
+      {
+        "sr_no": 77,
+        "university": "West Saxon University of Applied Sciences of Zwickau",
+        "course": "Internet of Things and Smart Systems"
+      },
+      {
+        "sr_no": 78,
+        "university": "University of Europe for Applied Sciences",
+        "course": "IoT Devices & Smart Services"
+      },
+      {
+        "sr_no": 79,
+        "university": "West Saxon University of Applied Sciences of Zwickau",
+        "course": "Management and Information Technology"
+      },
+      {
+        "sr_no": 80,
+        "university": "Technical University of Applied Sciences Würzburg-Schweinfurt",
+        "course": "MBA Transformation"
+      },
+      {
+        "sr_no": 81,
+        "university": "Berlin School of Applied Sciences (HTW)",
+        "course": "Professional IT Business and Digitalisation"
+      },
+      {
+        "sr_no": 82,
+        "university": "Berlin School of Applied Sciences (HTW)",
+        "course": "Project Management and Data Science"
+      },
+      {
+        "sr_no": 83,
+        "university": "Technische Hochschule Deggendorf",
+        "course": "Robotics"
+      },
+      {
+        "sr_no": 84,
+        "university": "Fresenius Heidelberg University state-approved university of Hochschule Fresenius für Internationales Management GmbH",
+        "course": "SAP Engineering & Analytics"
+      },
+      {
+        "sr_no": 85,
+        "university": "Ansbach University of Applied Sciences",
+        "course": "Smart Energy Systems"
+      },
+      {
+        "sr_no": 86,
+        "university": "Technische Hochschule Ingolstadt",
+        "course": "Sociotechnical Cybersecurity"
+      },
+      {
+        "sr_no": 87,
+        "university": "Heilbronn University",
+        "course": "Software Engineering"
+      },
+      {
+        "sr_no": 88,
+        "university": "Hof University of Applied Sciences",
+        "course": "Software Engineering for Industrial Applications"
+      },
+      {
+        "sr_no": 89,
+        "university": "Stuttgart University of Applied Sciences",
+        "course": "Software Technology"
+      },
+      {
+        "sr_no": 90,
+        "university": "Rhine-Waal University of Applied Sciences",
+        "course": "Usability Engineering"
+      },
+      {
+        "sr_no": 91,
+        "university": "Technische Hochschule Ingolstadt",
+        "course": "User Experience Design"
+      }
+    ]
+  }
