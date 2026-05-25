@@ -138,6 +138,10 @@ input[type="search"] {
   min-width: 170px;
 }
 
+.search-control input {
+  min-width: 210px;
+}
+
 .range-control {
   width: 150px;
 }

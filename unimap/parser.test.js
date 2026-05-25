@@ -14,6 +14,7 @@ import {
   getDurationSemesters,
   isBlacklisted,
   matchesDurationFilter,
+  matchesSearchFilter,
   parseUniversities,
   removeFromBlacklist,
   shouldOpenDotAfterPointer,
@@ -191,6 +192,18 @@ test("parses and filters duration by max semester count", () => {
 test("formats university id for detail display", () => {
   assert.equal(formatUniversityId({ id: "w5965" }), "w5965");
   assert.equal(formatUniversityId({ id: "" }), "Not listed");
+});
+
+test("matches search text against university and course names", () => {
+  const uni = {
+    universityName: "Stuttgart University of Applied Sciences",
+    courseName: "Software Technology",
+  };
+
+  assert.equal(matchesSearchFilter(uni, ""), true);
+  assert.equal(matchesSearchFilter(uni, "stuttgart"), true);
+  assert.equal(matchesSearchFilter(uni, "software"), true);
+  assert.equal(matchesSearchFilter(uni, "cloud"), false);
 });
 
 test("stores blacklist ids without duplicates and removes them", () => {

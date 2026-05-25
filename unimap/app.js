@@ -123,6 +123,7 @@ const state = {
   language: "all",
   feeFilter: "all",
   durationFilter: "4",
+  searchQuery: "",
   city: "",
   maxDistance: 600,
   selected: null,
@@ -291,6 +292,18 @@ export function matchesDurationFilter(uni, filterValue) {
   return duration <= maxDuration;
 }
 
+export function matchesSearchFilter(uni, query) {
+  const normalizedQuery = String(query || "").trim().toLowerCase();
+  if (!normalizedQuery) return true;
+
+  const searchableText = [uni?.universityName, uni?.courseName]
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
+
+  return searchableText.includes(normalizedQuery);
+}
+
 export function formatUniversityId(uni) {
   return uni?.id ? uni.id : "Not listed";
 }
@@ -335,6 +348,7 @@ function initApp() {
     languageFilter: document.querySelector("#language-filter"),
     feeFilter: document.querySelector("#fee-filter"),
     durationFilter: document.querySelector("#duration-filter"),
+    searchFilter: document.querySelector("#search-filter"),
     cityFilter: document.querySelector("#city-filter"),
     cityOptions: document.querySelector("#city-options"),
     distanceFilter: document.querySelector("#distance-filter"),
@@ -414,6 +428,11 @@ function setupControls() {
     applyFilters();
   });
 
+  elements.searchFilter.addEventListener("input", (event) => {
+    state.searchQuery = event.target.value;
+    applyFilters();
+  });
+
   elements.cityFilter.addEventListener("input", (event) => {
     state.city = event.target.value;
     renderMap();
@@ -430,12 +449,14 @@ function setupControls() {
     state.language = "all";
     state.feeFilter = "all";
     state.durationFilter = "4";
+    state.searchQuery = "";
     state.city = "";
     state.maxDistance = 600;
 
     elements.languageFilter.value = "all";
     elements.feeFilter.value = "all";
     elements.durationFilter.value = "4";
+    elements.searchFilter.value = "";
     elements.cityFilter.value = "";
     elements.distanceFilter.value = "600";
     elements.distanceValue.textContent = "600 km";
@@ -694,6 +715,7 @@ function applyFilters() {
   state.filtered = state.universities.filter((uni) => {
     return (
       !isBlacklisted(uni.id) &&
+      matchesSearchFilter(uni, state.searchQuery) &&
       matchesLanguage(uni) &&
       matchesFeeFilter(uni) &&
       matchesDurationFilter(uni, state.durationFilter)
