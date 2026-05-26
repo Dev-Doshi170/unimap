@@ -30,7 +30,15 @@
             <strong>Filters</strong>
             <span>Tune the map without covering it.</span>
           </div>
-          <button id="close-filter-drawer" class="close-filter-drawer" type="button" aria-label="Close filters">×</button>
+          <button
+            id="close-filter-drawer"
+            class="close-filter-drawer"
+            type="button"
+            aria-label="Close filters"
+            data-filter-drawer-close
+          >
+            ×
+          </button>
         </div>
 
         <div class="filter-grid">
@@ -137,7 +145,7 @@
 
         <div class="filter-actions">
           <button id="reset-filters" class="ghost" type="button">Reset filters</button>
-          <button id="apply-filters" class="apply-filters" type="button">Apply</button>
+          <button id="apply-filters" class="apply-filters" type="button" data-filter-drawer-close>Apply</button>
           <button id="hidden-manager-button" class="ghost hidden-manager-button is-empty" type="button">
             Hidden (<span id="hidden-count">0</span>)
           </button>
@@ -152,7 +160,14 @@
           </div>
         </div>
       </section>
-      <button id="filter-backdrop" class="filter-backdrop" type="button" aria-label="Close filters" hidden></button>
+      <button
+        id="filter-backdrop"
+        class="filter-backdrop"
+        type="button"
+        aria-label="Close filters"
+        data-filter-drawer-close
+        hidden
+      ></button>
     </header>
 
     <main class="map-stage">

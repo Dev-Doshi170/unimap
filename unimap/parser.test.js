@@ -18,6 +18,7 @@ import {
   isBlacklisted,
   getFilterDrawerAriaState,
   getMobileResultSummary,
+  isFilterDrawerCloseTarget,
   matchesDatasetFilter,
   matchesDomainFilter,
   matchesDurationFilter,
@@ -43,6 +44,23 @@ test("derives accessible drawer state for the mobile filters sheet", () => {
     expanded: "true",
     hidden: false,
   });
+});
+
+test("detects drawer close targets from delegated mobile taps", () => {
+  const closeTarget = {
+    closest(selector) {
+      return selector === "[data-filter-drawer-close]" ? this : null;
+    },
+  };
+  const regularFilterControl = {
+    closest() {
+      return null;
+    },
+  };
+
+  assert.equal(isFilterDrawerCloseTarget(closeTarget), true);
+  assert.equal(isFilterDrawerCloseTarget(regularFilterControl), false);
+  assert.equal(isFilterDrawerCloseTarget(null), false);
 });
 
 test("parses DAAD aggregate records into UniMap university objects", () => {

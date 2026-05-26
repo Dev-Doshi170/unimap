@@ -647,6 +647,10 @@ export function getFilterDrawerAriaState(isOpen) {
   };
 }
 
+export function isFilterDrawerCloseTarget(target) {
+  return Boolean(target?.closest?.("[data-filter-drawer-close]"));
+}
+
 function initApp() {
   elements = {
     map: document.querySelector("#orbit-map"),
@@ -800,9 +804,8 @@ function setupControls() {
   });
 
   elements.mobileFilterToggle.addEventListener("click", () => setFilterDrawerOpen(true));
-  elements.closeFilterDrawer.addEventListener("click", () => setFilterDrawerOpen(false));
-  elements.applyFiltersButton.addEventListener("click", () => setFilterDrawerOpen(false));
-  elements.filterBackdrop.addEventListener("click", () => setFilterDrawerOpen(false));
+  document.addEventListener("pointerup", handleFilterDrawerClose);
+  document.addEventListener("click", handleFilterDrawerClose);
 
   elements.hiddenButton.addEventListener("click", () => {
     setFilterDrawerOpen(false);
@@ -847,23 +850,24 @@ function setupControls() {
   });
 }
 
+function handleFilterDrawerClose(event) {
+  if (!state.filterDrawerOpen || !isFilterDrawerCloseTarget(event.target)) return;
+  event.preventDefault();
+  setFilterDrawerOpen(false);
+}
+
 function setFilterDrawerOpen(isOpen) {
   if (!elements.filterDrawer || !elements.mobileFilterToggle) return;
 
   state.filterDrawerOpen = Boolean(isOpen);
   const ariaState = getFilterDrawerAriaState(state.filterDrawerOpen);
-  const shouldHideDrawer = isMobileFilterLayout() ? ariaState.hidden : false;
   elements.mobileFilterToggle.setAttribute("aria-expanded", ariaState.expanded);
-  elements.filterDrawer.setAttribute("aria-hidden", String(shouldHideDrawer));
+  elements.filterDrawer.setAttribute("aria-hidden", String(ariaState.hidden));
   elements.filterDrawer.classList.toggle("open", state.filterDrawerOpen);
 
   if (elements.filterBackdrop) {
     elements.filterBackdrop.hidden = !state.filterDrawerOpen;
   }
-}
-
-function isMobileFilterLayout() {
-  return typeof window !== "undefined" && window.matchMedia("(max-width: 768px)").matches;
 }
 
 function setupZoomControls() {
