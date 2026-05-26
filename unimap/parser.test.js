@@ -5,8 +5,10 @@ import {
   addToBlacklist,
   clearBlacklist,
   CITY_COORDS,
+  classifyDomain,
   computeZoomTransform,
   computeSpreadPoint,
+  DOMAIN_MAP,
   findClusterHints,
   formatUniversityId,
   getBlacklist,
@@ -14,6 +16,10 @@ import {
   getDistance,
   getDurationSemesters,
   isBlacklisted,
+  getFilterDrawerAriaState,
+  getMobileResultSummary,
+  matchesDatasetFilter,
+  matchesDomainFilter,
   matchesDurationFilter,
   matchesSearchFilter,
   parseUniversities,
@@ -21,10 +27,29 @@ import {
   shouldOpenDotAfterPointer,
 } from "./app.js";
 
+test("formats the mobile result summary for the compact header", () => {
+  assert.equal(getMobileResultSummary(0), "0 shown");
+  assert.equal(getMobileResultSummary(1), "1 shown");
+  assert.equal(getMobileResultSummary(128), "128 shown");
+  assert.equal(getMobileResultSummary(Number.NaN), "0 shown");
+});
+
+test("derives accessible drawer state for the mobile filters sheet", () => {
+  assert.deepEqual(getFilterDrawerAriaState(false), {
+    expanded: "false",
+    hidden: true,
+  });
+  assert.deepEqual(getFilterDrawerAriaState(true), {
+    expanded: "true",
+    hidden: false,
+  });
+});
+
 test("parses DAAD aggregate records into UniMap university objects", () => {
   const rawData = [
     {
       fileId: "w5965",
+      dataset: "universities",
       data: {
         page: {
           sections: {
@@ -106,6 +131,9 @@ test("parses DAAD aggregate records into UniMap university objects", () => {
   const [uni] = parseUniversities(rawData);
 
   assert.equal(uni.id, "w5965");
+  assert.equal(uni.dataset, "universities");
+  assert.equal(uni.domain, "Software Engineering / Development");
+  assert.equal(uni.domainScore, 95);
   assert.equal(uni.courseName, "Software Technology");
   assert.equal(uni.universityName, "Stuttgart University of Applied Sciences");
   assert.equal(uni.city, "Stuttgart");
@@ -124,6 +152,66 @@ test("parses DAAD aggregate records into UniMap university objects", () => {
   assert.equal(uni.admissionRequirements, "Bachelor's degree Professional experience preferred");
   assert.equal(uni.studyType, "graduate");
   assert.equal(uni.isFree, true);
+});
+
+test("defaults missing dataset metadata to applied sciences", () => {
+  const rawData = [
+    {
+      fileId: "w5965",
+      data: {
+        page: {
+          sections: {
+            main: {
+              mainContent: [
+                {
+                  modules: [
+                    {
+                      data: {
+                        head: { title: "Legacy Programme" },
+                        content: [],
+                        sidebar: [],
+                      },
+                    },
+                  ],
+                },
+              ],
+            },
+          },
+        },
+      },
+    },
+  ];
+
+  const [uni] = parseUniversities(rawData);
+
+  assert.equal(uni.dataset, "applied_sciences");
+});
+
+test("classifies course domains using the exact priority map", () => {
+  assert.equal(DOMAIN_MAP.at(-1).domain, "Other / Unclassified");
+  assert.deepEqual(classifyDomain("MSc Cloud Computing"), {
+    domain: "Cloud Computing / DevOps",
+    domainScore: 100,
+  });
+  assert.deepEqual(classifyDomain("Mathematics of Machine Learning"), {
+    domain: "Machine Learning (ML)",
+    domainScore: 83,
+  });
+  assert.deepEqual(classifyDomain("Human-Computer Interaction"), {
+    domain: "Human-Computer Interaction / UX",
+    domainScore: 35,
+  });
+  assert.deepEqual(classifyDomain("Public Administration"), {
+    domain: "Other / Unclassified",
+    domainScore: 10,
+  });
+});
+
+test("matches domain filter values", () => {
+  const uni = { domain: "Cloud Computing / DevOps" };
+  assert.equal(matchesDomainFilter(uni, "all"), true);
+  assert.equal(matchesDomainFilter(uni, "Cloud Computing / DevOps"), true);
+  assert.equal(matchesDomainFilter(uni, "Software Engineering / Development"), false);
 });
 
 test("resolves German city aliases and computes haversine distance", () => {
@@ -196,6 +284,13 @@ test("parses and filters duration by max semester count", () => {
   assert.equal(matchesDurationFilter({ duration: "5 semesters" }, "4"), false);
   assert.equal(matchesDurationFilter({ duration: "" }, "4"), true);
   assert.equal(matchesDurationFilter({ duration: "5 semesters" }, "all"), true);
+});
+
+test("matches dataset filter values", () => {
+  assert.equal(matchesDatasetFilter({ dataset: "applied_sciences" }, "all"), true);
+  assert.equal(matchesDatasetFilter({ dataset: "applied_sciences" }, "applied_sciences"), true);
+  assert.equal(matchesDatasetFilter({ dataset: "universities" }, "applied_sciences"), false);
+  assert.equal(matchesDatasetFilter({ dataset: "universities" }, "universities"), true);
 });
 
 test("formats university id for detail display", () => {

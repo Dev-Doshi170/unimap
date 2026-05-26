@@ -1,0 +1,16 @@
+{
+  "applied_sciences": {
+    "name": "Universities of Applied Sciences",
+    "outputDir": "output/applied_sciences",
+    "listUrl": "https://api.daad.de/api/ajax/hsk/list/en?hec-teachingLanguage=2&hec-s=bneu&hec-degreeProgrammeType=w&hec-subjectGroup=2-226,2-229,2-232,2-233,2-234,2-236,2-404,2-547,2-548&hec-degreeType=37&hec-limit=100&hec-institutionType=2",
+    "detailBaseUrl": "https://api.daad.de/api/ajax/hsk/detail/en?hec-id=",
+    "daadBaseUrl": "https://www.daad.de"
+  },
+  "universities": {
+    "name": "Universities",
+    "outputDir": "output/universities",
+    "listUrl": "https://api.daad.de/api/ajax/hsk/list/en?hec-teachingLanguage=2&hec-s=bneu&hec-degreeProgrammeType=w&hec-subjectGroup=2-226,2-229,2-232,2-233,2-234,2-236,2-404,2-547,2-548&hec-degreeType=37&hec-limit=100&hec-institutionType=1",
+    "detailBaseUrl": "https://api.daad.de/api/ajax/hsk/detail/en?hec-id=",
+    "daadBaseUrl": "https://www.daad.de"
+  }
+}

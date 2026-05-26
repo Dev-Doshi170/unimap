@@ -1,0 +1,2041 @@
+{
+  "docId": "29557",
+  "request": {
+    "requestId": "8f3c79ba-58c8-11f1-981c-aa0007046693",
+    "apiVersion": "v1.0.0"
+  },
+  "meta": {
+    "title": "Study \"Data Science in Sports and Health\" (Master) in Germany - TU Dortmund University - DAAD",
+    "rawTitle": "Study \"Data Science in Sports and Health\" (Master) in Germany - TU Dortmund University - DAAD",
+    "shortTitle": "Study programme",
+    "category": {
+      "nodeId": "/2/3/28708/28709/29553/29556/29557",
+      "path": "unknown"
+    },
+    "imperia": {
+      "publishDate": "03.02.2026",
+      "oneClickEditTag": "<meta name=\"X-Imperia-Live-Info\" content=\"4a32c7ae-a27a-98ff-cf3b-864200a99063/2/3/28708/28709/29553/29556/29557-/daad_de/de/in-deutschland-studieren/hochschulen/alle-studiengaenge/detail/docs_29557/index.xml.en\" />",
+      "imperiaId": "unknown"
+    },
+    "language": "en",
+    "languageSwitchTarget": [
+      {
+        "language": "de",
+        "url": "/de/in-deutschland-studieren/hochschulen/alle-studiengaenge/detail/technische-universitaet-dortmund-data-science-in-sports-and-health-w73395/?hec-id=w73395",
+        "docId": "",
+        "active": false,
+        "notAvailable": false
+      },
+      {
+        "language": "en",
+        "url": "",
+        "docId": "",
+        "active": true,
+        "notAvailable": false
+      }
+    ],
+    "metaTags": {
+      "meta": [
+        {
+          "name": "keywords",
+          "property": "keywords",
+          "content": "compass, courses of study, study programmes, courses, Higher Education Compass, education"
+        },
+        {
+          "name": "description",
+          "property": "description",
+          "content": "Are you interested in studying \"Data Science in Sports and Health\" (Master) in Germany? Find the right degree programme among over 21,000 courses in Germany"
+        },
+        {
+          "name": "og:description",
+          "property": "og:description",
+          "content": "Are you interested in studying \"Data Science in Sports and Health\" (Master) in Germany? Find the right degree programme among over 21,000 courses in Germany"
+        },
+        {
+          "name": "og:image",
+          "property": "og:image",
+          "content": "https://api.daad.de/api/imagefp/og/0/0/media/daad_de/hochschulkompass.jpg"
+        },
+        {
+          "name": "og:title",
+          "property": "og:title",
+          "content": "Study \"Data Science in Sports and Health\" (Master) in Germany - TU Dortmund University - DAAD"
+        },
+        {
+          "name": "og:url",
+          "property": "og:url",
+          "content": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-data-science-in-sports-and-health-w73395/?hec-id=w73395"
+        },
+        {
+          "name": "og:site_name",
+          "property": "og:site_name",
+          "content": "www.daad.de"
+        },
+        {
+          "name": "og:locale",
+          "property": "og:locale",
+          "content": "en"
+        },
+        {
+          "name": "og:type",
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "name": "X-Imperia-Live-Info",
+          "property": "X-Imperia-Live-Info",
+          "content": "4a32c7ae-a27a-98ff-cf3b-864200a99063/2/3/28708/28709/29553/29556/29557-/daad_de/de/in-deutschland-studieren/hochschulen/alle-studiengaenge/detail/docs_29557/index.xml.en"
+        },
+        {
+          "name": "format-detection",
+          "property": "format-detection",
+          "content": "telephone=no"
+        }
+      ],
+      "link": [
+        {
+          "rel": "copyright",
+          "href": "/de/imprint/",
+          "type": "text/html",
+          "title": "Imprint"
+        },
+        {
+          "rel": "help",
+          "href": "/en/help/",
+          "type": "text/html",
+          "title": "Help"
+        },
+        {
+          "rel": "start",
+          "href": "/en/",
+          "type": "text/html",
+          "title": "Homepage"
+        },
+        {
+          "rel": "contents",
+          "href": "/en/overview/",
+          "type": "text/html",
+          "title": "Overview"
+        },
+        {
+          "rel": "canonical",
+          "href": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-data-science-in-sports-and-health-w73395/?hec-id=w73395"
+        }
+      ]
+    },
+    "url": "/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-data-science-in-sports-and-health-w73395/",
+    "allowRedirect": true,
+    "canonicalUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-data-science-in-sports-and-health-w73395/?hec-id=w73395",
+    "lastModified": {
+      "date": "03.02.2026",
+      "show": false
+    },
+    "ldJson": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@id": "/en/",
+              "name": "Homepage"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@id": "/en/studying-in-germany/",
+              "name": "Study and Research in Germany"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@id": "/en/studying-in-germany/universities/",
+              "name": "Universities & Programmes"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@id": "/en/studying-in-germany/universities/all-degree-programmes/",
+              "name": "All Study Programmes"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@id": "/en/studying-in-germany/universities/all-degree-programmes/detail/",
+              "name": "Study programme"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "page": {
+    "navigation": {
+      "type": "html",
+      "data": [],
+      "html": "<h2 class=\"aural\">Hauptnavigation</h2>",
+      "text": ""
+    },
+    "template": "daad_database",
+    "sections": {
+      "header": {
+        "breadcrumb": [
+          {
+            "link": "/en/",
+            "title": "Homepage"
+          },
+          {
+            "link": "/en/studying-in-germany/",
+            "title": "Study and Research in Germany"
+          },
+          {
+            "link": "/en/studying-in-germany/universities/",
+            "title": "Universities & Programmes"
+          },
+          {
+            "link": "/en/studying-in-germany/universities/all-degree-programmes/",
+            "title": "All Study Programmes"
+          },
+          {
+            "link": "/en/studying-in-germany/universities/all-degree-programmes/detail/",
+            "title": "Study programme",
+            "current": true
+          }
+        ],
+        "metaNavigation": {
+          "data": {
+            "id": "meta-nav",
+            "label": "Metanavigation",
+            "links": [
+              {
+                "href": "/en/the-daad/contact/",
+                "type": "internal",
+                "text": "Contact"
+              }
+            ]
+          },
+          "type": "data"
+        },
+        "accessibilityNavigation": {
+          "data": {
+            "id": "accessibility-nav",
+            "label": "Language switcher (content)",
+            "links": [
+              {
+                "href": "/en/sign-language/",
+                "type": "internal",
+                "text": "Sign Language",
+                "icon": "hand"
+              }
+            ]
+          },
+          "type": "data"
+        },
+        "search": {
+          "searchRoute": "/en/search/",
+          "searchParam": "s-q",
+          "autoCompleteRoute": "/api/ajax/search/suggest/en"
+        },
+        "navigation": {
+          "type": "html",
+          "data": [],
+          "html": "",
+          "text": ""
+        },
+        "modules": []
+      },
+      "main": {
+        "mainContent": [
+          {
+            "type": "default",
+            "id": "main-content-block-1",
+            "modules": [
+              {
+                "id": "hochschulkompass_1100_0",
+                "name": "DAAD Hochschulkompass",
+                "template": "db_detail",
+                "ordernumber": "0",
+                "data": {
+                  "resultId": "w73395",
+                  "pageParameterName": "hec-p",
+                  "idParameterName": "hec-id",
+                  "offsetParameterName": "hec-offset",
+                  "fetchOffsetParameterName": "hec-fetch-offset",
+                  "url": "/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-data-science-in-sports-and-health-w73395/?hec-id=w73395",
+                  "listLink": {
+                    "url": "/en/studying-in-germany/universities/all-degree-programmes/",
+                    "type": "internal",
+                    "text": "Back to overview",
+                    "targetDescription": "",
+                    "additionalText": "",
+                    "page": null
+                  },
+                  "degreeType": "Master",
+                  "prevCourseLink": null,
+                  "nextCourseLink": null,
+                  "stickyNav": {
+                    "title": "Content navigation",
+                    "items": [
+                      {
+                        "id": "hsk-detail-overview",
+                        "label": "Overview and admission"
+                      },
+                      {
+                        "id": "hsk-detail-deadlines",
+                        "label": "Application deadlines"
+                      },
+                      {
+                        "id": "hsk-detail-fees",
+                        "label": "Tuition fee"
+                      },
+                      {
+                        "id": "hsk-detail-languages",
+                        "label": "Languages of instruction"
+                      }
+                    ]
+                  },
+                  "theme": "hsk",
+                  "head": {
+                    "title": "Data Science in Sports and Health",
+                    "subline": "full time"
+                  },
+                  "keyFacts": {
+                    "type": "keyFacts",
+                    "data": {
+                      "items": [
+                        {
+                          "icon": "degree",
+                          "name": "Degree",
+                          "text": [
+                            "Master of Science",
+                            "Master"
+                          ]
+                        },
+                        {
+                          "icon": "duration",
+                          "name": "Standard period of study (amount)",
+                          "text": "4 semesters"
+                        },
+                        {
+                          "icon": "location",
+                          "name": "Location",
+                          "text": "Dortmund"
+                        },
+                        {
+                          "icon": "deadline",
+                          "name": "Deadlines",
+                          "text": [
+                            "July 2026 (Non-EU)",
+                            "<a href=\"#hsk-detail-deadlines\" class=\"js-link\" data-href=\"#hsk-detail-deadlines\" data-type=\"internal\" data-text=\"Please enquire\" data-has-icon=\"true\">Please enquire</a>"
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "content": [
+                    {
+                      "type": "contentList",
+                      "data": {
+                        "icon": "overview",
+                        "headline": "Overview and admission",
+                        "id": "hsk-detail-overview"
+                      },
+                      "blocks": [
+                        {
+                          "type": "text",
+                          "data": {
+                            "headline": "Study Type",
+                            "text": "graduate"
+                          }
+                        },
+                        {
+                          "type": "text",
+                          "data": {
+                            "headline": "Admission semester",
+                            "text": "Winter Semester only"
+                          }
+                        },
+                        {
+                          "type": "unorderedList",
+                          "data": {
+                            "headline": "Area of study",
+                            "items": [
+                              "Sport",
+                              "Sport Science",
+                              "Applied Computer Science",
+                              "Applied Mathematics",
+                              "Statistics",
+                              "Human Medicine"
+                            ]
+                          }
+                        },
+                        {
+                          "type": "text",
+                          "data": {
+                            "headline": "Focus",
+                            "text": "Sports Science, Sports Medicine, Kinesiology, Training Science, Statistics, Mathematics, Computer Science"
+                          }
+                        },
+                        {
+                          "type": "textWithLink",
+                          "data": {
+                            "headline": "Admission modus",
+                            "text": "Without admission restriction",
+                            "link": {
+                              "url": "https://www.tu-dortmund.de/studieninteressierte/bewerbung-und-einschreibung/einschreibvoraussetzungen/master-1-fach/",
+                              "type": "external",
+                              "text": "More information regarding admission requirements",
+                              "targetDescription": "",
+                              "additionalText": ""
+                            }
+                          }
+                        },
+                        {
+                          "type": "text",
+                          "data": {
+                            "headline": "Admission requirements",
+                            "text": "Please note the special enrolment requirements for Master's degree courses at the TU Dortmund University."
+                          }
+                        },
+                        {
+                          "type": "unorderedList",
+                          "data": {
+                            "headline": "Lecture period",
+                            "items": [
+                              "13.04.2026 - 24.07.2026",
+                              "12.10.2026 - 05.02.2027"
+                            ]
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "contentList",
+                      "data": {
+                        "icon": "deadlines",
+                        "headline": "Application deadlines",
+                        "id": "hsk-detail-deadlines"
+                      },
+                      "blocks": [
+                        {
+                          "type": "deadlines",
+                          "data": {
+                            "headline": "Winter semester (2026/2027)",
+                            "items": [
+                              {
+                                "headline": "Application deadline for Germans and inhabitants",
+                                "deadline": "The deadlines vary depending on the degree course. For more information, please check the website: <a href=\"https://www.tu-dortmund.de/fristen\" class=\"js-link\" data-has-icon=\"true\" data-type=\"external\">www.tu-dortmund.de/fristen</a>",
+                                "comment": null
+                              },
+                              {
+                                "headline": "Deadlines for International Students from the European Union",
+                                "deadline": "The application deadline for Master's degree courses varies depending on the degree course. For more information please visit our website:\n<a href=\"https://www.international.tu-dortmund.de/bewerbung\" class=\"js-link\" data-has-icon=\"true\" data-type=\"external\">www.international.tu-dortmund.de/bewerbung</a>\n<a href=\"https://www.international.tu-dortmund.de/en/application\" class=\"js-link\" data-has-icon=\"true\" data-type=\"external\">www.international.tu-dortmund.de/en/application</a>",
+                                "comment": null
+                              },
+                              {
+                                "headline": "Enrollment deadline for Germans and foreign students",
+                                "deadline": "The deadlines vary depending on the degree course. For more information, please check the website: <a href=\"https://www.tu-dortmund.de/fristen\" class=\"js-link\" data-has-icon=\"true\" data-type=\"external\">www.tu-dortmund.de/fristen</a>",
+                                "comment": null
+                              },
+                              {
+                                "headline": "Deadlines for international students from countries that are not members of the European Union",
+                                "deadline": "15.03.2026 - 15.07.2026",
+                                "comment": "The application deadline for Master's degree courses varies depending on the degree course. For more information, please see our website:\n<a href=\"https://www.international.tu-dortmund.de/bewerbungwww.international.tu-dortmund.de/en/application\" class=\"js-link\" data-has-icon=\"true\" data-type=\"external\">www.international.tu-dortmund.de/bewerbungwww.international.tu-dortmund.de/en/application</a>\n\n\nThe application periods for some Master’s degree programmes differ from the application period mentioned. You can find the separate application period at: <a href=\"https://international.tu-dortmund.de/en/international-applicants/application/master/application-information-for-non-eu/eea-nationals/\" class=\"js-link\" data-has-icon=\"true\" data-type=\"external\">https://international.tu-dortmund.de/en/international-applicants/application/master/application-information-for-non-eu/eea-nationals/</a>"
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "contentList",
+                      "data": {
+                        "icon": "fees",
+                        "headline": "Tuition fees",
+                        "id": "hsk-detail-fees"
+                      },
+                      "blocks": [
+                        {
+                          "type": "text",
+                          "data": {
+                            "headline": "Tuition fees",
+                            "text": "No tuition fees are charged. In accordance with the registration regulations, students are required to pay a semester contribution every semester for enrolment and re-registration."
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "contentList",
+                      "data": {
+                        "icon": "languages",
+                        "headline": "Languages of instruction",
+                        "id": "hsk-detail-languages"
+                      },
+                      "blocks": [
+                        {
+                          "type": "text",
+                          "data": {
+                            "headline": "Main language",
+                            "text": "English"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "sidebar": [
+                    {
+                      "type": "sidebarHead",
+                      "data": {
+                        "universityName": "TU Dortmund University",
+                        "universityTown": "Dortmund",
+                        "universityFederalState": "North Rhine-Westphalia",
+                        "logo": {
+                          "src": {
+                            "large": {
+                              "href": "https://api.daad.de/api/image/hsk/hsklogolrg/image/logo/51.png",
+                              "width": 576,
+                              "height": 324
+                            },
+                            "medium": {
+                              "href": "https://api.daad.de/api/image/hsk/hsklogolrg/image/logo/51.png",
+                              "width": 576,
+                              "height": 324
+                            },
+                            "small": {
+                              "href": "https://api.daad.de/api/image/hsk/hsklogolrg/image/logo/51.png",
+                              "width": 576,
+                              "height": 324
+                            }
+                          },
+                          "alt": "TU Dortmund University"
+                        },
+                        "link": {
+                          "url": "https://www.tu-dortmund.de/studierende/studienangebot/master/data-science-in-sports-and-health-926/",
+                          "type": "external",
+                          "text": "Website",
+                          "targetDescription": "",
+                          "additionalText": "",
+                          "srText": "TU Dortmund University - Data Science in Sports and Health"
+                        }
+                      }
+                    },
+                    {
+                      "type": "contactList",
+                      "data": {
+                        "headline": "Student advisory service"
+                      },
+                      "blocks": [
+                        {
+                          "type": "contact",
+                          "data": {
+                            "headline": "Zentrale Studienberatung",
+                            "address": "Emil-Figge-Straße 61",
+                            "city": "Dortmund",
+                            "zip": "44221",
+                            "phone": "0231 / 755-2345",
+                            "fax": "0231 / 755-3187",
+                            "email": {
+                              "url": "mailto:RVVmU3NGbWJvOFI1NlhtaDg3dHg3SytS",
+                              "type": "email",
+                              "text": "zsb<span aria-hidden=\"true\" class=\"u-at-icon\"></span><span class=\"sr-only\" lang=\"en\"> at </span>tu-dortmund.de",
+                              "targetDescription": "",
+                              "additionalText": ""
+                            },
+                            "link": {
+                              "url": "https://www.tu-dortmund.de/beratung",
+                              "type": "external",
+                              "text": "To the student advisory service",
+                              "targetDescription": "",
+                              "additionalText": ""
+                            }
+                          },
+                          "blocks": [
+                            {
+                              "type": "contactPerson",
+                              "data": {
+                                "headline": null,
+                                "name": null,
+                                "phone": null,
+                                "fax": null,
+                                "email": null
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "contactList",
+                      "data": {
+                        "headline": "International office"
+                      },
+                      "blocks": [
+                        {
+                          "type": "contact",
+                          "data": {
+                            "headline": "Referat Internationales , \nInternational Office\n\nZulassungsbereich , \nAdmissions & Enrollment \nOffice",
+                            "address": "Emil-Figge-Straße 61",
+                            "city": "Dortmund",
+                            "zip": "44227",
+                            "phone": "0231 / 755-6349",
+                            "fax": null,
+                            "email": {
+                              "url": "mailto:Q2xEZG1WNmQ1ODk0dFdTaTk2QjhzS0tSMEZWU0pFREt1SGJEeUtXbEVTUWdrdz09",
+                              "type": "email",
+                              "text": "admission.inquiries<span aria-hidden=\"true\" class=\"u-at-icon\"></span><span class=\"sr-only\" lang=\"en\"> at </span>tu-dortmund.de",
+                              "targetDescription": "",
+                              "additionalText": ""
+                            },
+                            "link": {
+                              "url": "https://international.tu-dortmund.de/studienbewerber/-innen/",
+                              "type": "external",
+                              "text": "To the international office",
+                              "targetDescription": "",
+                              "additionalText": ""
+                            }
+                          },
+                          "blocks": [
+                            {
+                              "type": "contactPerson",
+                              "data": {
+                                "headline": null,
+                                "name": null,
+                                "phone": null,
+                                "fax": null,
+                                "email": null
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "footer": [
+                    {
+                      "type": "furtherResults",
+                      "data": {
+                        "headline": "Further study programmes",
+                        "ajaxRoute": "/api/ajax/hsk/further-results/en?hec-id=w73395",
+                        "id": "hsk-detail-further-results"
+                      },
+                      "blocks": [
+                        {
+                          "type": "furtherResult",
+                          "data": {
+                            "id": "w65071",
+                            "logo": {
+                              "src": {
+                                "large": {
+                                  "href": "https://api.daad.de/api/image/hsk/hsklogosml/image/logo/51.png",
+                                  "width": 120,
+                                  "height": 67
+                                },
+                                "medium": {
+                                  "href": "https://api.daad.de/api/image/hsk/hsklogosml/image/logo/51.png",
+                                  "width": 120,
+                                  "height": 67
+                                },
+                                "small": {
+                                  "href": "https://api.daad.de/api/image/hsk/hsklogosml/image/logo/51.png",
+                                  "width": 120,
+                                  "height": 67
+                                }
+                              },
+                              "alt": "TU Dortmund University"
+                            },
+                            "link": {
+                              "url": "/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-advanced-methods-in-particle-physics-w65071/?hec-id=w65071",
+                              "type": "internal",
+                              "text": "More",
+                              "targetDescription": "",
+                              "additionalText": "",
+                              "srText": "More about Advanced Methods in Particle Physics"
+                            },
+                            "items": [
+                              {
+                                "icon": "degree",
+                                "name": "Degree",
+                                "text": "Master"
+                              },
+                              {
+                                "icon": "duration",
+                                "name": "Standard Period of Study",
+                                "text": "4 semesters"
+                              },
+                              {
+                                "icon": "location",
+                                "name": "Location",
+                                "text": "Dortmund"
+                              },
+                              {
+                                "icon": "studyType",
+                                "name": "Study Mode",
+                                "text": "international course, full time"
+                              },
+                              {
+                                "icon": "deadline",
+                                "name": "Deadlines",
+                                "text": [
+                                  "July 2026 (Non-EU)",
+                                  "<a href=\"/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-advanced-methods-in-particle-physics-w65071/?hec-id=w65071#hsk-detail-deadlines\" class=\"js-link\" data-href=\"/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-advanced-methods-in-particle-physics-w65071/?hec-id=w65071#hsk-detail-deadlines\" data-type=\"internal\" data-text=\"Please enquire\" data-has-icon=\"true\">Please enquire</a>"
+                                ]
+                              }
+                            ],
+                            "headline": "Advanced Methods in Particle Physics",
+                            "subline": "TU Dortmund University"
+                          }
+                        },
+                        {
+                          "type": "furtherResult",
+                          "data": {
+                            "id": "g2330",
+                            "logo": {
+                              "src": {
+                                "large": {
+                                  "href": "https://api.daad.de/api/image/hsk/hsklogosml/image/logo/51.png",
+                                  "width": 120,
+                                  "height": 67
+                                },
+                                "medium": {
+                                  "href": "https://api.daad.de/api/image/hsk/hsklogosml/image/logo/51.png",
+                                  "width": 120,
+                                  "height": 67
+                                },
+                                "small": {
+                                  "href": "https://api.daad.de/api/image/hsk/hsklogosml/image/logo/51.png",
+                                  "width": 120,
+                                  "height": 67
+                                }
+                              },
+                              "alt": "TU Dortmund University"
+                            },
+                            "link": {
+                              "url": "/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-applied-computer-science-g2330/?hec-id=g2330",
+                              "type": "internal",
+                              "text": "More",
+                              "targetDescription": "",
+                              "additionalText": "",
+                              "srText": "More about Applied Computer Science"
+                            },
+                            "items": [
+                              {
+                                "icon": "degree",
+                                "name": "Degree",
+                                "text": "Bachelor"
+                              },
+                              {
+                                "icon": "duration",
+                                "name": "Standard Period of Study",
+                                "text": "6 semesters"
+                              },
+                              {
+                                "icon": "location",
+                                "name": "Location",
+                                "text": "Dortmund"
+                              },
+                              {
+                                "icon": "studyType",
+                                "name": "Study Mode",
+                                "text": "full time"
+                              },
+                              {
+                                "icon": "deadline",
+                                "name": "Deadlines",
+                                "text": [
+                                  "October 2026 (Germans and inhabitants)",
+                                  "October 2026 (EU)",
+                                  "July 2026 (Non-EU)",
+                                  "<a href=\"/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-applied-computer-science-g2330/?hec-id=g2330#hsk-detail-deadlines\" class=\"js-link\" data-href=\"/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-applied-computer-science-g2330/?hec-id=g2330#hsk-detail-deadlines\" data-type=\"internal\" data-text=\"Please enquire\" data-has-icon=\"true\">Please enquire</a>"
+                                ]
+                              }
+                            ],
+                            "headline": "Applied Computer Science",
+                            "subline": "TU Dortmund University"
+                          }
+                        },
+                        {
+                          "type": "furtherResult",
+                          "data": {
+                            "id": "w20215",
+                            "logo": {
+                              "src": {
+                                "large": {
+                                  "href": "https://api.daad.de/api/image/hsk/hsklogosml/image/logo/51.png",
+                                  "width": 120,
+                                  "height": 67
+                                },
+                                "medium": {
+                                  "href": "https://api.daad.de/api/image/hsk/hsklogosml/image/logo/51.png",
+                                  "width": 120,
+                                  "height": 67
+                                },
+                                "small": {
+                                  "href": "https://api.daad.de/api/image/hsk/hsklogosml/image/logo/51.png",
+                                  "width": 120,
+                                  "height": 67
+                                }
+                              },
+                              "alt": "TU Dortmund University"
+                            },
+                            "link": {
+                              "url": "/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-applied-computer-science-w20215/?hec-id=w20215",
+                              "type": "internal",
+                              "text": "More",
+                              "targetDescription": "",
+                              "additionalText": "",
+                              "srText": "More about Applied Computer Science"
+                            },
+                            "items": [
+                              {
+                                "icon": "degree",
+                                "name": "Degree",
+                                "text": "Master"
+                              },
+                              {
+                                "icon": "duration",
+                                "name": "Standard Period of Study",
+                                "text": "4 semesters"
+                              },
+                              {
+                                "icon": "location",
+                                "name": "Location",
+                                "text": "Dortmund"
+                              },
+                              {
+                                "icon": "studyType",
+                                "name": "Study Mode",
+                                "text": "full time"
+                              },
+                              {
+                                "icon": "deadline",
+                                "name": "Deadlines",
+                                "text": [
+                                  "July 2026 (Non-EU)",
+                                  "<a href=\"/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-applied-computer-science-w20215/?hec-id=w20215#hsk-detail-deadlines\" class=\"js-link\" data-href=\"/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-applied-computer-science-w20215/?hec-id=w20215#hsk-detail-deadlines\" data-type=\"internal\" data-text=\"Please enquire\" data-has-icon=\"true\">Please enquire</a>"
+                                ]
+                              }
+                            ],
+                            "headline": "Applied Computer Science",
+                            "subline": "TU Dortmund University"
+                          }
+                        },
+                        {
+                          "type": "furtherResult",
+                          "data": {
+                            "id": "w6791",
+                            "logo": {
+                              "src": {
+                                "large": {
+                                  "href": "https://api.daad.de/api/image/hsk/hsklogosml/image/logo/51.png",
+                                  "width": 120,
+                                  "height": 67
+                                },
+                                "medium": {
+                                  "href": "https://api.daad.de/api/image/hsk/hsklogosml/image/logo/51.png",
+                                  "width": 120,
+                                  "height": 67
+                                },
+                                "small": {
+                                  "href": "https://api.daad.de/api/image/hsk/hsklogosml/image/logo/51.png",
+                                  "width": 120,
+                                  "height": 67
+                                }
+                              },
+                              "alt": "TU Dortmund University"
+                            },
+                            "link": {
+                              "url": "/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-applied-linguistics-w6791/?hec-id=w6791",
+                              "type": "internal",
+                              "text": "More",
+                              "targetDescription": "",
+                              "additionalText": "",
+                              "srText": "More about Applied Linguistics"
+                            },
+                            "items": [
+                              {
+                                "icon": "degree",
+                                "name": "Degree",
+                                "text": "Master"
+                              },
+                              {
+                                "icon": "duration",
+                                "name": "Standard Period of Study",
+                                "text": "3 semesters"
+                              },
+                              {
+                                "icon": "location",
+                                "name": "Location",
+                                "text": "Dortmund"
+                              },
+                              {
+                                "icon": "studyType",
+                                "name": "Study Mode",
+                                "text": "full time"
+                              },
+                              {
+                                "icon": "deadline",
+                                "name": "Deadlines",
+                                "text": [
+                                  "July 2026 (Non-EU)",
+                                  "<a href=\"/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-applied-linguistics-w6791/?hec-id=w6791#hsk-detail-deadlines\" class=\"js-link\" data-href=\"/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-applied-linguistics-w6791/?hec-id=w6791#hsk-detail-deadlines\" data-type=\"internal\" data-text=\"Please enquire\" data-has-icon=\"true\">Please enquire</a>"
+                                ]
+                              }
+                            ],
+                            "headline": "Applied Linguistics",
+                            "subline": "TU Dortmund University"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "disclaimer",
+                      "data": {
+                        "text": "<p>These data have been kindly made available to the DAAD by the <a href=\"https://www.hrk.de/home/\" class=\"js-link\" data-href=\"https://www.hrk.de/home/\" data-has-icon=\"true\" data-text=\"German Rectors' Conference\" data-type=\"external\">German Rectors' Conference</a>. If you have any questions, this <a href=\"https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/daad_angebote_zum_studium_in_deutschland.pdf\" class=\"js-link\" data-href=\"https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/daad_angebote_zum_studium_in_deutschland.pdf\" data-has-icon=\"true\" data-text=\"overview of the DAAD's services\" data-type=\"external\">overview of the DAAD's services</a> will help you (in German only).</p>"
+                      }
+                    }
+                  ]
+                },
+                "isFirst": true,
+                "forceShowFullWidth": true,
+                "forceTitle": "Study \"Data Science in Sports and Health\" (Master) in Germany - TU Dortmund University - DAAD",
+                "forceLanguageSwitchUrl": {
+                  "language": "de",
+                  "url": "/de/in-deutschland-studieren/hochschulen/alle-studiengaenge/detail/technische-universitaet-dortmund-data-science-in-sports-and-health-w73395/?hec-id=w73395"
+                },
+                "forceMetaTags": [
+                  {
+                    "name": "description",
+                    "content": "Are you interested in studying \"Data Science in Sports and Health\" (Master) in Germany? Find the right degree programme among over 21,000 courses in Germany"
+                  }
+                ],
+                "forceCanonical": "/en/studying-in-germany/universities/all-degree-programmes/detail/tu-dortmund-university-data-science-in-sports-and-health-w73395/?hec-id=w73395",
+                "lazy": false,
+                "ssr": true
+              }
+            ]
+          },
+          {
+            "type": "footer",
+            "id": "main-content-block-2",
+            "modules": []
+          }
+        ],
+        "bottomContent": []
+      },
+      "footer": {
+        "navigation": {
+          "data": {
+            "id": "footer-nav-1",
+            "label": "Servicenavigation",
+            "links": [
+              {
+                "href": "/en/imprint/",
+                "type": "internal",
+                "text": "Imprint",
+                "icon": ""
+              },
+              {
+                "href": "/en/data-privacy-statement/",
+                "type": "internal",
+                "text": "Data Privacy Statement",
+                "icon": ""
+              },
+              {
+                "href": "#",
+                "type": "cookie-consent",
+                "text": "Cookies",
+                "icon": ""
+              },
+              {
+                "href": "/en/declaration-on-accessibility/",
+                "type": "internal",
+                "text": "Declaration on accessibility",
+                "icon": ""
+              },
+              {
+                "href": "/en/report-an-accessibility-issue/",
+                "type": "report-barrier",
+                "text": "Report accessibility issue",
+                "icon": ""
+              },
+              {
+                "href": "/en/sign-language/",
+                "type": "internal",
+                "text": "Sign Language",
+                "icon": "hand"
+              }
+            ]
+          }
+        },
+        "socialMediaLinks": {
+          "headline": "Links to the Social Media",
+          "links": [
+            {
+              "href": "https://www.facebook.com/DAAD.Worldwide/",
+              "text": "Visit DAAD on Facebook",
+              "type": "external",
+              "icon": "facebook"
+            },
+            {
+              "href": "https://www.threads.net/@daad_worldwide",
+              "text": "Visit DAAD on Threads",
+              "type": "external",
+              "icon": "threads"
+            },
+            {
+              "href": "https://www.youtube.com/channel/UC2OducLYmtJGJ0zTCNr7NrA",
+              "text": "Visit DAAD on YouTube",
+              "type": "external",
+              "icon": "youtube"
+            },
+            {
+              "href": "https://www.instagram.com/daad_worldwide/",
+              "text": "Visit DAAD on Instagram",
+              "type": "external",
+              "icon": "instagram"
+            },
+            {
+              "href": "https://www.linkedin.com/school/daad-worldwide",
+              "text": "Visit DAAD on LinkedIn",
+              "type": "external",
+              "icon": "linkedin"
+            },
+            {
+              "href": "https://bsky.app/profile/daadworldwide.bsky.social",
+              "text": "Visit DAAD on Bluesky",
+              "type": "external",
+              "icon": "bluesky"
+            }
+          ]
+        },
+        "modules": [
+          {
+            "id": "mega_footer",
+            "template": "column_content",
+            "data": {
+              "items": [
+                {
+                  "headline": "Address",
+                  "content": [
+                    {
+                      "id": "mega_footer_iwe1",
+                      "template": "iwe_editor",
+                      "data": {
+                        "html": "<p>Deutscher Akademischer Austauschdienst e.V.<br>\nKennedyallee 50<br>\n53175 Bonn</p>\n\n<p>Germany</p>\n\n<p><a class=\"js-link\" href=\"/en/the-daad/map/daad-network/\" data-has-icon=\"true\" data-type=\"internal\">All addresses in the DAAD Network</a></p> <!--parsed iweplugins:7-->"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "headline": "DAAD Newsletters",
+                  "content": [
+                    {
+                      "id": "mega_footer_newsletter",
+                      "template": "iwe_editor",
+                      "data": {
+                        "html": "<p>Receive regular up-to-date information about our work and organisation.</p><p><a href=\"/en/the-daad/communication-publications/newsletter/\" class=\"js-link\" data-has-icon=\"true\">Newsletter - DAAD</a></p>"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "headline": "Useful Links",
+                  "content": [
+                    {
+                      "id": "mega_footer_iwe2",
+                      "template": "iwe_editor",
+                      "data": {
+                        "html": "<ul class=\"link-list\">\n\t<li><a class=\"js-link\" href=\"/en/studying-in-germany/scholarships/\" data-has-icon=\"true\" data-type=\"internal\">Find Scholarships</a></li>\n\t<li><a class=\"js-link\" href=\"/en/the-daad/map/daad-network/\" data-has-icon=\"true\" data-type=\"internal\">DAAD offices worldwide</a></li>\n\t<li><a class=\"js-link\" href=\"https://www.daad.de/en/the-daad/who-we-are/strategy-2030/\" data-has-icon=\"true\" data-type=\"internal\">Strategy 2030</a></li>\n\t<li><a class=\"js-link\" href=\"/en/the-daad/communication-publications/press/\" data-has-icon=\"true\" data-type=\"internal\">Press</a></li>\n</ul> <!--parsed iweplugins:7-->"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "lazy": false,
+            "ssr": true
+          }
+        ]
+      }
+    },
+    "showSubNavigation": false,
+    "navigationTree": {
+      "navigation": {
+        "type": "data",
+        "data": [
+          {
+            "link": {
+              "url": "/en/studying-in-germany/",
+              "text": "Study &amp; research<br>in Germany",
+              "textSubNavigation": "Study and Research in Germany",
+              "type": "internal"
+            },
+            "subNavigationOrder": 0,
+            "children": [
+              {
+                "link": {
+                  "url": "/en/studying-in-germany/universities/",
+                  "text": "Universities &amp; Programmes",
+                  "textSubNavigation": "Universities & Programmes",
+                  "type": "internal"
+                },
+                "subNavigationOrder": 0,
+                "children": [
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/universities/universities/",
+                      "text": "The Right University",
+                      "textSubNavigation": "The Right University",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/universities/the-right-degree-programme/",
+                      "text": "The Right Degree Programme",
+                      "textSubNavigation": "The Right Degree Programme",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/universities/all-degree-programmes/",
+                      "text": "Degree Programmes in Germany",
+                      "textSubNavigation": "All Degree Programmes",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/universities/che-ranking/",
+                      "text": "CHE Ranking",
+                      "textSubNavigation": "CHE Ranking",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/",
+                      "text": "International Programmes",
+                      "textSubNavigation": "International Programmes",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/universities/subject-groups/",
+                      "text": "The Main Subject Groups",
+                      "textSubNavigation": "The Main Subject Groups",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/universities/the-basics/",
+                      "text": "Good to Know - The Basics",
+                      "textSubNavigation": "Good to Know - The Basics",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "https://www2.daad.de/deutschland/studienangebote/sommerkurse/en/",
+                      "textSubNavigation": "Language & Short Courses",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 3,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/universities/dual-studies/",
+                      "textSubNavigation": "Dual Studies",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 7,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "link": {
+                  "url": "/en/studying-in-germany/scholarships/",
+                  "text": "Scholarships &amp; Funding",
+                  "textSubNavigation": "Scholarships & Funding",
+                  "type": "internal"
+                },
+                "subNavigationOrder": 0,
+                "children": [
+                  {
+                    "link": {
+                      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/",
+                      "text": "Scholarship database",
+                      "textSubNavigation": "Scholarship database",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/scholarships/daad-scholarships/",
+                      "text": "DAAD Scholarships - An Overview",
+                      "textSubNavigation": "DAAD-Scholarships - An Overview",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/scholarships/information-for-scholarship-applicants/",
+                      "text": "Important Information for Scholarship Applicants",
+                      "textSubNavigation": "Information for Scholarship Applicants",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/scholarships/music-art/",
+                      "text": "Funding Programmes for Musicians and Artists",
+                      "textSubNavigation": "Funding Programmes for Musicians & Artists",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/scholarships/funding-options/",
+                      "textSubNavigation": "Funding Options",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 5,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/the-daad/mobility-with-a-disability/",
+                      "textSubNavigation": "Mobility with a Disability",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 6,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "link": {
+                  "url": "/en/studying-in-germany/requirements/",
+                  "text": "Requirements &amp; Enrolment",
+                  "textSubNavigation": "Requirements & Enrolment",
+                  "type": "internal"
+                },
+                "subNavigationOrder": 0,
+                "children": [
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/requirements/overview/",
+                      "text": "Requirements Overview",
+                      "textSubNavigation": "Overview",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/requirements/admission-database/",
+                      "text": "Database on Admission Requirements",
+                      "textSubNavigation": "Admission Database",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/requirements/application-process/",
+                      "text": "Application Process",
+                      "textSubNavigation": "Application Process",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/requirements/enrolling/",
+                      "text": "Enrolling at a University",
+                      "textSubNavigation": "Enrolling",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/requirements/studienkollegs/",
+                      "text": "Studienkollegs (preparatory courses)",
+                      "textSubNavigation": "Studienkollegs",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/requirements/gce/",
+                      "textSubNavigation": "GCE",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 5,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/requirements/ib-diploma/",
+                      "textSubNavigation": "IB-Diploma",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 6,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "link": {
+                  "url": "/en/studying-in-germany/living-in-germany/",
+                  "text": "Living in Germany",
+                  "textSubNavigation": "Living in Germany",
+                  "type": "internal"
+                },
+                "subNavigationOrder": 0,
+                "children": [
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/living-in-germany/visa/",
+                      "text": "Visas",
+                      "textSubNavigation": "Visa",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/living-in-germany/finances/",
+                      "text": "Costs of Education and Living",
+                      "textSubNavigation": "Finances",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/living-in-germany/german-language/",
+                      "text": "The German Language",
+                      "textSubNavigation": "The German language",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": [
+                      {
+                        "link": {
+                          "url": "/en/studying-in-germany/living-in-germany/german-language/learning/",
+                          "textSubNavigation": "Learning",
+                          "type": "internal"
+                        },
+                        "subNavigationOrder": 1,
+                        "children": []
+                      },
+                      {
+                        "link": {
+                          "url": "/en/studying-in-germany/living-in-germany/german-language/improving/",
+                          "textSubNavigation": "Improving",
+                          "type": "internal"
+                        },
+                        "subNavigationOrder": 2,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/living-in-germany/renting/",
+                      "text": "Renting a Room",
+                      "textSubNavigation": "Renting a Room",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/living-in-germany/accommodation-finder/",
+                      "text": "Accommodation Finder",
+                      "textSubNavigation": "Accommodation Finder",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/living-in-germany/health-insurance/",
+                      "text": "Healthcare and Health Insurance",
+                      "textSubNavigation": "Health Insurance",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/living-in-germany/safety/",
+                      "text": "Safety in Germany",
+                      "textSubNavigation": "Safety",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/living-in-germany/registering/",
+                      "textSubNavigation": "Registering",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 3,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "link": {
+                  "url": "/en/studying-in-germany/work-career/",
+                  "text": "Work &amp; Career",
+                  "textSubNavigation": "Work & Career",
+                  "type": "internal"
+                },
+                "subNavigationOrder": 0,
+                "children": [
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/work-career/side-jobs/",
+                      "text": "Side Jobs",
+                      "textSubNavigation": "Side jobs",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/work-career/work-placements/",
+                      "text": "Work Placements",
+                      "textSubNavigation": "Work placements",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/work-career/career-planning/",
+                      "text": "Career Planning",
+                      "textSubNavigation": "Career Planning",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  }
+                ],
+                "align": "right"
+              },
+              {
+                "link": {
+                  "url": "/en/studying-in-germany/phd-studies-research/",
+                  "text": "PhD Studies &amp; Research",
+                  "textSubNavigation": "PhD Studies & Research",
+                  "type": "internal"
+                },
+                "subNavigationOrder": 0,
+                "children": [
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/phd-studies-research/ways-to-your-phd/",
+                      "text": "Ways to your PhD",
+                      "textSubNavigation": "Ways to your PhD",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/phd-studies-research/finding-a-phd-position/",
+                      "text": "Finding a Position",
+                      "textSubNavigation": "Finding a PhD Position",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/phd-studies-research/phd-germany/",
+                      "text": "PhDGermany-Database",
+                      "textSubNavigation": "PhDGermany",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/phd-studies-research/finance-your-phd/",
+                      "text": "Financing",
+                      "textSubNavigation": "Finance your PhD",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/phd-studies-research/first-steps-to-your-phd/",
+                      "text": "Preliminaries",
+                      "textSubNavigation": "First steps to your PhD",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/phd-studies-research/postdocs/",
+                      "textSubNavigation": "Postdocs and early career researchers",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 5,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/phd-studies-research/advanced-researchers/",
+                      "textSubNavigation": "Experienced researchers",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 6,
+                    "children": []
+                  }
+                ],
+                "align": "right"
+              },
+              {
+                "link": {
+                  "url": "/en/studying-in-germany/advisory-service/",
+                  "text": "Advisory Service",
+                  "textSubNavigation": "Advisory Service",
+                  "type": "internal"
+                },
+                "subNavigationOrder": 0,
+                "children": [
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/advisory-service/publications/",
+                      "text": "Brochures on Studying in Germany",
+                      "textSubNavigation": "Publications",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/advisory-service/contact/",
+                      "text": "Contact",
+                      "textSubNavigation": "Contact",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/the-daad/mobility-with-a-disability/",
+                      "text": "Mobility with a Disability",
+                      "textSubNavigation": "Mobility with a Disability",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/advisory-service/psychological-wellbeing/",
+                      "text": "Psychological Wellbeing",
+                      "textSubNavigation": "Psychological Wellbeing",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/studying-in-germany/advisory-service/international-office/",
+                      "text": "The First Point of Contact",
+                      "textSubNavigation": "First Point of Contact",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/the-daad/daad-network/",
+                      "text": "Reginal Offices and Information Centres",
+                      "textSubNavigation": "DAAD Network",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  }
+                ],
+                "align": "right"
+              },
+              {
+                "link": {
+                  "url": "/en/alumni/",
+                  "text": "Alumni",
+                  "textSubNavigation": "Alumni",
+                  "type": "internal"
+                },
+                "subNavigationOrder": 0,
+                "children": [
+                  {
+                    "link": {
+                      "url": "/en/alumni/funding/",
+                      "text": "Funding Information",
+                      "textSubNavigation": "Funding Information",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/alumni/funding/alumni-associations-and-events/alumni-associations/",
+                      "text": "Alumni Associations",
+                      "textSubNavigation": "Alumni Associations",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/alumni/stories/",
+                      "text": "Spotlight on Alumni",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/alumni/information-communication-newsletter/",
+                      "text": "Information, communication and newsletter",
+                      "textSubNavigation": "Information, communication, newsletter",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/alumni/commitment/",
+                      "text": "Commitment",
+                      "textSubNavigation": "Commitment",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/alumni/service-area/",
+                      "text": "Service Area",
+                      "textSubNavigation": "Service Area",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  }
+                ],
+                "align": "right"
+              }
+            ]
+          },
+          {
+            "link": {
+              "url": "/en/study-research-teach-abroad/",
+              "text": "Study, research &amp; teach<br>abroad",
+              "textSubNavigation": "Study, research & teach abroad",
+              "type": "internal"
+            },
+            "subNavigationOrder": 0,
+            "children": []
+          },
+          {
+            "link": {
+              "url": "/en/information-services-for-higher-education-institutions/",
+              "text": "Info &amp; Services for<br>Higher Education Institutions",
+              "textSubNavigation": "Info & Services for Higher Education Institutions",
+              "type": "internal"
+            },
+            "subNavigationOrder": 0,
+            "children": []
+          },
+          {
+            "link": {
+              "url": "/en/the-daad/",
+              "text": "The DAAD",
+              "textSubNavigation": "The DAAD",
+              "type": "internal"
+            },
+            "subNavigationOrder": 0,
+            "children": [
+              {
+                "link": {
+                  "url": "/en/the-daad/who-we-are/",
+                  "text": "Who we are",
+                  "textSubNavigation": "Who we are",
+                  "type": "internal"
+                },
+                "subNavigationOrder": 0,
+                "children": [
+                  {
+                    "link": {
+                      "url": "/en/the-daad/who-we-are/organisational-structure/",
+                      "text": "Organisational structure",
+                      "textSubNavigation": "Organisational structure",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/the-daad/who-we-are/motto/",
+                      "text": "Motto",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/the-daad/who-we-are/strategy-2030/",
+                      "text": "Strategy",
+                      "textSubNavigation": "Strategy 2030",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/the-daad/who-we-are/monitoring-evaluation/",
+                      "text": "Monitoring &amp; Evaluation",
+                      "textSubNavigation": "Monitoring & evaluation",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/the-daad/who-we-are/daad-history/",
+                      "text": "History",
+                      "textSubNavigation": "DAAD History 1925-2025",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/the-daad/who-we-are/change-by-exchange/",
+                      "text": "Change by Exchange",
+                      "textSubNavigation": "Change by Exchange – since 1925",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": [
+                      {
+                        "link": {
+                          "url": "/en/the-daad/who-we-are/change-by-exchange/departure-and-rupture/",
+                          "textSubNavigation": "Departure and Rupture",
+                          "type": "internal"
+                        },
+                        "subNavigationOrder": 1,
+                        "children": []
+                      },
+                      {
+                        "link": {
+                          "url": "/en/the-daad/who-we-are/change-by-exchange/new-foundations/",
+                          "textSubNavigation": "New Foundations",
+                          "type": "internal"
+                        },
+                        "subNavigationOrder": 2,
+                        "children": []
+                      },
+                      {
+                        "link": {
+                          "url": "/en/the-daad/who-we-are/change-by-exchange/crossing-borders/",
+                          "textSubNavigation": "Crossing Borders",
+                          "type": "internal"
+                        },
+                        "subNavigationOrder": 3,
+                        "children": []
+                      },
+                      {
+                        "link": {
+                          "url": "/en/the-daad/who-we-are/change-by-exchange/future-needs-exchange/",
+                          "textSubNavigation": "Future Needs Exchange",
+                          "type": "internal"
+                        },
+                        "subNavigationOrder": 4,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "link": {
+                      "url": "/en/the-daad/who-we-are/strategy/",
+                      "textSubNavigation": "Strategy",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 3,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "link": {
+                  "url": "/en/the-daad/what-we-do/",
+                  "text": "What we do",
+                  "textSubNavigation": "What we do",
+                  "type": "internal"
+                },
+                "subNavigationOrder": 0,
+                "children": [
+                  {
+                    "link": {
+                      "url": "/en/information-services-for-higher-education-institutions/",
+                      "text": "Programmes for Higher Education Institutions",
+                      "textSubNavigation": "Info & Services for Higher Education Institutions",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/alumni/",
+                      "text": "Alumni activities",
+                      "textSubNavigation": "Alumni",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "www.daad.de/en/the-daad/what-we-do/eu-higher-education-cooperation-in-the-daad-erasmus/",
+                      "text": "EU Higher Education Cooperation",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/the-daad/what-we-do/sustainability/",
+                      "text": "Sustainability",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/the-daad/what-we-do/sustainable-development/",
+                      "text": "Development cooperation",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/the-daad/what-we-do/prizes-awards/",
+                      "text": "Prizes &amp; awards",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/the-daad/what-we-do/facts-figures/",
+                      "text": "Facts &amp; Figures",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "link": {
+                  "url": "/en/the-daad/daad-network/",
+                  "text": "DAAD network",
+                  "textSubNavigation": "DAAD Network",
+                  "type": "internal"
+                },
+                "subNavigationOrder": 0,
+                "children": []
+              },
+              {
+                "link": {
+                  "url": "/en/the-daad/communication-publications/",
+                  "text": "Communication &amp; publications",
+                  "textSubNavigation": "Communication & publications",
+                  "type": "internal"
+                },
+                "subNavigationOrder": 0,
+                "children": [
+                  {
+                    "link": {
+                      "url": "/en/the-daad/communication-publications/newsletter/",
+                      "text": "Newsletter",
+                      "textSubNavigation": "Newsletter",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/the-daad/communication-publications/reports/",
+                      "text": "Reports",
+                      "textSubNavigation": "Reports",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/the-daad/communication-publications/press/",
+                      "text": "Press",
+                      "textSubNavigation": "Press",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/the-daad/communication-publications/events-appointments/",
+                      "text": "Events",
+                      "textSubNavigation": "Selection of events & dates",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/the-daad/communication-publications/positions/",
+                      "text": "Position papers",
+                      "textSubNavigation": "DAAD position papers",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 0,
+                    "children": []
+                  },
+                  {
+                    "link": {
+                      "url": "/en/the-daad/communication-publications/facts-figures/",
+                      "textSubNavigation": "Facts & figures",
+                      "type": "internal"
+                    },
+                    "subNavigationOrder": 4,
+                    "children": []
+                  }
+                ],
+                "align": "right"
+              },
+              {
+                "link": {
+                  "url": "/en/the-daad/contact/",
+                  "text": "Contact",
+                  "textSubNavigation": "Contact",
+                  "type": "internal"
+                },
+                "subNavigationOrder": 0,
+                "children": [],
+                "align": "right"
+              }
+            ]
+          }
+        ],
+        "html": "",
+        "text": ""
+      },
+      "modules": []
+    },
+    "showFullWidth": true,
+    "title": "Study \"Data Science in Sports and Health\" (Master) in Germany - TU Dortmund University - DAAD",
+    "chatbot": {
+      "nationality": "other"
+    }
+  },
+  "moduleResponseCode": 0,
+  "moduleAdditionalHeader": [],
+  "healthStatus": {
+    "status": 1,
+    "message": "OK"
+  }
+}

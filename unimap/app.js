@@ -104,6 +104,275 @@ export const CITY_COORDS = {
   Zwickau: { lat: 50.7189, lng: 12.4939 },
 };
 
+export const DOMAIN_MAP = [
+  {
+    domain: "Cloud Computing / DevOps",
+    score: 100,
+    keywords: ["cloud computing", "devops", "cloud"],
+  },
+  {
+    domain: "Software Engineering / Development",
+    score: 95,
+    keywords: [
+      "software engineering",
+      "software development",
+      "software systems",
+      "software technology",
+      "global software development",
+      "software for industry",
+      "software and systems",
+      "software architecture",
+      "software systems engineering",
+      "software engineering for embedded",
+      "software engineering for industrial",
+    ],
+  },
+  {
+    domain: "Distributed Systems / Computer Science",
+    score: 90,
+    keywords: [
+      "computer science",
+      "informatics",
+      "informatik",
+      "applied computer science",
+      "computer and information science",
+      "international software systems science",
+      "computer science international",
+      "computer science at the hasso plattner",
+      "computer science for industry",
+      "computer science – degree",
+      "computer science: games",
+      "applied research in computer science",
+      "high integrity systems",
+      "it engineering",
+      "information engineering and computer science",
+    ],
+  },
+  {
+    domain: "Artificial Intelligence (AI)",
+    score: 85,
+    keywords: [
+      "artificial intelligence",
+      "ai ",
+      " ai",
+      "ai)",
+      "(ai)",
+      "intelligent systems",
+      "intelligent adaptive",
+      "intelligent autonomous",
+      "human & artificial intelligence",
+      "human-centred artificial intelligence",
+      "industrial artificial intelligence",
+      "information technology - artificial intelligence",
+    ],
+  },
+  {
+    domain: "Machine Learning (ML)",
+    score: 83,
+    keywords: ["machine learning", "mathematics of machine learning"],
+  },
+  {
+    domain: "Data Science / Data Analytics",
+    score: 80,
+    keywords: [
+      "data science",
+      "data analytics",
+      "data analysis",
+      "data engineering",
+      "data and knowledge engineering",
+      "web and data science",
+      "social and economic data science",
+      "mathematical data science",
+      "data and computer science",
+      "management & data science",
+      "computational and data science",
+      "information technology - data science",
+      "data & society",
+    ],
+  },
+  {
+    domain: "Embedded Systems / IoT",
+    score: 75,
+    keywords: [
+      "embedded",
+      "embedded computing",
+      "iot",
+      "internet of things",
+      "computer engineering for iot",
+      "smart sensors",
+      "smart actuators",
+      "smart energy systems",
+      "smart services",
+      "embedded and autonomous systems",
+    ],
+  },
+  {
+    domain: "Cybersecurity / IT Security",
+    score: 70,
+    keywords: [
+      "cyber security",
+      "cybersecurity",
+      "it security",
+      "information security",
+      "enterprise and it security",
+      "sociotechnical cybersecurity",
+      "computer science - cyber security",
+      "business management & cybersecurity",
+    ],
+  },
+  {
+    domain: "Robotics / Autonomous Systems",
+    score: 68,
+    keywords: ["robotics", "autonomous systems", "robot", "ai engineering of autonomous systems"],
+  },
+  {
+    domain: "Computational Sciences / Modelling",
+    score: 65,
+    keywords: [
+      "computational science",
+      "computational engineering",
+      "computational methods",
+      "computational modelling",
+      "computational mechanics",
+      "computational linguistics",
+      "computational neuroscience",
+      "computational biology",
+      "simulation sciences",
+      "scientific computing",
+      "computer simulation",
+      "computational and data science",
+      "high performance computing",
+      "quantum computing",
+    ],
+  },
+  {
+    domain: "Computer Engineering / Hardware",
+    score: 60,
+    keywords: [
+      "computer engineering",
+      "microelectronics",
+      "chip design",
+      "control, computer and communications engineering",
+      "information and communications engineering",
+      "quantum technologies in electrical",
+    ],
+  },
+  {
+    domain: "Engineering + Management / Business Informatics",
+    score: 55,
+    keywords: [
+      "business informatics",
+      "information systems",
+      "business computing",
+      "management information systems",
+      "international information systems",
+      "informatics and business",
+      "information systems engineering",
+      "management and digital technologies",
+      "management and information technology",
+      "digital business",
+      "digital entrepreneurship",
+      "digital transformation management",
+      "general technology management",
+      "business intelligence and process management",
+      "digital supply chain management",
+      "digital innovation management",
+      "digital leadership",
+      "project management and data science",
+      "engineering and management",
+      "mba transformation",
+    ],
+  },
+  {
+    domain: "IT Management / Digital Transformation",
+    score: 50,
+    keywords: [
+      "digital transformation",
+      "it management",
+      "information management",
+      "digital sciences",
+      "digitalisation",
+      "professional it business",
+      "digital engineering",
+      "digital farming",
+      "infomation technology and business transformation",
+      "information technologies for the built environment",
+    ],
+  },
+  {
+    domain: "Data Analytics / Business Intelligence",
+    score: 48,
+    keywords: [
+      "business intelligence",
+      "business analytics",
+      "operations research",
+      "data analytics and decision science",
+      "applied business data science",
+      "mannheim master in data science",
+      "mannheim master in management analytics",
+      "master in management analytics",
+      "master of data science for public policy",
+      "analytics and artificial intelligence",
+      "applied data science",
+    ],
+  },
+  {
+    domain: "Cognitive Science / Neuroscience",
+    score: 40,
+    keywords: ["cognitive science", "cognitive computing", "cognitive systems", "cognitive modelling", "educational technology"],
+  },
+  {
+    domain: "Human-Computer Interaction / UX",
+    score: 35,
+    keywords: ["human-computer interaction", "usability engineering", "user experience", "interactive media", "human technology", "design and interaction"],
+  },
+  {
+    domain: "Quantum Computing / Quantum Tech",
+    score: 35,
+    keywords: ["quantum", "quantum computing", "quantum science", "quantum technologies", "quanteninformationstheorie"],
+  },
+  {
+    domain: "Bioinformatics / Health Informatics",
+    score: 30,
+    keywords: ["bioinformatics", "health informatics", "digital health", "medical informatics", "applied health informatics", "ai in biomedicine", "medical information sciences"],
+  },
+  {
+    domain: "Digital Media / Media Informatics",
+    score: 25,
+    keywords: ["digital media", "media informatics", "media engineering", "computer science for digital media", "generative design", "visual computing", "language and communication technologies"],
+  },
+  {
+    domain: "Web Engineering / Internet Technologies",
+    score: 25,
+    keywords: ["web engineering", "web and data science", "web science", "e-government"],
+  },
+  {
+    domain: "SAP / ERP Systems",
+    score: 20,
+    keywords: ["sap", "enterprise resource planning", "erp"],
+  },
+  {
+    domain: "Automotive / Vehicle Software",
+    score: 20,
+    keywords: ["automotive", "vehicle", "car software", "autonomous driving", "automotive software"],
+  },
+  {
+    domain: "Space / Satellite Technology",
+    score: 15,
+    keywords: ["space", "satellite", "aerospace", "marine ecosystem", "engineering of space systems"],
+  },
+  {
+    domain: "Geoinformatics / Spatial Data",
+    score: 15,
+    keywords: ["geoinformatics", "geo-informatics", "geomatics", "spatial data"],
+  },
+  {
+    domain: "Other / Unclassified",
+    score: 10,
+    keywords: [],
+  },
+];
+
 const FEE_COLOR_UNKNOWN = "#60a5fa";
 const VIEW_MAX = {
   overall: 100,
@@ -120,6 +389,8 @@ const state = {
   universities: [],
   filtered: [],
   viewMode: "overall",
+  datasetFilter: "all",
+  domainFilter: "all",
   language: "all",
   feeFilter: "all",
   durationFilter: "4",
@@ -127,6 +398,7 @@ const state = {
   city: "",
   maxDistance: 600,
   selected: null,
+  filterDrawerOpen: false,
   mapCenter: null,
   zoom: {
     scale: 1,
@@ -163,10 +435,15 @@ export function parseUniversities(rawData) {
       const feeTextBlocks = feesSection?.blocks?.filter((block) => block?.type === "text") || [];
       const fees = toText(feesBlock?.data?.text);
       const feesTotal = toText(feeTextBlocks[0]?.data?.text || feeTextBlocks[1]?.data?.text);
+      const courseName = toText(moduleData.head?.title);
+      const { domain, domainScore } = classifyDomain(courseName);
 
       return {
         id: entry?.fileId || moduleData.resultId || "",
-        courseName: toText(moduleData.head?.title),
+        dataset: entry?.dataset ?? "applied_sciences",
+        domain,
+        domainScore,
+        courseName,
         universityName: toText(sidebarHead.universityName),
         city: toText(sidebarHead.universityTown),
         state: toText(sidebarHead.universityFederalState),
@@ -187,6 +464,18 @@ export function parseUniversities(rawData) {
       };
     })
     .filter(Boolean);
+}
+
+export function classifyDomain(courseName) {
+  const lower = String(courseName || "").toLowerCase();
+  for (const entry of DOMAIN_MAP) {
+    for (const keyword of entry.keywords) {
+      if (lower.includes(keyword)) {
+        return { domain: entry.domain, domainScore: entry.score };
+      }
+    }
+  }
+  return { domain: "Other / Unclassified", domainScore: 10 };
 }
 
 export function getDistance(city1Coords, city2Coords) {
@@ -346,6 +635,18 @@ export function isBlacklisted(id) {
   return getBlacklist().includes(id);
 }
 
+export function getMobileResultSummary(total) {
+  const safeTotal = Number.isFinite(total) ? Math.max(0, Math.trunc(total)) : 0;
+  return `${safeTotal} shown`;
+}
+
+export function getFilterDrawerAriaState(isOpen) {
+  return {
+    expanded: String(Boolean(isOpen)),
+    hidden: !Boolean(isOpen),
+  };
+}
+
 function initApp() {
   elements = {
     map: document.querySelector("#orbit-map"),
@@ -354,6 +655,8 @@ function initApp() {
     closeDrawer: document.querySelector("#close-drawer"),
     drawerBody: document.querySelector("#drawer-body"),
     viewButtons: document.querySelectorAll("[data-view-mode]"),
+    datasetFilter: document.querySelector("#dataset-filter"),
+    domainFilter: document.querySelector("#domain-filter"),
     languageFilter: document.querySelector("#language-filter"),
     feeFilter: document.querySelector("#fee-filter"),
     durationFilter: document.querySelector("#duration-filter"),
@@ -363,6 +666,12 @@ function initApp() {
     distanceFilter: document.querySelector("#distance-filter"),
     distanceValue: document.querySelector("#distance-value"),
     resetFilters: document.querySelector("#reset-filters"),
+    applyFiltersButton: document.querySelector("#apply-filters"),
+    mobileFilterToggle: document.querySelector("#mobile-filter-toggle"),
+    closeFilterDrawer: document.querySelector("#close-filter-drawer"),
+    filterDrawer: document.querySelector("#filter-drawer"),
+    filterBackdrop: document.querySelector("#filter-backdrop"),
+    mobileResultSummary: document.querySelector("#mobile-result-summary"),
     hiddenButton: document.querySelector("#hidden-manager-button"),
     hiddenCount: document.querySelector("#hidden-count"),
     blacklistModal: document.querySelector("#blacklist-modal"),
@@ -382,6 +691,7 @@ function initApp() {
 
   setupControls();
   setupZoomControls();
+  setFilterDrawerOpen(false);
   updateBlacklistControls();
   loadData();
 }
@@ -422,6 +732,16 @@ function setupControls() {
     });
   });
 
+  elements.datasetFilter.addEventListener("change", (event) => {
+    state.datasetFilter = event.target.value;
+    applyFilters();
+  });
+
+  elements.domainFilter.addEventListener("change", (event) => {
+    state.domainFilter = event.target.value;
+    applyFilters();
+  });
+
   elements.languageFilter.addEventListener("change", (event) => {
     state.language = event.target.value;
     applyFilters();
@@ -455,6 +775,8 @@ function setupControls() {
 
   elements.resetFilters.addEventListener("click", () => {
     state.viewMode = "overall";
+    state.datasetFilter = "all";
+    state.domainFilter = "all";
     state.language = "all";
     state.feeFilter = "all";
     state.durationFilter = "4";
@@ -462,6 +784,8 @@ function setupControls() {
     state.city = "";
     state.maxDistance = 600;
 
+    elements.datasetFilter.value = "all";
+    elements.domainFilter.value = "all";
     elements.languageFilter.value = "all";
     elements.feeFilter.value = "all";
     elements.durationFilter.value = "4";
@@ -475,7 +799,15 @@ function setupControls() {
     applyFilters();
   });
 
-  elements.hiddenButton.addEventListener("click", openBlacklistModal);
+  elements.mobileFilterToggle.addEventListener("click", () => setFilterDrawerOpen(true));
+  elements.closeFilterDrawer.addEventListener("click", () => setFilterDrawerOpen(false));
+  elements.applyFiltersButton.addEventListener("click", () => setFilterDrawerOpen(false));
+  elements.filterBackdrop.addEventListener("click", () => setFilterDrawerOpen(false));
+
+  elements.hiddenButton.addEventListener("click", () => {
+    setFilterDrawerOpen(false);
+    openBlacklistModal();
+  });
   elements.closeBlacklistModal.addEventListener("click", closeBlacklistModal);
   elements.blacklistModal.addEventListener("click", (event) => {
     if (event.target === elements.blacklistModal) closeBlacklistModal();
@@ -508,10 +840,30 @@ function setupControls() {
   elements.closeDrawer.addEventListener("click", closeDrawer);
   document.addEventListener("keydown", (event) => {
     if (event.key === "Escape") {
+      setFilterDrawerOpen(false);
       closeDrawer();
       closeBlacklistModal();
     }
   });
+}
+
+function setFilterDrawerOpen(isOpen) {
+  if (!elements.filterDrawer || !elements.mobileFilterToggle) return;
+
+  state.filterDrawerOpen = Boolean(isOpen);
+  const ariaState = getFilterDrawerAriaState(state.filterDrawerOpen);
+  const shouldHideDrawer = isMobileFilterLayout() ? ariaState.hidden : false;
+  elements.mobileFilterToggle.setAttribute("aria-expanded", ariaState.expanded);
+  elements.filterDrawer.setAttribute("aria-hidden", String(shouldHideDrawer));
+  elements.filterDrawer.classList.toggle("open", state.filterDrawerOpen);
+
+  if (elements.filterBackdrop) {
+    elements.filterBackdrop.hidden = !state.filterDrawerOpen;
+  }
+}
+
+function isMobileFilterLayout() {
+  return typeof window !== "undefined" && window.matchMedia("(max-width: 768px)").matches;
 }
 
 function setupZoomControls() {
@@ -737,6 +1089,8 @@ function applyFilters() {
   state.filtered = state.universities.filter((uni) => {
     return (
       !isBlacklisted(uni.id) &&
+      matchesDatasetFilter(uni, state.datasetFilter) &&
+      matchesDomainFilter(uni, state.domainFilter) &&
       matchesSearchFilter(uni, state.searchQuery) &&
       matchesLanguage(uni) &&
       matchesFeeFilter(uni) &&
@@ -902,6 +1256,30 @@ function renderClusterHints(group, positions) {
   });
 }
 
+function renderDomainBadge(uni) {
+  const isTarget = isTargetDomain(uni?.domain);
+  const background = isTarget
+    ? "var(--color-background-success, rgba(74, 222, 128, 0.16))"
+    : "var(--color-background-secondary)";
+  const color = isTarget
+    ? "var(--color-text-success, #86efac)"
+    : "var(--color-text-secondary, var(--muted))";
+  return `<span style="display:inline-flex;align-items:center;width:max-content;margin:0.2rem 0 0.35rem;padding:0.22rem 0.5rem;border-radius:999px;background:${background};color:${color};font-size:0.72rem;font-weight:700;">🏷 ${escapeHtml(uni?.domain || "Other / Unclassified")}</span>`;
+}
+
+function isTargetDomain(domain) {
+  return [
+    "Cloud Computing / DevOps",
+    "Software Engineering / Development",
+    "Distributed Systems / Computer Science",
+    "Artificial Intelligence (AI)",
+    "Machine Learning (ML)",
+    "Data Science / Data Analytics",
+    "Embedded Systems / IoT",
+    "Cybersecurity / IT Security",
+  ].includes(domain);
+}
+
 function getOrbitPoint(uni, index, center, maxRadius, outOfRange) {
   const score = getViewScore(uni);
   const normalized = outOfRange ? 0 : (score / VIEW_MAX[state.viewMode]) * 100;
@@ -954,6 +1332,9 @@ function updateStats() {
   elements.statsFree.textContent = String(free);
   elements.statsEnglish.textContent = String(english);
   elements.statsAverage.textContent = String(average);
+  if (elements.mobileResultSummary) {
+    elements.mobileResultSummary.textContent = getMobileResultSummary(total);
+  }
 }
 
 function showTooltip(event, uni) {
@@ -962,6 +1343,7 @@ function showTooltip(event, uni) {
     <strong>${escapeHtml(uni.universityName)}</strong>
     <span>${escapeHtml(uni.city)}</span>
     <p>${escapeHtml(uni.courseName)}</p>
+    ${renderDomainBadge(uni)}
     <div class="tooltip-row">
       <b>${uni.score.total}/100</b>
       <span>${escapeHtml(fees)}</span>
@@ -1076,7 +1458,7 @@ function showToast(message) {
 
 function renderDrawer(uni) {
   const breakdown = [
-    ["Course Relevance", uni.score.breakdown.courseRelevance, 35],
+    [`Course Match (${uni.domain || "Other / Unclassified"})`, uni.score.breakdown.courseRelevance, 35],
     ["Fees", uni.score.breakdown.fees, 20],
     ["Language", uni.score.breakdown.language, 15],
     ["Admission", uni.score.breakdown.admission, 15],
@@ -1096,6 +1478,7 @@ function renderDrawer(uni) {
       }
     </div>
     <h2>${escapeHtml(uni.courseName)}</h2>
+    ${renderDomainBadge(uni)}
     <p class="muted">${escapeHtml(uni.universityName)}</p>
     <p>${escapeHtml([uni.city, uni.state].filter(Boolean).join(", "))}</p>
     <div class="score-card">
@@ -1109,7 +1492,7 @@ function renderDrawer(uni) {
             <div class="bar-row">
               <span>${label}</span>
               <div class="bar"><i style="width:${(value / max) * 100}%"></i></div>
-              <b>${value}</b>
+              <b>${label.startsWith("Course Match") ? `${value}/${max}` : value}</b>
             </div>
           `
         )
@@ -1142,6 +1525,16 @@ function renderDrawer(uni) {
 function renderLinkButton(label, url) {
   if (!url) return `<button class="button disabled" disabled>${label}</button>`;
   return `<a class="button" href="${escapeHtml(url)}" target="_blank" rel="noreferrer">${label}</a>`;
+}
+
+export function matchesDatasetFilter(uni, filterValue) {
+  if (filterValue === "all") return true;
+  return uni?.dataset === filterValue;
+}
+
+export function matchesDomainFilter(uni, filterValue) {
+  if (filterValue === "all") return true;
+  return uni?.domain === filterValue;
 }
 
 function matchesLanguage(uni) {
@@ -1290,5 +1683,6 @@ if (typeof document !== "undefined") {
   window.addEventListener("DOMContentLoaded", initApp);
   window.addEventListener("resize", () => {
     if (state.universities.length) renderMap();
+    setFilterDrawerOpen(state.filterDrawerOpen);
   });
 }

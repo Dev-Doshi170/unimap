@@ -1,50 +1,13 @@
-const fs = require("fs");
-const path = require("path");
+const path = require("node:path");
 
-const RAW_DIR = "./output/raw";
-const OUTPUT_FILE = "./all-daad-raw.json";
+const { generateMergedRaw } = require("./src/merger");
 
-async function combineJsonFiles() {
-  const files = fs
-    .readdirSync(RAW_DIR)
-    .filter((file) => file.endsWith(".json"));
+const RAW_DIR = path.join("output", "raw");
+const OUTPUT_FILE = "all-daad-raw.json";
 
-  console.log(`Found ${files.length} JSON files`);
+console.warn(
+  "[DEPRECATED] combine-json.js is kept for backward compatibility. New runs update dataset-specific files and unimap/data/all-daad-raw.json via `npm run scrape`."
+);
 
-  const combined = [];
-
-  for (const file of files) {
-    try {
-      const fullPath = path.join(RAW_DIR, file);
-
-      const content = fs.readFileSync(
-        fullPath,
-        "utf8"
-      );
-
-      const json = JSON.parse(content);
-
-      combined.push({
-        fileName: file,
-        fileId: path.basename(file, ".json"),
-        data: json,
-      });
-    } catch (err) {
-      console.error(
-        `Failed to read ${file}:`,
-        err.message
-      );
-    }
-  }
-
-  fs.writeFileSync(
-    OUTPUT_FILE,
-    JSON.stringify(combined, null, 2)
-  );
-
-  console.log(
-    `Combined ${combined.length} files into ${OUTPUT_FILE}`
-  );
-}
-
-combineJsonFiles();
+const combined = generateMergedRaw(RAW_DIR, OUTPUT_FILE);
+console.log(`Combined ${combined.length} files into ${OUTPUT_FILE}`);

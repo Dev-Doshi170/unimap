@@ -1,10 +1,13 @@
-const COURSE_RULES = [
-  { keywords: ["software engineering", "software development"], score: 35 },
-  { keywords: ["cloud", "distributed", "enterprise", "systems"], score: 30 },
-  { keywords: ["computer science", "computer engineering", "informatics", "it"], score: 25 },
-  { keywords: ["data science", "data engineering", "machine learning"], score: 20 },
-  { keywords: ["automation", "embedded", "electronics", "mechanical"], score: 8 },
-];
+const MY_TARGET_DOMAINS = {
+  "Cloud Computing / DevOps": 5,
+  "Software Engineering / Development": 4,
+  "Distributed Systems / Computer Science": 4,
+  "Artificial Intelligence (AI)": 3,
+  "Machine Learning (ML)": 3,
+  "Data Science / Data Analytics": 2,
+  "Embedded Systems / IoT": 2,
+  "Cybersecurity / IT Security": 1,
+};
 
 export function scoreUniversity(uni, profile) {
   const breakdown = {
@@ -45,18 +48,10 @@ export function getFeeAmount(uni) {
 }
 
 function scoreCourseRelevance(uni) {
-  const course = String(uni?.courseName || "").toLowerCase();
-  const matchedRule = COURSE_RULES.find((rule) =>
-    rule.keywords.some((keyword) => {
-      if (keyword === "it") {
-        return /\bit\b/i.test(course);
-      }
-
-      return course.includes(keyword);
-    })
-  );
-
-  return matchedRule?.score || 0;
+  const domainScore = uni?.domainScore ?? 10;
+  const courseScore = Math.round((domainScore / 100) * 35);
+  const bonus = MY_TARGET_DOMAINS[uni?.domain] ?? 0;
+  return Math.min(35, courseScore + bonus);
 }
 
 function scoreFees(uni) {
