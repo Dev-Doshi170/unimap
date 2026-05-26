@@ -399,6 +399,7 @@ const state = {
   maxDistance: 600,
   selected: null,
   filterDrawerOpen: false,
+  filterSidebarCollapsed: false,
   mapCenter: null,
   zoom: {
     scale: 1,
@@ -581,13 +582,13 @@ export function getDurationSemesters(duration) {
 export function matchesDurationFilter(uni, filterValue) {
   if (filterValue === "all") return true;
 
-  const maxDuration = Number.parseFloat(filterValue);
-  if (!Number.isFinite(maxDuration)) return true;
+  const selectedDuration = Number.parseFloat(filterValue);
+  if (!Number.isFinite(selectedDuration)) return true;
 
   const duration = getDurationSemesters(uni?.duration);
-  if (duration === null) return true;
+  if (duration === null) return false;
 
-  return duration <= maxDuration;
+  return duration === selectedDuration;
 }
 
 export function matchesSearchFilter(uni, query) {
@@ -640,10 +641,21 @@ export function getMobileResultSummary(total) {
   return `${safeTotal} shown`;
 }
 
-export function getFilterDrawerAriaState(isOpen) {
+export function getFilterDrawerAriaState(isOpen, isDrawerLayout = true) {
+  const expanded = Boolean(isOpen);
+
   return {
-    expanded: String(Boolean(isOpen)),
-    hidden: !Boolean(isOpen),
+    expanded: String(expanded),
+    hidden: isDrawerLayout ? !expanded : false,
+  };
+}
+
+export function getFilterSidebarAriaState(isCollapsed) {
+  const collapsed = Boolean(isCollapsed);
+
+  return {
+    expanded: String(!collapsed),
+    label: collapsed ? "Expand filters" : "Collapse filters",
   };
 }
 
@@ -672,6 +684,7 @@ function initApp() {
     resetFilters: document.querySelector("#reset-filters"),
     applyFiltersButton: document.querySelector("#apply-filters"),
     mobileFilterToggle: document.querySelector("#mobile-filter-toggle"),
+    desktopFilterCollapse: document.querySelector("#desktop-filter-collapse"),
     closeFilterDrawer: document.querySelector("#close-filter-drawer"),
     filterDrawer: document.querySelector("#filter-drawer"),
     filterBackdrop: document.querySelector("#filter-backdrop"),
@@ -696,6 +709,7 @@ function initApp() {
   setupControls();
   setupZoomControls();
   setFilterDrawerOpen(false);
+  setFilterSidebarCollapsed(false);
   updateBlacklistControls();
   loadData();
 }
@@ -804,6 +818,9 @@ function setupControls() {
   });
 
   elements.mobileFilterToggle.addEventListener("click", () => setFilterDrawerOpen(true));
+  elements.desktopFilterCollapse.addEventListener("click", () =>
+    setFilterSidebarCollapsed(!state.filterSidebarCollapsed)
+  );
   document.addEventListener("pointerup", handleFilterDrawerClose);
   document.addEventListener("click", handleFilterDrawerClose);
 
@@ -860,14 +877,26 @@ function setFilterDrawerOpen(isOpen) {
   if (!elements.filterDrawer || !elements.mobileFilterToggle) return;
 
   state.filterDrawerOpen = Boolean(isOpen);
-  const ariaState = getFilterDrawerAriaState(state.filterDrawerOpen);
+  const isDrawerLayout = window.matchMedia?.("(max-width: 768px)")?.matches ?? true;
+  const ariaState = getFilterDrawerAriaState(state.filterDrawerOpen, isDrawerLayout);
   elements.mobileFilterToggle.setAttribute("aria-expanded", ariaState.expanded);
   elements.filterDrawer.setAttribute("aria-hidden", String(ariaState.hidden));
   elements.filterDrawer.classList.toggle("open", state.filterDrawerOpen);
 
   if (elements.filterBackdrop) {
-    elements.filterBackdrop.hidden = !state.filterDrawerOpen;
+    elements.filterBackdrop.hidden = !isDrawerLayout || !state.filterDrawerOpen;
   }
+}
+
+function setFilterSidebarCollapsed(isCollapsed) {
+  if (!elements.filterDrawer || !elements.desktopFilterCollapse) return;
+
+  state.filterSidebarCollapsed = Boolean(isCollapsed);
+  const ariaState = getFilterSidebarAriaState(state.filterSidebarCollapsed);
+  elements.desktopFilterCollapse.setAttribute("aria-expanded", ariaState.expanded);
+  elements.desktopFilterCollapse.setAttribute("aria-label", ariaState.label);
+  elements.desktopFilterCollapse.classList.toggle("is-collapsed", state.filterSidebarCollapsed);
+  elements.filterDrawer.classList.toggle("collapsed", state.filterSidebarCollapsed);
 }
 
 function setupZoomControls() {

@@ -1,4 +1,5 @@
 import assert from "node:assert/strict";
+import { readFileSync } from "node:fs";
 import test from "node:test";
 
 import {
@@ -17,6 +18,7 @@ import {
   getDurationSemesters,
   isBlacklisted,
   getFilterDrawerAriaState,
+  getFilterSidebarAriaState,
   getMobileResultSummary,
   isFilterDrawerCloseTarget,
   matchesDatasetFilter,
@@ -27,6 +29,34 @@ import {
   removeFromBlacklist,
   shouldOpenDotAfterPointer,
 } from "./app.js";
+
+test("keeps filters in a collapsible left sidebar on desktop and drawer-only on mobile", () => {
+  const css = readFileSync(new URL("./style.css", import.meta.url), "utf8");
+  const desktopFilterDrawer = css.match(/\.filter-drawer\s*\{(?<rules>[^}]*)\}/)?.groups?.rules ?? "";
+
+  assert.match(css, /\.mobile-result-summary,\n\.mobile-filter-toggle\s*\{\n\s*display: none;/);
+  assert.match(css, /\.desktop-filter-collapse\s*\{/);
+  assert.match(desktopFilterDrawer, /position:\s*fixed;/);
+  assert.match(desktopFilterDrawer, /top:\s*4\.5rem;/);
+  assert.match(desktopFilterDrawer, /bottom:\s*0\.75rem;/);
+  assert.match(desktopFilterDrawer, /left:\s*1rem;/);
+  assert.match(desktopFilterDrawer, /width:\s*min\(320px, calc\(100vw - 2rem\)\);/);
+  assert.match(desktopFilterDrawer, /transform:\s*none;/);
+  assert.match(css, /\.filter-drawer\.collapsed\s*\{[\s\S]*transform:\s*translateX\(calc\(-100% - 1rem\)\);/);
+  assert.match(css, /@media \(max-width: 768px\)[\s\S]*\.mobile-result-summary,\n\s*\.mobile-filter-toggle\s*\{\n\s*display: inline-flex;/);
+  assert.match(css, /@media \(max-width: 768px\)[\s\S]*\.filter-drawer\s*\{[\s\S]*position:\s*fixed;/);
+  assert.match(css, /@media \(max-width: 768px\)[\s\S]*\.desktop-filter-collapse\s*\{[\s\S]*display:\s*none;/);
+});
+
+test("keeps fixed filter panel outside the blurred topbar", () => {
+  const html = readFileSync(new URL("./index.html", import.meta.url), "utf8");
+  const topbar = html.match(/<header class="topbar">[\s\S]*?<\/header>/)?.[0] ?? "";
+  const filterPanelIndex = html.indexOf('id="filter-drawer"');
+  const topbarEndIndex = html.indexOf("</header>");
+
+  assert.equal(topbar.includes('id="filter-drawer"'), false);
+  assert.ok(filterPanelIndex > topbarEndIndex);
+});
 
 test("formats the mobile result summary for the compact header", () => {
   assert.equal(getMobileResultSummary(0), "0 shown");
@@ -43,6 +73,24 @@ test("derives accessible drawer state for the mobile filters sheet", () => {
   assert.deepEqual(getFilterDrawerAriaState(true), {
     expanded: "true",
     hidden: false,
+  });
+});
+
+test("keeps desktop inline filters available to assistive technology", () => {
+  assert.deepEqual(getFilterDrawerAriaState(false, false), {
+    expanded: "false",
+    hidden: false,
+  });
+});
+
+test("derives accessible state for the desktop filter sidebar", () => {
+  assert.deepEqual(getFilterSidebarAriaState(false), {
+    expanded: "true",
+    label: "Collapse filters",
+  });
+  assert.deepEqual(getFilterSidebarAriaState(true), {
+    expanded: "false",
+    label: "Expand filters",
   });
 });
 
@@ -293,15 +341,18 @@ test("finds cluster badges only near default zoom", () => {
   assert.deepEqual(findClusterHints(positions, 1.6), []);
 });
 
-test("parses and filters duration by max semester count", () => {
+test("parses and filters duration by exact semester count", () => {
   assert.equal(getDurationSemesters("3 semesters"), 3);
   assert.equal(getDurationSemesters("4 semester"), 4);
   assert.equal(getDurationSemesters("Duration not listed"), null);
 
-  assert.equal(matchesDurationFilter({ duration: "3 semesters" }, "4"), true);
+  assert.equal(matchesDurationFilter({ duration: "3 semesters" }, "3"), true);
+  assert.equal(matchesDurationFilter({ duration: "3 semesters" }, "4"), false);
+  assert.equal(matchesDurationFilter({ duration: "4 semesters" }, "4"), true);
   assert.equal(matchesDurationFilter({ duration: "5 semesters" }, "4"), false);
-  assert.equal(matchesDurationFilter({ duration: "" }, "4"), true);
+  assert.equal(matchesDurationFilter({ duration: "" }, "4"), false);
   assert.equal(matchesDurationFilter({ duration: "5 semesters" }, "all"), true);
+  assert.equal(matchesDurationFilter({ duration: "" }, "all"), true);
 });
 
 test("matches dataset filter values", () => {

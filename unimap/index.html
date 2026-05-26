@@ -23,6 +23,7 @@
       >
         Filters
       </button>
+    </header>
 
       <section id="filter-drawer" class="filter-drawer" aria-hidden="true">
         <div class="filter-drawer-header">
@@ -119,10 +120,10 @@
             Duration
             <select id="duration-filter">
               <option value="all">All</option>
-              <option value="3">Up to 3 semesters</option>
-              <option value="4" selected>Up to 4 semesters</option>
-              <option value="5">Up to 5 semesters</option>
-              <option value="6">Up to 6 semesters</option>
+              <option value="3">3 semesters only</option>
+              <option value="4" selected>4 semesters only</option>
+              <option value="5">5 semesters only</option>
+              <option value="6">6 semesters only</option>
             </select>
           </label>
 
@@ -161,6 +162,16 @@
         </div>
       </section>
       <button
+        id="desktop-filter-collapse"
+        class="desktop-filter-collapse"
+        type="button"
+        aria-controls="filter-drawer"
+        aria-expanded="true"
+        aria-label="Collapse filters"
+      >
+        Filters
+      </button>
+      <button
         id="filter-backdrop"
         class="filter-backdrop"
         type="button"
@@ -168,7 +179,6 @@
         data-filter-drawer-close
         hidden
       ></button>
-    </header>
 
     <main class="map-stage">
       <div id="loading" class="loading">Loading DAAD university data...</div>
