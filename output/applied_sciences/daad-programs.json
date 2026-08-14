@@ -13,6 +13,11 @@
     "location": "Neubrandenburg",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Geodesy, Surveying, Engineering Informatics",
+    "areaOfStudyTags": [
+      "Geodesy",
+      "Surveying",
+      "Engineering Informatics"
+    ],
     "focus": "Geoinformatics, Geodesy",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -45,6 +50,13 @@
     "location": "Heilbronn",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Practical Computer Science, Software Engineering, Information Systems and Management, Artificial Intelligence, Data Science",
+    "areaOfStudyTags": [
+      "Practical Computer Science",
+      "Software Engineering",
+      "Information Systems and Management",
+      "Artificial Intelligence",
+      "Data Science"
+    ],
     "focus": "IT Management, Advanced Software Engineering & Data Science, Human-Computer Interaction",
     "annotation": "",
     "admissionModus": "Local admission restriction",
@@ -76,6 +88,12 @@
     "location": "Gummersbach",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Automation Technology, Electrical Engineering, Computer Science, Artificial Intelligence",
+    "areaOfStudyTags": [
+      "Automation Technology",
+      "Electrical Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
     "focus": "Automation and Control Technology, Modelling and Simulation, Industrial Information and Communication Systems, IT Security, Engineering und Robotics",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -108,6 +126,10 @@
     "location": "Emden",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Electrical Engineering, Computer Engineering",
+    "areaOfStudyTags": [
+      "Electrical Engineering",
+      "Computer Engineering"
+    ],
     "focus": "Computer Science, Electrical Engineering, Industrial Cyber-Physical Systems",
     "annotation": "This course can be studied in German and English. Appropriate language proficiency is required. This study course is offered as an English track or a German track.",
     "admissionModus": "Local admission restriction",
@@ -140,6 +162,11 @@
     "location": "Kamp-Lintfort",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Computer Science, Media Informatics, Design",
+    "areaOfStudyTags": [
+      "Computer Science",
+      "Media Informatics",
+      "Design"
+    ],
     "focus": "Usability, User Experience, User Research, Usability Testing, Digital Production for Interaction Design, Psychology for UX Practitioners, Strategic Usability Engineering, Human Computer Interaction (HCI), Methodology, Interaction Design",
     "annotation": "",
     "admissionModus": "Local admission restriction",
@@ -171,6 +198,10 @@
     "location": "Berlin",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Information Systems and Management, Business Administration",
+    "areaOfStudyTags": [
+      "Information Systems and Management",
+      "Business Administration"
+    ],
     "focus": "Business Intelligence, Business Process Management",
     "annotation": "",
     "admissionModus": "Local admission restriction",
@@ -203,6 +234,9 @@
     "location": "Stuttgart, Heidelberg",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Applied Computer Science",
+    "areaOfStudyTags": [
+      "Applied Computer Science"
+    ],
     "focus": "Business Computing, Multimedia Development",
     "annotation": "We support you personally and continuously in achieving your goals. Based on our proven CORE principle, we have coordinated all learning objectives, forms of examination as well as teaching and learning methods for you in such a way that learning is fun and you will achieve the best possible learning success. Digital teaching and learning content The use of digital elements in teaching is an essential component of our teaching and learning concept. Whether in virtual group rooms, chats with lecturers or in mobile learning apps, with us, you will be optimally prepared for the demands of the modern working world. You will get to know a variety of digital tools and methods that are precisely tailored to the skills that will help you in your studies and later career. Communication platforms such as MS Teams or Zoom are integrated into your everyday study routine as a matter of course. Internationality The SRH University of Applied Sciences Heidelberg maintains a broad network of partnerships around the world to enable you to spend time studying abroad: In a semester abroad, an internship or in a summer school, you can gain unique experiences worldwide, which will bring you unforgettable experiences with lifelong friendships.",
     "admissionModus": "Selection procedure / qualifying examination",
@@ -232,6 +266,10 @@
     "location": "Mittweida",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Applied Computer Science, Applied Mathematics",
+    "areaOfStudyTags": [
+      "Applied Computer Science",
+      "Applied Mathematics"
+    ],
     "focus": "Cryptography, Mathematical Network Analysis, Computational Intelligence, Data Compression",
     "annotation": "Application for the 2024/2025 winter semester is no longer possible. If you have any questions about a current application, please contact the application service at bewerbung@hs-mittweida or application@hs-mittweida.de for international students. If you have any questions about the content, please contact the student advice office at studienberatung@hs-mittweida.de.",
     "admissionModus": "Without admission restriction",
@@ -264,6 +302,12 @@
     "location": "Soest",
     "admissionSemester": "Summer Semester only",
     "areaOfStudy": "Information Systems and Management, Business Administration, International Business Administration, Business Management, Organisation Management",
+    "areaOfStudyTags": [
+      "Information Systems and Management",
+      "Business Administration",
+      "International Business Administration",
+      "Business Management, Organisation Management"
+    ],
     "focus": "Business Intelligence, Information Management, E-Business, ERP Enterprise Resource Planning, Management Accounting & Finance, Virtual/Intercultural Communication, Management Communication, Digital Transformation, Business Marketing Management",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -295,6 +339,11 @@
     "location": "Kamp-Lintfort",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Communication Design, Computer Science, Digital Media",
+    "areaOfStudyTags": [
+      "Communication Design",
+      "Computer Science",
+      "Digital Media"
+    ],
     "focus": "Media Design, Creative Technologies, Digital Innovation, Interactive Media, Media Computing, Design, Generative Design, Creative Informatics, Digital Storytelling",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -326,6 +375,11 @@
     "location": "Kamp-Lintfort",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Geoinformatics, Computer Science, Logistics, Transport, Transport Management",
+    "areaOfStudyTags": [
+      "Geoinformatics",
+      "Computer Science",
+      "Logistics, Transport, Transport Management"
+    ],
     "focus": "Transport Industry, Software Engineering, IT-Based Logistics, Ambient Intelligence, Statistics, Environmental Informatics, Analysis and Monitoring, Information Systems, Data Acquisition and Data Analysis, Data Mining, Machine Learning",
     "annotation": "",
     "admissionModus": "Local admission restriction",
@@ -357,6 +411,11 @@
     "location": "Dortmund",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Microelectronics, Systems Engineering, Computer Engineering",
+    "areaOfStudyTags": [
+      "Microelectronics",
+      "Systems Engineering",
+      "Computer Engineering"
+    ],
     "focus": "",
     "annotation": "Pre-application process: The Course Management offers an application pre-check of the relevant documents (Bachelor's degree, Bachelor's transcript, language certificate) for determination of eligibility according to our examination regulations. We start with the pre-check in April. These documents can be sent in one merged PDF file with a maximum size of 16348KB/16MB to service-esm@fh-dortmund.de Cooperation course with the Bochum University of Applied Sciences and the Westphalian University of Applied Sciences.",
     "admissionModus": "Without admission restriction",
@@ -389,6 +448,9 @@
     "location": "Deggendorf",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Applied Computer Science",
+    "areaOfStudyTags": [
+      "Applied Computer Science"
+    ],
     "focus": "Embedded systems, Digitisation, Automation, Communications Technology, Software Development, Geoinformatics, Programming, Automotive, Security Systems, Microcontroller",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -421,6 +483,11 @@
     "location": "Fulda",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Applied Computer Science, Computer Science, Software Engineering",
+    "areaOfStudyTags": [
+      "Applied Computer Science",
+      "Computer Science",
+      "Software Engineering"
+    ],
     "focus": "Software Development, Angewandte Informatik, Softwareentwicklung, international, programmieren, Informatik, Software, IT, Entwickler, cybersecurity",
     "annotation": "In addition to English proficiency, German proficiency at level A1 must be demonstrated",
     "admissionModus": "Without admission restriction",
@@ -453,6 +520,9 @@
     "location": "Wedel",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Engineering Informatics",
+    "areaOfStudyTags": [
+      "Engineering Informatics"
+    ],
     "focus": "IT Security, Cryptography, Robotics, Technical Optics, Manufacturing",
     "annotation": "The course is only offered in English.",
     "admissionModus": "Without admission restriction",
@@ -485,6 +555,10 @@
     "location": "Neu-Ulm",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Information Systems and Management, International Business Administration",
+    "areaOfStudyTags": [
+      "Information Systems and Management",
+      "International Business Administration"
+    ],
     "focus": "Business Intelligence (BI), BI Strategy, BI Organisation, BI Architecture, Data Analysis, Big Data, Data Mining, Applied Statistics, IT Management",
     "annotation": "The Master´s degree programme combines organisational knowledge with technological know-how. In addition to advanced knowledge of administration systems, sound knowledge of management concepts and supporting information technologies is taught that safeguards and improves the efficiency of companies. Here in particular, the focus is on Corporate Performance Management, which Business Intelligence (BI) uses to support all company operational areas.",
     "admissionModus": "Without admission restriction",
@@ -516,6 +590,9 @@
     "location": "Berlin",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Data Science",
+    "areaOfStudyTags": [
+      "Data Science"
+    ],
     "focus": "International Project Management, Data Analysis, Statistical Programming, Data Mining, Change Management, Law",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -548,6 +625,9 @@
     "location": "Dortmund",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Software Engineering",
+    "areaOfStudyTags": [
+      "Software Engineering"
+    ],
     "focus": "",
     "annotation": "Pre-application process: The Course Management offers an application pre-check of the relevant documents (Bachelor's degree, Bachelor's transcript, language certificate) for determination of your eligibility according to our examination regulations. We start with the pre-check in April. These documents can be sent in one merged PDF file with a maximum size of 16348KB/16MB to: service-mdt@fh-dortmund.de Cooperation course with the Bochum University of Applied Sciences and the Westphalian University of Applied Sciences.",
     "admissionModus": "Without admission restriction",
@@ -580,6 +660,10 @@
     "location": "Berlin",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Computer Science, Data Science",
+    "areaOfStudyTags": [
+      "Computer Science",
+      "Data Science"
+    ],
     "focus": "",
     "annotation": "The General Studies modules are taught in German.",
     "admissionModus": "Local admission restriction",
@@ -609,6 +693,9 @@
     "location": "Furtwangen",
     "admissionSemester": "Summer Semester only",
     "areaOfStudy": "Information Systems and Management",
+    "areaOfStudyTags": [
+      "Information Systems and Management"
+    ],
     "focus": "IT Consulting, Business Intelligence, Business Process Management, Enterprise Resource Planning (ERP) Systems, Database Management",
     "annotation": "Lectures begin on 1 March, including the orientation programme and the two-week course of Intensive German.",
     "admissionModus": "Local admission restriction",
@@ -640,6 +727,11 @@
     "location": "München",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Engineering and Management, Information Systems and Management, Business Administration",
+    "areaOfStudyTags": [
+      "Engineering and Management",
+      "Information Systems and Management",
+      "Business Administration"
+    ],
     "focus": "",
     "annotation": "The English-language Master's degree (MA) at the Bavarian Business School in Munich deals with new and exciting digital business models and innovative entrepreneurship. Study in small groups, in a personal atmosphere and with international lecturers. Private | Practice oriented | Approved by the State. The standard period of study in the full-time course is 3 semesters and 5 semesters for the part-time course.",
     "admissionModus": "Without admission restriction",
@@ -672,6 +764,9 @@
     "location": "Hamburg, Heidelberg, Fürth",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Computer Science",
+    "areaOfStudyTags": [
+      "Computer Science"
+    ],
     "focus": "Data Management, Big Data, Data Protection, Data Analytics, Research and Ethics, Software Engineering & Programming (Full-Time)",
     "annotation": "We support you personally and continuously in achieving your goals. Based on our proven CORE principle, we have coordinated all learning objectives, forms of examination as well as teaching and learning methods for you in such a way that learning is fun and you will achieve the best possible learning success. Digital teaching and learning content The use of digital elements in teaching is an essential component of our teaching and learning concept. Whether in virtual group rooms, chats with lecturers or in mobile learning apps, with us, you will be optimally prepared for the demands of the modern working world. You will get to know a variety of digital tools and methods that are precisely tailored to the skills that will help you in your studies and later career. Communication platforms such as MS Teams or Zoom are integrated into your everyday study routine as a matter of course. Internationality The SRH University of Applied Sciences Heidelberg maintains a broad network of partnerships around the world to enable you to spend time studying abroad: In a semester abroad, an internship or in a summer school, you can gain unique experiences worldwide, which will bring you unforgettable experiences with lifelong friendships.",
     "admissionModus": "Selection procedure / qualifying examination",
@@ -701,6 +796,10 @@
     "location": "Stuttgart",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Software Engineering, Computer Engineering",
+    "areaOfStudyTags": [
+      "Software Engineering",
+      "Computer Engineering"
+    ],
     "focus": "Software Development, Information Management, Computer Networks, Electronic Commerce",
     "annotation": "The degree programme is available as a full-time or part-time course (standard study period of 5 semesters). All courses are conducted in English. This three-semester, internationally oriented degree course is designed to meet the requirements of industry for highly motivated, team-oriented software experts. Students learn and apply state-of-the-art technologies and standards in the areas of software development, information management, computer networks and electronic commerce.",
     "admissionModus": "Local admission restriction",
@@ -730,6 +829,10 @@
     "location": "Schmalkalden",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Applied Computer Science, Computer Science",
+    "areaOfStudyTags": [
+      "Applied Computer Science",
+      "Computer Science"
+    ],
     "focus": "",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -761,6 +864,12 @@
     "location": "Berlin, Leipzig",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Applied Computer Science, Computer Science, Practical Computer Science, Information Systems and Management",
+    "areaOfStudyTags": [
+      "Applied Computer Science",
+      "Computer Science",
+      "Practical Computer Science",
+      "Information Systems and Management"
+    ],
     "focus": "Cyber Security, Information Security, Information Security, IT Security, Computer Science, Business Informatics, Data Analysis, Data Analysis, Data Security, Safety",
     "annotation": "Our degree course trains you to become a cyber security specialist who has profound IT knowledge and who can plan and implement information security systems and measures in companies and other institutions. You will deal with current topics such as blockchain, DevSecOps and cryptocurrencies and receive comprehensive training in the field of information security. In addition to specialised knowledge in security technologies, IT security management and data analysis, you are just as familiar with operational processes and organisational theory as you are with the legal challenges in data protection.",
     "admissionModus": "Without admission restriction",
@@ -790,6 +899,11 @@
     "location": "Gießen, Friedberg",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Information Technology, Communications Technology, Computer Engineering",
+    "areaOfStudyTags": [
+      "Information Technology",
+      "Communications Technology",
+      "Computer Engineering"
+    ],
     "focus": "Control Engineering, Computer Engineering, Communications Engineering, Without specialisation",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -822,6 +936,10 @@
     "location": "Offenburg",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Computer Science, Information Systems and Management",
+    "areaOfStudyTags": [
+      "Computer Science",
+      "Information Systems and Management"
+    ],
     "focus": "Corporate Security, Information Technology, Ethics and Law",
     "annotation": "The Master's degree programme Enterprise and IT Security merges the fields of competence IT Security, Information Technology and Business Administration",
     "admissionModus": "Local admission restriction",
@@ -853,6 +971,10 @@
     "location": "Potsdam",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Information Systems and Management, Business Administration",
+    "areaOfStudyTags": [
+      "Information Systems and Management",
+      "Business Administration"
+    ],
     "focus": "",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -882,6 +1004,11 @@
     "location": "Hof",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Media Informatics, Practical Computer Science, Information Systems and Management",
+    "areaOfStudyTags": [
+      "Media Informatics",
+      "Practical Computer Science",
+      "Information Systems and Management"
+    ],
     "focus": "",
     "annotation": "",
     "admissionModus": "Selection procedure / qualifying examination",
@@ -911,6 +1038,12 @@
     "location": "Soest",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Information Systems and Management, Business Administration, International Business Administration, Business Management, Organisation Management",
+    "areaOfStudyTags": [
+      "Information Systems and Management",
+      "Business Administration",
+      "International Business Administration",
+      "Business Management, Organisation Management"
+    ],
     "focus": "Business Informatics, Information Systems, ERP Enterprise Resource Planning, Business Intelligence, E-Business, Management Accounting & Finance, International Management, International Economics, Process Management, Innovation Management",
     "annotation": "IMIS Online is a modern web-based distance learning programme which is supplemented by an introductory week and a summer camp on site in Soest. E-lectures, web-based training, interactive virtual collaborative learning concepts and consistent event coordination using the Moodle learning management system ensure that self-study is flexible and tailored to individual learning processes.",
     "admissionModus": "Without admission restriction",
@@ -942,6 +1075,12 @@
     "location": "Berlin, Leipzig",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Applied Computer Science, Computer Science, Artificial Intelligence, Data Science",
+    "areaOfStudyTags": [
+      "Applied Computer Science",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Data Science"
+    ],
     "focus": "Cloud Computing, Big Data, Artificial Intelligence, Machine Learning, Software Development, Programming",
     "annotation": "Our degree program offers you a computer science education that includes classical modules such as software development and programming, but also provides specialised knowledge in the field of Big Data and Artificial Intelligence. You learn about the latest big data technologies and how to implement AI and machine learning tools in companies and the business environment. In addition to technological expertise, the practice-oriented curriculum helps you to specialise your analytical, business and soft skills in various projects and internships.",
     "admissionModus": "Without admission restriction",
@@ -971,6 +1110,14 @@
     "location": "München",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Electrical Engineering, Information Technology, Engineering and Management, Computer Science, Information Systems and Management, Technology Management",
+    "areaOfStudyTags": [
+      "Electrical Engineering",
+      "Information Technology",
+      "Engineering and Management",
+      "Computer Science",
+      "Information Systems and Management",
+      "Technology Management"
+    ],
     "focus": "Focus on technology",
     "annotation": "Secure the digital future: With the Master of Science in Cyber Security, analyse the risk and threat potential in IT and deepen information technology / operational technologies. Study in small groups & a personal atmosphere at HDBW Munich. Private | Practice oriented | Approved by the State. The standard period of study in the full-time course is 3 semesters and 5 semesters for the part-time course.",
     "admissionModus": "Without admission restriction",
@@ -1003,6 +1150,10 @@
     "location": "Erfurt",
     "admissionSemester": "Admission in all quarters",
     "areaOfStudy": "Computer Engineering, Data Science",
+    "areaOfStudyTags": [
+      "Computer Engineering",
+      "Data Science"
+    ],
     "focus": "Data Science, Phyton, Academic Work, Statistics, SQL, Cloud Computing, Neural networks and deep learning",
     "annotation": "Progressing digitisation is causing data volumes to grow immeasurably. A topic that has long since become a matter of public debate. Therefore, data experts who approach the developments in the areas of software and infrastructure engineering as well as big data technologies with solution skills in a methodical, targeted and consistent way are desperately sought-after. With a distance learning Master's degree in Data Science at the IU, you will ensure that you have optimum career opportunities on the labour market. And: you study 100% online, how, when and where you want.",
     "admissionModus": "Without admission restriction",
@@ -1032,6 +1183,9 @@
     "location": "Erfurt",
     "admissionSemester": "Admission in all quarters",
     "areaOfStudy": "Artificial Intelligence",
+    "areaOfStudyTags": [
+      "Artificial Intelligence"
+    ],
     "focus": "Artificial Intelligence, Advanced Mathematics, Advanced statistics, Machine Learning, Deep Learning",
     "annotation": "Artificial intelligence and machine learning are the future – many areas have already been conquered. In the distance learning Master's degree in Artificial Intelligence at the IU, become an expert in computer-based language and image processing, intelligent production in Industry 4.0 or for autonomous vehicles. While specific artificial intelligences have long since been in use in medicine and materials management, but the development of general AI that behaves similarly to humans still has a great deal of development potential, you will be able to work in innumerable areas as an AI specialist.",
     "admissionModus": "Without admission restriction",
@@ -1061,6 +1215,11 @@
     "location": "Ingolstadt",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Mechanical Engineering, Communication Design, Computer Science",
+    "areaOfStudyTags": [
+      "Mechanical Engineering",
+      "Communication Design",
+      "Computer Science"
+    ],
     "focus": "Interaction Design, Design, Strategy and Management, Usability Research, Agile Project Management, Multimodal Interactive Systems",
     "annotation": "",
     "admissionModus": "Local admission restriction",
@@ -1093,6 +1252,9 @@
     "location": "Erfurt",
     "admissionSemester": "Admission in all quarters",
     "areaOfStudy": "Data Science",
+    "areaOfStudyTags": [
+      "Data Science"
+    ],
     "focus": "Programming with Python, Advanced Mathematics, Advanced Statistics, Data Science, Algorithmics, Big Data Technologies, Artificial Intelligence, Networks and Distributed Systems",
     "annotation": "Computer Science is a subject area that is changing rapidly, is at the cutting edge of our age and has become the pacemaker for the digital society of the future. In the English-language IU Master's degree programme in Computer Science, you will focus on Data Science, Cybersecurity and Artificial Intelligence. Due to the unmet need for experts on these topics, you will become a sought-after specialist who can work in almost all industries. Your Master's degree course provides you with all the necessary skills to establish yourself as a specialist on the international labour market.",
     "admissionModus": "Without admission restriction",
@@ -1122,6 +1284,10 @@
     "location": "Deggendorf",
     "admissionSemester": "Summer Semester only",
     "areaOfStudy": "Computer Science, Data Science",
+    "areaOfStudyTags": [
+      "Computer Science",
+      "Data Science"
+    ],
     "focus": "AI, Artificial intelligence (AI), Computational Intelligence, Advanced Data Storage and Analyses, Machine Learning",
     "annotation": "Joint degree course with at least 1 mandatory semester in South Bohemia (Ceske Budejovice/Budweis).",
     "admissionModus": "Without admission restriction",
@@ -1154,6 +1320,12 @@
     "location": "Ingolstadt",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Software Engineering, Technology Management, Business Management, Organisation Management, Data Science",
+    "areaOfStudyTags": [
+      "Software Engineering",
+      "Technology Management",
+      "Business Management, Organisation Management",
+      "Data Science"
+    ],
     "focus": "Entrepreneurial Methods, AI & Smart Data Science, Entrepreneurship Project, Digital Business Management & Technologies, Finance & Growth Management, Intellectual Property Management, Management, Technologies",
     "annotation": "Will not be offered in summer 2025",
     "admissionModus": "Local admission restriction",
@@ -1186,6 +1358,12 @@
     "location": "Ingolstadt",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Engineering and Management, Marketing, Distribution, Technology Management, Artificial Intelligence",
+    "areaOfStudyTags": [
+      "Engineering and Management",
+      "Marketing, Distribution",
+      "Technology Management",
+      "Artificial Intelligence"
+    ],
     "focus": "International Management, Digital Marketing, Software Engineering, Business Analytics & Artificial Intelligence, Management Accounting & International Taxation, Entrepreneurship & Innovation Management",
     "annotation": "",
     "admissionModus": "Local admission restriction",
@@ -1218,6 +1396,14 @@
     "location": "Hamburg",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Applied Computer Science, Business Administration, International Business Administration, Economic Sciences, Economics, Technology Management, Data Science",
+    "areaOfStudyTags": [
+      "Applied Computer Science",
+      "Business Administration",
+      "International Business Administration",
+      "Economic Sciences, Economics",
+      "Technology Management",
+      "Data Science"
+    ],
     "focus": "Data Analytics, Change Management, Process Management, Innovation Management, Leadership, Digital Transformation, Digital Transformation, Cyber Security, Company Development",
     "annotation": "Our Master’s degree course MSc Digital Transformation Management offers you a modern, digital business education with a technological focus. You will learn how to best support companies in their digital transformation and how to involve relevant stakeholders. You will learn about the special features of digital business models and the power that disruptive innovations can have. You will learn about various methods for generating ideas and how digital change can be promoted in companies. The modules on innovation management, change management and process management will strengthen your expertise, as will the integration of current topics such as strategic management, organisational development, intercultural management and diversity. Thanks to the degree course’s focus on skills and projects, you will enhance your communication, conflict resolution and teamwork skills and become versed in agile project management and coaching methods. Your semester abroad will also help you broaden your horizons as you will spend a semester at a partner university or doing a work placement.",
     "admissionModus": "Without admission restriction",
@@ -1247,6 +1433,9 @@
     "location": "Deggendorf",
     "admissionSemester": "Summer Semester only",
     "areaOfStudy": "Computer Engineering",
+    "areaOfStudyTags": [
+      "Computer Engineering"
+    ],
     "focus": "Quantum Algorithms, Real-time Computing",
     "annotation": "Information on the study content: qc-m-info@th-deg.de",
     "admissionModus": "Without admission restriction",
@@ -1279,6 +1468,14 @@
     "location": "Ansbach",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Electronics, Information Technology, Renewable Energies, Power Engineering, Power Plant Technology, Artificial Intelligence",
+    "areaOfStudyTags": [
+      "Electronics",
+      "Information Technology",
+      "Renewable Energies",
+      "Power Engineering",
+      "Power Plant Technology",
+      "Artificial Intelligence"
+    ],
     "focus": "",
     "annotation": "The events take place at the campus in Feuchtwangen.",
     "admissionModus": "Local admission restriction",
@@ -1309,6 +1506,13 @@
     "location": "Potsdam",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Information Systems and Management, Business Administration, Technology Management, Artificial Intelligence, Data Science",
+    "areaOfStudyTags": [
+      "Information Systems and Management",
+      "Business Administration",
+      "Technology Management",
+      "Artificial Intelligence",
+      "Data Science"
+    ],
     "focus": "Data Science and AI, Digital Business Competencies, Leadership, Action and Intercultural Competencies, Study abroad or Internship or Business Project, Scientific and Methods Competencies, Project Management",
     "annotation": "Depending on previous qualifications, the standard period of study can also be 2 or 3 semesters.",
     "admissionModus": "Without admission restriction",
@@ -1338,6 +1542,9 @@
     "location": "Cham",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Artificial Intelligence",
+    "areaOfStudyTags": [
+      "Artificial Intelligence"
+    ],
     "focus": "Artificial Intelligence, Machine Learning, Autonomous Systems, Sensor Technologies, Data Processing Methods",
     "annotation": "Place of study: Cham",
     "admissionModus": "Without admission restriction",
@@ -1370,6 +1577,11 @@
     "location": "Emden",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Information Technology, Engineering Informatics, Data Science",
+    "areaOfStudyTags": [
+      "Information Technology",
+      "Engineering Informatics",
+      "Data Science"
+    ],
     "focus": "Computer Sciences, Introduction to Data Science, Controlling, Machine Learning, Communication & Culture, Business Analytics, Introduction to Scientific Working",
     "annotation": "The standard period of study is 3 years full-time and 5 years part-time",
     "admissionModus": "Local admission restriction",
@@ -1401,6 +1613,10 @@
     "location": "Gummersbach, Köln",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Computer Science, Data Science",
+    "areaOfStudyTags": [
+      "Computer Science",
+      "Data Science"
+    ],
     "focus": "IT Management, Business Information Systems, Software Architecture, Data and Information Science",
     "annotation": "",
     "admissionModus": "Local admission restriction",
@@ -1433,6 +1649,9 @@
     "location": "Neu-Ulm",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Data Science",
+    "areaOfStudyTags": [
+      "Data Science"
+    ],
     "focus": "",
     "annotation": "Creating Ideas to Shape our Future Digital innovations are the core of new business models, the founding of start-ups and the strategy of all companies that want to enhance their future viability and competitiveness. We study new work, agile methods and ways of thinking about how a company is run, with modern organisational forms and strategies. The structuring options are diverse and require fresh ideas. The \"Digital Innovation Management\" degree course guarantees both the connection to a young, international research discipline and a direct reference to current entrepreneurial challenges, and provides a direct insight into the current topics facing SMEs and world market leaders in the region. The programme is specially designed to prepare students for a number of key positions in digitalisation in companies and also includes cross-cutting issues such as leading consulting projects, training in communication skills and a convincing line of argument.",
     "admissionModus": "Without admission restriction",
@@ -1464,6 +1683,11 @@
     "location": "Bielefeld, Köln, Frechen, Bamberg, Rostock, Hannover, Berlin, Waldshut-Tiengen",
     "admissionSemester": "Admission in all trimesters",
     "areaOfStudy": "Power Engineering, Technology Management, Data Science",
+    "areaOfStudyTags": [
+      "Power Engineering",
+      "Technology Management",
+      "Data Science"
+    ],
     "focus": "",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -1493,6 +1717,11 @@
     "location": "Hagen",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Computer Science, Information Systems and Management, Business Administration",
+    "areaOfStudyTags": [
+      "Computer Science",
+      "Information Systems and Management",
+      "Business Administration"
+    ],
     "focus": "ERP and Analytical Systems, IT Quality Management, Data Analysis, Design Thinking, Industry 4.0, Project Management, Quality-Driven Software Development, Requirement Engineering, SAP;, Test-Driven Development",
     "annotation": "In parallel, the degree in Industrial Engineering M.Sc. can be obtained, provided that the Bachelor's degree qualifying for admission comprises at least 10 credit points from the field of engineering.",
     "admissionModus": "Without admission restriction",
@@ -1524,6 +1753,14 @@
     "location": "Würzburg",
     "admissionSemester": "Summer Semester only",
     "areaOfStudy": "Mechatronics, Computer Science, Information Systems and Management, Mathematics, Robotics, Artificial Intelligence",
+    "areaOfStudyTags": [
+      "Mechatronics",
+      "Computer Science",
+      "Information Systems and Management",
+      "Mathematics",
+      "Robotics",
+      "Artificial Intelligence"
+    ],
     "focus": "",
     "annotation": "We strongly recommend English proficiency at the C1 level! Applicants must demonstrate English language proficiency at level B2 (CEFR). Non-native speakers are required to provide evidence of German language proficiency at level A2 (CEFR). This language level, with a corresponding certificate, can also be obtained within the first two semesters of study.",
     "admissionModus": "Without admission restriction",
@@ -1553,6 +1790,9 @@
     "location": "Nordhausen",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Computer Engineering",
+    "areaOfStudyTags": [
+      "Computer Engineering"
+    ],
     "focus": "",
     "annotation": "",
     "admissionModus": "Local admission restriction",
@@ -1585,6 +1825,10 @@
     "location": "Potsdam",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Digital Media, Data Science",
+    "areaOfStudyTags": [
+      "Digital Media",
+      "Data Science"
+    ],
     "focus": "Marketing, Entrepreneurship, Customer Relationship Management",
     "annotation": "Duration of studies: 2, 3 or 4 semesters possible ECTS: 120 ECTS; Fast Track: 60 or 90 ECTS Location: This degree programme is also offered in Dubai.",
     "admissionModus": "Without admission restriction",
@@ -1614,6 +1858,11 @@
     "location": "Dortmund, Frankfurt am Main, München, Hamburg, Köln, Stuttgart, Berlin",
     "admissionSemester": "Admission in all quarters",
     "areaOfStudy": "Information Systems and Management, Statistics, Economic Sciences, Economics",
+    "areaOfStudyTags": [
+      "Information Systems and Management",
+      "Statistics",
+      "Economic Sciences, Economics"
+    ],
     "focus": "Business Informatics, Statistics, Business Intelligence, Machine Learning, Data Literacy, Principles of Programming, Big Data, Adaptive Learning Systems",
     "annotation": "The Applied Business Data Science Master is a distance correspondence course that takes place 100% online. If required, you can of course benefit from the seven German-wide locations of the ISM as a registered student in the ISM distance learning programme. In addition, the International School of Management is AACSB accredited – one of the few private higher education institutions with this worldwide distinction at the highest level.",
     "admissionModus": "Selection procedure / qualifying examination",
@@ -1643,6 +1892,12 @@
     "location": "Berlin",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Applied Computer Science, Computer Science, Practical Computer Science, Data Science",
+    "areaOfStudyTags": [
+      "Applied Computer Science",
+      "Computer Science",
+      "Practical Computer Science",
+      "Data Science"
+    ],
     "focus": "",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -1674,6 +1929,10 @@
     "location": "Zwickau",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Computer Science, Business Administration",
+    "areaOfStudyTags": [
+      "Computer Science",
+      "Business Administration"
+    ],
     "focus": "design and usability, business, advanced programming skills",
     "annotation": "As an IoT student, you will learn the technical and business principles to develop innovative products. You will acquire the skills to adapt these products to the needs of your customers and to make them user-friendly.",
     "admissionModus": "Local admission restriction",
@@ -1706,6 +1965,13 @@
     "location": "Schweinfurt",
     "admissionSemester": "Summer Semester only",
     "areaOfStudy": "Engineering and Management, Applied Computer Science, Digital Media, International Business Administration, Sustainability Sciences (Social)",
+    "areaOfStudyTags": [
+      "Engineering and Management",
+      "Applied Computer Science",
+      "Digital Media",
+      "International Business Administration",
+      "Sustainability Sciences (Social)"
+    ],
     "focus": "Transformation Management, Circular, Purpose Economy, Design Thinking, Entrepreneurship",
     "annotation": "Focus on developing the personal, organisational and global mindset alongside teaching methodology and subject-expertise by lecturers with practical experience. Practical application of the acquired knowledge in an applied transformation project.",
     "admissionModus": "Without admission restriction",
@@ -1738,6 +2004,12 @@
     "location": "Ingolstadt",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Software Engineering, Computer Engineering, Artificial Intelligence, Data Science",
+    "areaOfStudyTags": [
+      "Software Engineering",
+      "Computer Engineering",
+      "Artificial Intelligence",
+      "Data Science"
+    ],
     "focus": "Voice Assistance Systems, Deep Learning, AI and Ethics, Intelligent Robots, AI in Safety-relevant Systems, Advanced Speech Technology, AI in Safety-Related Systems",
     "annotation": "For the Dean's office opening hours see https://www.thi.de/informatik/studiengaenge-i/",
     "admissionModus": "Local admission restriction",
@@ -1770,6 +2042,12 @@
     "location": "Hof",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Computer Science, Engineering Informatics, Artificial Intelligence, Data Science",
+    "areaOfStudyTags": [
+      "Computer Science",
+      "Engineering Informatics",
+      "Artificial Intelligence",
+      "Data Science"
+    ],
     "focus": "",
     "annotation": "",
     "admissionModus": "Selection procedure / qualifying examination",
@@ -1799,6 +2077,10 @@
     "location": "Potsdam",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Applied Computer Science, Computer Science",
+    "areaOfStudyTags": [
+      "Applied Computer Science",
+      "Computer Science"
+    ],
     "focus": "",
     "annotation": "Depending on previous qualifications, the standard period of study can also be 2 or 3 semesters. Higher in part-time.",
     "admissionModus": "Without admission restriction",
@@ -1828,6 +2110,11 @@
     "location": "Potsdam",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Applied Computer Science, Computer Science, Business Administration",
+    "areaOfStudyTags": [
+      "Applied Computer Science",
+      "Computer Science",
+      "Business Administration"
+    ],
     "focus": "",
     "annotation": "Depending on previous qualifications, the standard period of study can also be 2 or 3 semesters. Higher in part-time.",
     "admissionModus": "Without admission restriction",
@@ -1857,6 +2144,9 @@
     "location": "Fürth",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Data Science",
+    "areaOfStudyTags": [
+      "Data Science"
+    ],
     "focus": "",
     "annotation": "Data specialists are in demand like never before. Do you as a data scientist want to specialise in the healthcare sector and optimise your career opportunities? Conquer the data world with AI!",
     "admissionModus": "Without admission restriction",
@@ -1886,6 +2176,10 @@
     "location": "Berlin",
     "admissionSemester": "Summer Semester only",
     "areaOfStudy": "Applied Computer Science, Logistics, Transport, Transport Management",
+    "areaOfStudyTags": [
+      "Applied Computer Science",
+      "Logistics, Transport, Transport Management"
+    ],
     "focus": "Supply Chain Management, Process Management, Programming, Business Intelligence, Big Data, Operations Research, Enterprise Resource Planning, Digital Transformation, International Management",
     "annotation": "Initial start: Winter semester 2023/24 The digitisation of the economy, geopolitical changes and increasing cost pressure are having enormous impacts on the logistics and supply chain industry. Companies are therefore constantly looking for experts who can deal with this digital transformation and gain insights from large amounts of data in order to develop innovative supply chain solutions and business strategies. Take on these challenges and become part of a new generation of supply chain managers that knows how to deal with innovative digital solutions and complex SCM platforms and works confidently in a global and diverse environment. In the degree course, you will get to know the most important supply chain concepts, digital tools and their application. You will learn more about Supply Chain Management 4.0, innovation management, process management and big data and will be versed in current topics such as business intelligence, digital transformation and operations research. The use and customisation of SAP, the leading enterprise resource planning system, is just as familiar to you as programming apps. In addition, you will expand your knowledge of platform economics and digital business models and apply agile methods in study projects. Thanks to the project and skill-based approach, you will also develop your leadership, communication and intercultural skills and are therefore optimally prepared for demanding and international positions in digital supply chain management.",
     "admissionModus": "Without admission restriction",
@@ -1915,6 +2209,11 @@
     "location": "Ingolstadt",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Automation Technology, Vehicle Engineering, Artificial Intelligence",
+    "areaOfStudyTags": [
+      "Automation Technology",
+      "Vehicle Engineering",
+      "Artificial Intelligence"
+    ],
     "focus": "Data Engineering, Machine Perception, Systems Engineering, Systems Simulation, Computing and Connectivity Technologies, Sensor Networks Technologies, Sensor Data Fusion",
     "annotation": "",
     "admissionModus": "Local admission restriction",
@@ -1947,6 +2246,9 @@
     "location": "Cham",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Artificial Intelligence",
+    "areaOfStudyTags": [
+      "Artificial Intelligence"
+    ],
     "focus": "Artificial Intelligence, Digital Production Management, Machine Learning, Intelligent Systems",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -1979,6 +2281,9 @@
     "location": "Erfurt",
     "admissionSemester": "Admission in all quarters",
     "areaOfStudy": "Software Engineering",
+    "areaOfStudyTags": [
+      "Software Engineering"
+    ],
     "focus": "",
     "annotation": "Two central topics make up the Master’s degree in DevOps and Cloud Computing: DevOps – the integration of software development and IT operations - and cloud computing. It deals with the storage and management of data in a network. In this degree programme, students learn the necessary know-how for planning and controlling the DevOps culture in the increasingly digitised world of work. In this way, they not only relieve individual teams, but also ensure agile and effective work. And a better corporate culture.",
     "admissionModus": "Without admission restriction",
@@ -2008,6 +2313,9 @@
     "location": "Fulda",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Data Science",
+    "areaOfStudyTags": [
+      "Data Science"
+    ],
     "focus": "Data Science, Angewandte Informatik, international, Data Mining, Data Engineering, Machine Learning, Data Analysis, Business Intelligence, Internet of Things, Programmierung",
     "annotation": "In addition to English proficiency, German proficiency at level A2 must be demonstrated If you start the Master’s in Data Science with a Bachelor’s degree comprising 180 ECTS, you take the 120 ECTS option. If you start the Master’s in Data Science with a Bachelor’s degree comprising 210 ECTS, you can choose whether you take the 90 or 120 ETCS option of the Master’s degree course.",
     "admissionModus": "Without admission restriction",
@@ -2040,6 +2348,11 @@
     "location": "Bremen",
     "admissionSemester": "Summer Semester only",
     "areaOfStudy": "Electrical Engineering, Space Engineering, Computer Science",
+    "areaOfStudyTags": [
+      "Electrical Engineering",
+      "Space Engineering",
+      "Computer Science"
+    ],
     "focus": "Space Technologies, Computer Science, Electronics Engineering",
     "annotation": "The course of study offers an interdisciplinary degree course that links up with the engineering sciences in the fields of computer science, electrical engineering and mechanical engineering and combines them with overarching interdisciplinary system competencies. Oriented to the basic concept of systems engineering, students acquire technical know-how at the cutting edge of research and application skills for practical astronautics-related projects on concrete technical systems (e.g. satellite systems). Supplemented by management and social skills, the aim is to take the constantly increasing complexity of software-intensive technical systems in the space industry into account. The degree course is designed as a strategic cooperation with the Gdańsk University of Technology. The study programme concept provides for one theoretical semester to be completed in Gdańsk and one in Bremen and for the credits earned to be credited to the curricula of the respective study programmes at both universities to enable students to obtain two degrees as a ‘double degree’.",
     "admissionModus": "Local admission restriction",
@@ -2069,6 +2382,11 @@
     "location": "Zwickau",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Computer Science, Information Systems and Management, Business Administration",
+    "areaOfStudyTags": [
+      "Computer Science",
+      "Information Systems and Management",
+      "Business Administration"
+    ],
     "focus": "",
     "annotation": "The double degree course combines the areas of Management, Business Informatics and Computer Science with the advantages of studying abroad. The aim is to train interdisciplinary experts who can work at the interface of management, IT and computer science and have a broad understanding of complex organisational processes.",
     "admissionModus": "Without admission restriction",
@@ -2099,6 +2417,11 @@
     "location": "Potsdam",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Systems Engineering, Artificial Intelligence, Data Science",
+    "areaOfStudyTags": [
+      "Systems Engineering",
+      "Artificial Intelligence",
+      "Data Science"
+    ],
     "focus": "",
     "annotation": "Duration of studies: 2, 3 or 4 semesters possible Standard: 120 ECTS / fast track: 60 or 90 ECTS",
     "admissionModus": "Without admission restriction",
@@ -2128,6 +2451,11 @@
     "location": "Potsdam",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Systems Engineering, Applied Computer Science, Software Engineering",
+    "areaOfStudyTags": [
+      "Systems Engineering",
+      "Applied Computer Science",
+      "Software Engineering"
+    ],
     "focus": "",
     "annotation": "Duration of studies: 2, 3 or 4 semesters possible Standard: 120 ECTS / fast track: 60 or 90 ECTS",
     "admissionModus": "Without admission restriction",
@@ -2157,6 +2485,10 @@
     "location": "Potsdam",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Design, Artificial Intelligence",
+    "areaOfStudyTags": [
+      "Design",
+      "Artificial Intelligence"
+    ],
     "focus": "",
     "annotation": "Duration of studies: 2, 3 or 4 semesters possible Standard: 120 ECTS / fast track: 60 or 90 ECTS",
     "admissionModus": "Without admission restriction",
@@ -2186,6 +2518,10 @@
     "location": "Aachen",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Computer Science, Economic Sciences, Economics",
+    "areaOfStudyTags": [
+      "Computer Science",
+      "Economic Sciences, Economics"
+    ],
     "focus": "",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -2218,6 +2554,11 @@
     "location": "Cham",
     "admissionSemester": "Summer Semester only",
     "areaOfStudy": "Mechatronics, Robotics, Artificial Intelligence",
+    "areaOfStudyTags": [
+      "Mechatronics",
+      "Robotics",
+      "Artificial Intelligence"
+    ],
     "focus": "",
     "annotation": "General information about the Master´s degree programme in Robotics: studium-cham@th-deg.de Information on the aptitude procedure: master-m-exam@th-deg.de",
     "admissionModus": "Without admission restriction",
@@ -2250,6 +2591,10 @@
     "location": "Aachen",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Computer Science, Economic Sciences, Economics",
+    "areaOfStudyTags": [
+      "Computer Science",
+      "Economic Sciences, Economics"
+    ],
     "focus": "",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -2282,6 +2627,14 @@
     "location": "Gütersloh",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Applied Computer Science, Computer Science, Statistics, Robotics, Artificial Intelligence, Data Science",
+    "areaOfStudyTags": [
+      "Applied Computer Science",
+      "Computer Science",
+      "Statistics",
+      "Robotics",
+      "Artificial Intelligence",
+      "Data Science"
+    ],
     "focus": "Data Science, Applied research",
     "annotation": "",
     "admissionModus": "Local admission restriction",
@@ -2313,6 +2666,10 @@
     "location": "Deggendorf",
     "admissionSemester": "Summer Semester only",
     "areaOfStudy": "Automotive Engineering, Artificial Intelligence",
+    "areaOfStudyTags": [
+      "Automotive Engineering",
+      "Artificial Intelligence"
+    ],
     "focus": "Automotive Computer Science, Software Engineering, Software-defined vehicle, Securecar, Autonomous driving, Driver Assistance Systems, Artificial Intelligence",
     "annotation": "The automotive industry is one of the most important industries in Bavaria. In addition to large car and truck manufacturers, numerous supply companies are also located here. For the mobility of the future, more and more functions are being implemented via software in modern vehicles. In some cases, more than 200 control units are installed in a vehicle and up to 16 gigabytes of software data are imported. Software is therefore a crucial key component, which is why the industry is now talking about Software Defined Vehicles (SDV). This development requires highly complex systems with hardware and software components for more and more safety, comfort and entertainment on board, which in turn requires highly qualified experts for development and implementation.",
     "admissionModus": "Without admission restriction",
@@ -2345,6 +2702,9 @@
     "location": "Sankt Augustin",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Computer Science",
+    "areaOfStudyTags": [
+      "Computer Science"
+    ],
     "focus": "Safety and Security of Intelligent Systems, Explainable Robotics, Intelligent Manipulation, Machine Learning, Artificial Intelligence, Autonomous Systems, Intelligent Robots, Systems Engineering, Human Robot Interaction",
     "annotation": "The Master Program Autonomous Systems is offered by the Institute of Applied Sciences of the Bonn-Aachen International Center for Information Technology (b-it). This institute is based on the cooperation between two renowned German competence centres: the Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS) and the Department of Computer Science of the University of Bonn-Rhein-Sieg (H-BRS).",
     "admissionModus": "Without admission restriction",
@@ -2374,6 +2734,9 @@
     "location": "Köln, Berlin",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Computer Science",
+    "areaOfStudyTags": [
+      "Computer Science"
+    ],
     "focus": "Cyber Attacks & Threat Management, Intelligent Systems, Machine Learning",
     "annotation": "Have you completed your bachelor's degree in Computer Science or a related field and are you now ready to advance your career? Are you eager to become a digital expert and enhance your methodological and technological knowledge in Cyber Security and Artificial Intelligence through a study program in Germany? If so, our English-language Master's program in Computer Science (MSc) is the perfect choice for you.",
     "admissionModus": "Without admission restriction",
@@ -2403,6 +2766,12 @@
     "location": "Furtwangen",
     "admissionSemester": "Summer Semester only",
     "areaOfStudy": "Engineering and Management, Computer Science, Mathematics, International Business Administration",
+    "areaOfStudyTags": [
+      "Engineering and Management",
+      "Computer Science",
+      "Mathematics",
+      "International Business Administration"
+    ],
     "focus": "Programming & Software Engineering, Machine Learning & Applied Statistics, Business Operations & Logistics, Digital Performance Marketing & Automation, Agile Project Management & Design Thinking, Artificial Intelligence & Deep Learning, Business Intelligence for Big Data & MLOps, Electives, IT Architectures, Cloud & IT Management, eCommerce, CRM & Lead Management",
     "annotation": "Excellent career and salary prospects in Germany and worldwide. Most of our students receive job offers before they get their academic degree. AI is revolutionizing and driving the new business era. Our graduates are sought-after experts who understand both the technology and the economic aspects. You will benefit from a strong and growing job market in Germany and a solid salary level. This Executive Master's degree programme uniquely positions graduates at the interface between innovative IT and digital business management. Typical professions are Data Scientist, Business Analyst, AI Consultant, AI Project Manager, Digital Business Developer, Digital Business Consultant, E-Commerce Manager, Performance Marketing Manager and IT System Administrator. Companies value our graduates because they can quickly make themselves useful with a wide range of applicable knowledge. The hybrid form of the lectures supports the flexibility and mobility of our students to accept a working student position and continue their studies wherever the company is located. Our international students and graduates work in world-leading companies such as Accenture, EY, KPMG, PWC, Deloitte, IBM, HP, SAP, Oracle, Vodafone, eBay, Amazon, Lufthansa, TUI, Expedia, Trivago, Audi, Porsche, Mercedes-Benz, Hugo Boss, Bosch, Siemens, Aldi and Lidl. Prof. Dr. Pavel Rawe, PhD Dean of Studies International Business Information Systems (BSc.) (IBS) Consultation hours: Appointment lists for booking office hours are posted on Prof. Rawe's office door - Building I, Room 2.09 No appointments are given online, by telephone or by email.",
     "admissionModus": "Local admission restriction",
@@ -2435,6 +2804,10 @@
     "location": "Zwickau",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Electrical Engineering, Computer Science",
+    "areaOfStudyTags": [
+      "Electrical Engineering",
+      "Computer Science"
+    ],
     "focus": "",
     "annotation": "Imagine a world in which vehicles navigate independently, machines make decisions independently, and networked systems interoperate seamlessly. In the Master´s degree programme in \"Embedded and Autonomous Systems\" at the Westsächsischen Hochschule Zwickau, you will become part of this future. Dive into the fascinating world of embedded and autonomous systems and actively help shape the technologies of tomorrow.",
     "admissionModus": "Local admission restriction",
@@ -2465,6 +2838,11 @@
     "location": "Freising",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Agricultural Science, Husbandry, Artificial Intelligence",
+    "areaOfStudyTags": [
+      "Agricultural Science",
+      "Husbandry",
+      "Artificial Intelligence"
+    ],
     "focus": "",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -2497,6 +2875,11 @@
     "location": "Berlin",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Applied Computer Science, Computer Science, Practical Computer Science",
+    "areaOfStudyTags": [
+      "Applied Computer Science",
+      "Computer Science",
+      "Practical Computer Science"
+    ],
     "focus": "Cyber Security",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -2526,6 +2909,9 @@
     "location": "Berlin",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Data Science",
+    "areaOfStudyTags": [
+      "Data Science"
+    ],
     "focus": "Data Science",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -2555,6 +2941,9 @@
     "location": "Heidelberg",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Software Engineering",
+    "areaOfStudyTags": [
+      "Software Engineering"
+    ],
     "focus": "SAP Business Software, ERP Management, Business Analytics, Database Theory, Product Management",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -2584,6 +2973,11 @@
     "location": "Hamburg",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Electrical Engineering, Mechatronics, Computer Engineering",
+    "areaOfStudyTags": [
+      "Electrical Engineering",
+      "Mechatronics",
+      "Computer Engineering"
+    ],
     "focus": "",
     "annotation": "",
     "admissionModus": "Local admission restriction",
@@ -2613,6 +3007,9 @@
     "location": "Fürth",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Data Science",
+    "areaOfStudyTags": [
+      "Data Science"
+    ],
     "focus": "Data Mining, Software, Artificial Intelligence, Business Analytics, Analytics",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -2642,6 +3039,9 @@
     "location": "Dresden, Leipzig",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Data Science",
+    "areaOfStudyTags": [
+      "Data Science"
+    ],
     "focus": "Computer Science, Big Data, Artificial Intelligence, Cybersecurity, Software Development, Cloud Computing, Data Science",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -2671,6 +3071,14 @@
     "location": "Brandenburg",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Communication Design, Media Design, Multimedia Design, Applied Computer Science, Media Informatics, Design",
+    "areaOfStudyTags": [
+      "Communication Design",
+      "Media Design",
+      "Multimedia Design",
+      "Applied Computer Science",
+      "Media Informatics",
+      "Design"
+    ],
     "focus": "Interactive Media",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -2703,6 +3111,10 @@
     "location": "Albstadt",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Engineering and Management, Artificial Intelligence",
+    "areaOfStudyTags": [
+      "Engineering and Management",
+      "Artificial Intelligence"
+    ],
     "focus": "",
     "annotation": "Why study Industrial Artificial Intelligence IAI? The teaching language of the Industrial Artificial Intelligence degree programme is English. IAI is for people who are interested in all aspects of artificial intelligence and want to play an active role in shaping the topic of artificial intelligence. You will effectively link the relevant industrial business areas with artificial intelligence, recognise efficiency potential and implement your findings in practical projects with companies. Learning by doing will lead you to success in this project-oriented degree programme. AI technology is changing the world of work: ‘By 2030, around 30% of current working hours could be automated by technology, including generative AI’ (McKinsey Global Institute, 2025). All areas of companies will be affected, including production, logistics or supply chain, planning, purchasing, manufacturing or assembly and many more. The degree opens up excellent career opportunities in the industry, as experts in artificial intelligence are sought-after graduates in a rapidly growing market for artificial intelligence: according to Statista (2024), the market volume will increase from USD 96 billion in 2021 to an estimated USD 1.848 billion in 2030. What does the IAI Master’s programme look like? The programme combines theory and practice within the framework of projects. Learning by doing is at the centre of the course. Different specialisations are taught in each semester: - The Industrial Operation and Transformation specialisation deals with the relevant AI application areas and the associated, marketable AI tools that shape everyday practice - The Artificial Intelligence and Data Engineering specialisation provides in-depth knowledge that enables you to independently develop and refine AI tools and thus make an important contribution beyond the practical application of tools. You will acquire comprehensive knowledge in AI-oriented Python programming, machine and deep learning as well as generative AI. You will also expand your knowledge of big data, data science and data engineering. This knowledge is supplemented by practical knowledge of application software packages from well-known manufacturers (e.g. Microsoft, SAP, Siemens, AWS), which deal with topics such as ERP systems, cloud computing, robotic process automation, business intelligence and analytics. Semester structure / programme content You will acquire comprehensive knowledge in AI-oriented Python programming, machine and deep learning as well as generative AI. You will also expand your knowledge of big data, data science and data engineering. This knowledge is supplemented by practical knowledge of application software packages from well-known manufacturers (e.g. Microsoft, SAP, Siemens, AWS), which deal with topics such as ERP systems, cloud computing, robotic process automation, business intelligence and analytics. Your future: What can you achieve with your degree? With your degree, you will have a wide range of career opportunities, some of which we cannot even fully assess today. In addition to the traditional areas of employment / job offers, there are also new areas of employment for IAI Master’s graduates that are being created by AI in companies. These include the following jobs: - AI engineer – These are responsible for integrating artificial intelligence into existing industrial systems or developing it for these systems themselves. - AI consultant – They carry out analyses and develop concepts for the introduction of AI technology and its application to increase costs and efficiency in industrial business areas. - AI business developer – Develops and implements AI/ML models and solutions for specific business challenges. - AI product manager – A specialist to oversee, create and manage products that utilise AI technologies. - AI research scientist – A professional who conducts research and development in the field of artificial intelligence.",
     "admissionModus": "Local admission restriction",
@@ -2735,6 +3147,9 @@
     "location": "Zweibrücken",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Applied Computer Science",
+    "areaOfStudyTags": [
+      "Applied Computer Science"
+    ],
     "focus": "",
     "annotation": "The degree course has study focus areas: Machine Learning and Software Engineering: Theory and practical implementation of artificial intelligence methods. Graduates can select suitable algorithms, parameterise them and implement them in a usable application. In addition, they are able to generate an AI-compatible data set from predefined raw data by being able to safely apply suitable data analysis and processing methods. Human Computer Interaction: In-depth understanding of user interface design. Graduates can design these ergonomically according to customer requirements.",
     "admissionModus": "Without admission restriction",
@@ -2767,6 +3182,9 @@
     "location": "Ingolstadt",
     "admissionSemester": "Summer Semester only",
     "areaOfStudy": "Computer Science",
+    "areaOfStudyTags": [
+      "Computer Science"
+    ],
     "focus": "Cybersecurity, Mathematics, Computer Science and Programming, Sociotechnical Systems, Management, Psychology and Sociology",
     "annotation": "The programme is conducted in English. A proof of German level A1 (CEFR) is required by the end of the first semester.",
     "admissionModus": "Local admission restriction",
@@ -2798,6 +3216,12 @@
     "location": "Nürnberg",
     "admissionSemester": "Summer Semester only",
     "areaOfStudy": "Systems Engineering, Engineering Informatics, Robotics, Artificial Intelligence",
+    "areaOfStudyTags": [
+      "Systems Engineering",
+      "Engineering Informatics",
+      "Robotics",
+      "Artificial Intelligence"
+    ],
     "focus": "Autonomous Systems, Medical Technologies",
     "annotation": "",
     "admissionModus": "Selection procedure / qualifying examination",
@@ -2827,6 +3251,9 @@
     "location": "Potsdam",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Data Science",
+    "areaOfStudyTags": [
+      "Data Science"
+    ],
     "focus": "",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -2856,6 +3283,12 @@
     "location": "Heilbronn",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Practical Computer Science, Applied Mathematics, Artificial Intelligence, Data Science",
+    "areaOfStudyTags": [
+      "Practical Computer Science",
+      "Applied Mathematics",
+      "Artificial Intelligence",
+      "Data Science"
+    ],
     "focus": "Application Track: focus on the practical development and application of AI technologies, Research Track: students engage intensively in scientific research in the field of artificial intelligence",
     "annotation": "",
     "admissionModus": "Local admission restriction",
@@ -2887,6 +3320,10 @@
     "location": "Berlin",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Technology Management, Artificial Intelligence",
+    "areaOfStudyTags": [
+      "Technology Management",
+      "Artificial Intelligence"
+    ],
     "focus": "Business, KI, Digitale Transformationen, Technologie, Transformation, Businessmanagement, Management",
     "annotation": "Du willst die digitale Zukunft mitgestalten? Mit KI-Expertise, digitalem Know-how und Business-Kompetenz wirst du zur unverzichtbaren Schlüsselperson in Unternehmen – und treibst die digitale Transformation aktiv voran.",
     "admissionModus": "Without admission restriction",
@@ -2916,6 +3353,12 @@
     "location": "Augsburg",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Psychology, Business, Occupational, and Organisational Psychology, Computer Science, Information Systems and Management",
+    "areaOfStudyTags": [
+      "Psychology",
+      "Business, Occupational, and Organisational Psychology",
+      "Computer Science",
+      "Information Systems and Management"
+    ],
     "focus": "Wirtschaftspsychologie, Wirtschaftsinformatik, Human Technology Interaction",
     "annotation": "Studiengangsspezifischer Kontakt: School of Business Prof. Dr. Simone Kubowitsch Hausanschrift Telefon: +49 821 5586-2935 Email: simone.kubowitsch@tha.de",
     "admissionModus": "Without admission restriction",
@@ -2948,6 +3391,9 @@
     "location": "Heidelberg",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Artificial Intelligence",
+    "areaOfStudyTags": [
+      "Artificial Intelligence"
+    ],
     "focus": "",
     "annotation": "Der Masterstudiengang Information Technology mit dem Schwerpunkt Artificial Intelligence spezialisiert dich in folgenden Bereichen: Artifical Intelligence, Machine learning, Computer Vision, Python, Deep Neural networks. Der Studiengang findet in Kooperation mit SAP statt.",
     "admissionModus": "Without admission restriction",
@@ -2977,6 +3423,11 @@
     "location": "Heidelberg",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Computer Science, Information Systems and Management, Economic Sciences, Economics",
+    "areaOfStudyTags": [
+      "Computer Science",
+      "Information Systems and Management",
+      "Economic Sciences, Economics"
+    ],
     "focus": "",
     "annotation": "Du möchtest komplexe Transformationsprozesse in Unternehmen aktiv mitgestalten, steuern und umsetzen? In unserem Master-Studiengang Information Technology and Business Transformation in Kooperation mit SAP lernst du alles, um Transformation strategisch zu verantworten.",
     "admissionModus": "Without admission restriction",
@@ -3006,6 +3457,11 @@
     "location": "Neu-Ulm",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Applied Computer Science, Technology Management, Artificial Intelligence",
+    "areaOfStudyTags": [
+      "Applied Computer Science",
+      "Technology Management",
+      "Artificial Intelligence"
+    ],
     "focus": "",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -3037,6 +3493,13 @@
     "location": "Neu-Ulm",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Medical Informatics, Health Management, Nursing Management, Human Medicine, Artificial Intelligence",
+    "areaOfStudyTags": [
+      "Medical Informatics",
+      "Health Management",
+      "Nursing Management",
+      "Human Medicine",
+      "Artificial Intelligence"
+    ],
     "focus": "",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -3055,6 +3518,38 @@
     "rawFile": "output/applied_sciences/raw/w77135.json"
   },
   {
+    "id": "w77852",
+    "university": "Fachhochschule of Erfurt",
+    "universityCity": "Erfurt",
+    "universityState": "Thuringia",
+    "universityLogo": "https://api.daad.de/api/image/hsk/hsklogolrg/image/logo/67.png",
+    "universityWebsite": "https://www.fh-erfurt.de/fakultaeten-und-fachrichtungen/gebaeudetechnik-und-informatik/angewandte-informatik/master-software-engineering",
+    "course": "Software Engineering",
+    "courseSubline": "international course, part time, full time",
+    "degree": "Master, Master",
+    "duration": "3 semesters",
+    "location": "Erfurt",
+    "admissionSemester": "Summer and Winter Semester",
+    "areaOfStudy": "Engineering Informatics",
+    "areaOfStudyTags": [
+      "Engineering Informatics"
+    ],
+    "focus": "Enterprise Projects, Research Projects",
+    "annotation": "",
+    "admissionModus": "Without admission restriction",
+    "admissionModusLink": "https://www.fh-erfurt.de/fakultaeten-und-fachrichtungen/gebaeudetechnik-und-informatik/angewandte-informatik/master-software-engineering",
+    "admissionRequirements": "Zum Studium berechtigen u. a.: - ein erster Hochschulabschluss oder Abschluss einer staatlichen oder staatlich anerkannten Berufsakademie auf dem Gebiet des Software Engineering mit mindestens 210 Kreditpunkten - Sprachkenntnise in englischer Sprache auf dem Niveau B2 - Haben Bewerber in einem oben genannten Studiengänge nur 180 Kreditpunkte erworben, können die fehlenden 30 Kreditpunkte aus dem Bachelorstudiengang studienbegleitend erworben werden.",
+    "tuitionFee": "",
+    "tuitionFeeLink": "https://www.fh-erfurt.de/studienorganisation/gebuehren-und-beitraege/",
+    "tuitionFeeTotal": "Einmalige Kosten für thoska+: 20,00 Euro https://www.fh-erfurt.de/studienorganisation/gebuehren-und-beitraege/",
+    "language": "English",
+    "deadlines": [
+      "September 2026 (Germans and inhabitants)"
+    ],
+    "detailUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/fachhochschule-of-erfurt-software-engineering-w77852/?hec-id=w77852",
+    "rawFile": "output/applied_sciences/raw/w77852.json"
+  },
+  {
     "id": "w7790",
     "university": "Hof University of Applied Sciences",
     "universityCity": "Hof",
@@ -3068,6 +3563,9 @@
     "location": "Hof",
     "admissionSemester": "Summer and Winter Semester",
     "areaOfStudy": "Computer Engineering",
+    "areaOfStudyTags": [
+      "Computer Engineering"
+    ],
     "focus": "",
     "annotation": "",
     "admissionModus": "Without admission restriction",
@@ -3087,6 +3585,39 @@
     "rawFile": "output/applied_sciences/raw/w7790.json"
   },
   {
+    "id": "w78022",
+    "university": "University of Applied Sciences Emden/Leer",
+    "universityCity": "Emden",
+    "universityState": "Lower Saxony",
+    "universityLogo": "https://api.daad.de/api/image/hsk/hsklogolrg/image/logo/405.png",
+    "universityWebsite": "https://www.hs-emden-leer.de/business-informatics",
+    "course": "Business Informatics",
+    "courseSubline": "international course, part time, full time",
+    "degree": "Master's, Master",
+    "duration": "3 semesters",
+    "location": "Emden",
+    "admissionSemester": "Summer and Winter Semester",
+    "areaOfStudy": "Computer Science, Marketing, Distribution",
+    "areaOfStudyTags": [
+      "Computer Science",
+      "Marketing, Distribution"
+    ],
+    "focus": "",
+    "annotation": "",
+    "admissionModus": "Selection procedure / qualifying examination",
+    "admissionModusLink": null,
+    "admissionRequirements": "",
+    "tuitionFee": "5,980.00 EUR / semester",
+    "tuitionFeeLink": null,
+    "tuitionFeeTotal": "",
+    "language": "English",
+    "deadlines": [
+      "No information"
+    ],
+    "detailUrl": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-emdenleer-business-informatics-w78022/?hec-id=w78022",
+    "rawFile": "output/applied_sciences/raw/w78022.json"
+  },
+  {
     "id": "w9362",
     "university": "Frankfurt University of Applied Sciences",
     "universityCity": "Frankfurt am Main",
@@ -3100,6 +3631,10 @@
     "location": "Frankfurt am Main",
     "admissionSemester": "Winter Semester only",
     "areaOfStudy": "Software Engineering, Computer Engineering",
+    "areaOfStudyTags": [
+      "Software Engineering",
+      "Computer Engineering"
+    ],
     "focus": "",
     "annotation": "High-integrity systems are complex, software-controlled systems. These systems protect people, the environment, organisations and society. They can be divided into two areas of application: - Safety-critical systems (SCS) have a direct impact on the life and health of humans and the environment. They are used in all industrial sectors, e.g. aerospace, automotive, railway and marine systems, power generation, medical technology, SCADA and others. - Mission-critical systems (MCS) have a high criticality with regard to the functioning of an organization, e.g. ERP, CRM and others. A Master's academic degree in High Integrity Systems opens up access to a wide range of professional opportunities in various areas of application in computer science. The development of software and IT services for high integrity systems is crucial for all industries, as well as administrative applications, banking and financial systems.",
     "admissionModus": "Without admission restriction",

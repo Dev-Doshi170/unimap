@@ -1,7 +1,7 @@
 const fs = require("node:fs");
 const path = require("node:path");
 
-const { exportJson } = require("./src/exporter");
+const { exportJson, exportProgrammes } = require("./src/exporter");
 const logger = require("./src/logger");
 const { generateCombinedRaw } = require("./src/merger");
 const { migrateAppliedSciencesRaw, parseRawDirectory, readExistingProgrammes, scrapeDataset } = require("./src/scraper");
@@ -18,6 +18,7 @@ function parseArgs(argv) {
   const args = argv.slice(2);
   return {
     force: args.includes("--force"),
+    reparse: args.includes("--reparse"),
     datasetKey: args.find((arg) => !arg.startsWith("--")),
   };
 }
@@ -70,7 +71,7 @@ function updateCombinedRaw(config) {
 
 async function main() {
   const config = readConfig();
-  const { datasetKey, force } = parseArgs(process.argv);
+  const { datasetKey, force, reparse } = parseArgs(process.argv);
   const datasetKeys = datasetKey ? [datasetKey] : Object.keys(config);
 
   for (const key of datasetKeys) {
@@ -81,6 +82,15 @@ async function main() {
 
   const processedResults = new Map();
   for (const key of datasetKeys) {
+    // --reparse re-derives everything from output/*/raw with no network calls,
+    // so parser changes don't cost another full crawl of DAAD.
+    if (reparse) {
+      const outputDir = config[key].outputDir;
+      const programmes = parseRawDirectory(key, config[key], path.join(outputDir, "raw"), []);
+      await exportProgrammes(outputDir, programmes);
+      processedResults.set(key, { count: programmes.length, outputDir, programmes });
+      continue;
+    }
     const result = await scrapeDataset(key, config, { force });
     processedResults.set(key, result);
   }

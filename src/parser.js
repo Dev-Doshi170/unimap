@@ -38,11 +38,13 @@ function parseProgramme(rawData, fileId, context = {}) {
 
   function getBlock(sectionId, headline) {
     const section = content.find((c) => c.data?.id === sectionId);
-    if (!section) return { text: "", link: null };
+    if (!section) return { text: "", items: [], link: null };
     const block = section.blocks?.find((b) => b.data?.headline === headline);
-    if (!block) return { text: "", link: null };
+    if (!block) return { text: "", items: [], link: null };
     return {
       text: dataText(block.data),
+      // DAAD ships these as arrays; keep them so they stay filterable as facets.
+      items: (block.data?.items ?? []).map(toText).filter(Boolean),
       link: block.data?.link?.url ?? null,
     };
   }
@@ -92,6 +94,7 @@ function parseProgramme(rawData, fileId, context = {}) {
     location: getKF("location"),
     admissionSemester: getBlock("hsk-detail-overview", "Admission semester").text,
     areaOfStudy: getBlock("hsk-detail-overview", "Area of study").text,
+    areaOfStudyTags: getBlock("hsk-detail-overview", "Area of study").items,
     focus: getBlock("hsk-detail-overview", "Focus").text,
     annotation: getBlock("hsk-detail-overview", "Annotation").text,
     admissionModus: admissionBlock.text,

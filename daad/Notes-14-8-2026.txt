@@ -1,0 +1,296 @@
+Applied Computer Science
+2. Technische Hochschule Deggendorf — Applied Computer Science
+3. Hochschule Schmalkalden — Applied Computer Science
+4. University of Göttingen — Applied Data Science
+5. Mittweida University of Applied Sciences — Applied Mathematics for Network and Data Sciences
+6. University of Passau — Artificial Intelligence Engineering
+13. Gisma University of Applied Sciences — Computer Science
+14. Technical University of Darmstadt — Computer Science
+17. University of Potsdam — Computer Science at the Hasso Plattner Institute
+20. Heidelberg University — Data and Computer Science
+21. Constructor University — Data Engineering
+22. Bielefeld University — Data Science
+23. TU Dortmund University — Data Science
+24. Bielefeld University of Applied Sciences and Arts (HSBI) — Data Science (Research Master)
+25. Saarland University — Data Science and Artificial Intelligence
+26. TU Dortmund University — Data Science in Sports and Health
+27. University of Europe for Applied Sciences — DevOps
+33. Fulda University of Applied Sciences — Global Software Development
+34. Media Design University for Design and Computer Science — Information Technology – Data Science (MSc)
+36. Leuphana University Lüneburg — Management & Data Science
+39. University of Bayreuth — Scientific Computing
+40. University of Hildesheim — Software Engineering (International Master’s degree)
+
+Computer Science 
+
+1. Frankfurt University — AI and Digital Technology in Learning and Instruction
+2. Hochschule Schmalkalden — Applied Computer Science
+3. SRH University of Applied Sciences Heidelberg — Applied Data Science & Artificial Intelligence
+4. Technical University of Applied Sciences Würzburg-Schweinfurt — Artificial Intelligence
+5. University of Bonn — Artificial Intelligence
+6. University of Technology Nuremberg — Artificial Intelligence & Robotics
+7. Technische Hochschule Deggendorf — Artificial Intelligence and Data Science
+8. Furtwangen University - computer science, technology, economics, media, health — Artificial Intelligence and Data Science for Digital Business Management
+9. University of Bremen — Artificial Intelligence and Intelligent Systems
+10. Hof University of Applied Sciences — Artificial Intelligence and Robotics
+11. Technische Hochschule Köln — Automation and IT
+12. Bonn-Rhine-Sieg University of Applied Sciences — Autonomous Systems
+13. University of Potsdam — Bioinformatics
+14. University of Marburg — Business Informatics
+15. University of Applied Sciences Emden/Leer — Business Informatics
+16. Gisma University of Applied Sciences — Business Management & Cybersecurity
+17. University of Marburg — Business Mathematics
+18. Ruhr University Bochum — Cognitive Science
+19. Technical University of Darmstadt — Cognitive Science
+20. University of Ulm — Cognitive Systems
+21. Karlsruhe Institute of Technology (KIT) — Computational and Data Science
+22. University of Göttingen — Computational Biology and Bioinformatics
+23. Ruhr University Bochum — Computational Engineering
+24. University of Stuttgart — Computational Linguistics
+25. Technische Universität Dresden — Computational Modelling and Simulation
+26. Eberhard Karls University Tübingen — Computational Neuroscience
+27. Munich University of Technology — Computational Science and Engineering (CSE)
+28. University of Konstanz — Computer and Information Science
+29. University of Stuttgart — Computer Science
+30. University of Siegen — Computer Science
+31. University of Freiburg — Computer Science
+32. Rhineland-Palatinate Technical University of Kaiserslautern-Landau — Computer Science
+33. Berlin University of Technology — Computer Science
+34. University of Bonn — Computer Science
+35. Gisma University of Applied Sciences — Computer Science
+36. Technical University of Darmstadt — Computer Science
+37. University of Applied Sciences Fresenius — Computer Science
+38. Karlsruhe Institute of Technology (KIT) — Computer Science
+39. Paderborn University — Computer Science
+40. University of Marburg — Computer Science
+41. Saarland University — Computer science
+42. SRH University of Applied Sciences Heidelberg — Computer Science - Big Data and Artificial Intelligence
+43. SRH University of Applied Sciences Heidelberg — Computer Science - Cyber Security
+44. Constructor University — Computer Science and Software Engineering
+45. University of Potsdam — Computer Science at the Hasso Plattner Institute
+46. Bauhaus-Universität Weimar — Computer Science for Digital Media
+47. University of Konstanz — Computer Science for Industry and Business (COSIB)
+48. University of Rostock — Computer Science International
+49. Brandenburgische Technische Universität Cottbus-Senftenberg — Cyber Security
+50. Hochschule der Bayerischen Wirtschaft für angewandte Wissenschaften - HDBW — Cyber Security
+
+1. Saarland University — Cybersecurity
+2. University of Magdeburg — Data and Knowledge Engineering
+3. Munich University of Technology — Data Engineering and Analytics
+4. University of Marburg — Data Science
+5. Berlin University of Applied Sciences — Data Science
+6. RWTH Aachen University — Data Science
+7. Technische Universität Ilmenau — Data Science
+8. Bielefeld University of Applied Sciences and Arts (HSBI) — Data Science (Research Master)
+9. Saarland University — Data Science and Artificial Intelligence
+10. Rhine-Waal University of Applied Sciences — Design and Interaction
+11. Technische Hochschule Köln — Digital Sciences
+12. Saarland University — Educational Technology
+13. West Saxon University of Applied Sciences of Zwickau — Embedded and Autonomous Systems
+14. Saarland University — Embedded Systems
+15. University of Freiburg — Embedded Systems Engineering
+16. University of Applied Sciences Bremen — Engineering and Management of Space Systems
+17. University of Siegen — Engineering of Hydro-environmental Extremes
+18. University of Oldenburg — Engineering of Socio-Technical Systems
+19. University of Applied Sciences Offenburg — Enterprise and IT Security
+20. Rhineland-Palatinate Technical University of Kaiserslautern-Landau — European Master's degree in Embedded Computing Systems (EMECS)
+21. Fulda University of Applied Sciences — Global Software Development
+22. University of Technology Nuremberg — Human & Artificial Intelligence
+23. Sports University of Cologne — Human Technology in Sports and Medicine
+24. South Westphalia University of Applied Sciences — Informatics and Business
+25. Rhine-Waal University of Applied Sciences — Information Engineering and Computer Science
+26. Munich University of Technology — Information Engineering at Heilbronn Campus
+27. FH Aachen - University of Applied Sciences — Information Systems
+28. SRH University of Applied Sciences Heidelberg — Information Technology and Business Transformation
+29. Media Design University for Design and Computer Science — Information Technology – Data Science (MSc)
+30. University of Hamburg — Intelligent Adaptive Systems
+31. Augsburg University of Applied Sciences — International Master of Research and Innovation
+32. Bamberg University — International Software Systems Science
+33. West Saxon University of Applied Sciences of Zwickau — Internet of Things and Smart Systems
+34. Lübeck University — IT Security
+35. Technical University of Darmstadt — IT Security
+36. Saarland University — Language and Communication Technologies M.Sc./M.A.
+37. Saarland University — Language, Science and Technology
+38. West Saxon University of Applied Sciences of Zwickau — Management and Information Technology
+39. University of Mannheim — Mannheim Master in Data Science (MMDS)
+40. University of Hamburg — Marine Ecosystem and Fisheries Science
+41. University of Passau — Mathematics
+42. Saarland University — Mathematics and Computer Science
+43. University of Augsburg — Mathematics and Computer Science
+44. German International University — Media Engineering and Technology
+45. Munich University of Technology — Microelectronics and Chip Design
+46. University of Bayreuth — Philosophy & Computer Science
+47. Berlin School of Applied Sciences (HTW) — Professional IT Business and Digitalisation
+48. Saarland University — Quanteninformationstheorie
+49. University of Siegen — Quantum Science
+50. Lübeck University — Robotics and Autonomous Systems
+
+1. University of Würzburg — Satellite Technology
+2. RWTH Aachen University — Simulation Sciences
+3. University of Konstanz — Social and Economic Data Science
+4. Rhineland-Palatinate Technical University of Kaiserslautern-Landau — Social Informatics
+5. Technische Hochschule Ingolstadt — Sociotechnical Cybersecurity
+6. University of Hildesheim — Software Engineering (International Master’s degree)
+7. Rhine-Waal University of Applied Sciences — Usability Engineering
+8. Technische Hochschule Ingolstadt — User Experience Design
+9. Saarland University — Visual Computing
+10. University of Magdeburg — Visual Computing
+11. University of Koblenz — Web and Data Science
+12. Chemnitz University of Technology — Web Engineering
+
+Software Engineering
+
+1. Brandenburgische Technische Universität Cottbus-Senftenberg — Artificial Intelligence
+2. Technische Hochschule Ingolstadt — Artificial Intelligence
+3. Chemnitz University of Technology — Automotive Software Engineering
+4. University of Magdeburg — Computational Methods in Engineering
+5. University of Marburg — Computer Science
+6. Constructor University — Computer Science and Software Engineering
+7. University of Potsdam — Computer Science at the Hasso Plattner Institute
+8. Munich University of Technology — Computer Science: Games Engineering
+9. Saarland University — Cybersecurity
+10. University of Hildesheim — Data Analytics (International Master’s degree)
+11. Technical University Braunschweig — Data Science
+12. University of Europe for Applied Sciences — DevOps
+13. IU International University — DevOps and Cloud Computing
+14. Dortmund University of Applied Sciences and Arts — Digital Transformation
+15. Technische Hochschule Ingolstadt — Entrepreneurship and Corporate Venturing
+16. Fulda University of Applied Sciences — Global Software Development
+17. Frankfurt University of Applied Sciences — High Integrity Systems
+18. Fresenius Heidelberg University state-approved university of Hochschule Fresenius für Internationales Management GmbH — SAP Engineering & Analytics
+19. Heilbronn University — Software Engineering
+20. University of Hildesheim — Software Engineering (International Master’s degree)
+21. RWTH Aachen University — Software Systems Engineering
+22. Stuttgart University of Applied Sciences — Software Technology
+23. Chemnitz University of Technology — Web Engineering
+
+Computer Engineering
+
+1. Technische Hochschule Ingolstadt — Artificial Intelligence
+2. University of Passau — Artificial Intelligence Engineering
+3. Ruhr University Bochum — Computational Engineering
+4. University of Rostock — Computational Engineering
+5. Hochschule Nordhausen — Computer Engineering for IOT SYSTEMS
+6. Bauhaus-Universität Weimar — Computer Science for Digital Media
+7. Technical University of Applied Sciences of Central Hesse - THM — Control, Computer and Communications Engineering
+8. Brandenburgische Technische Universität Cottbus-Senftenberg — Cyber Security
+9. IU International University — Data Science
+10. Dortmund University of Applied Sciences and Arts — Embedded Systems Engineering
+11. Frankfurt University of Applied Sciences — High Integrity Systems
+12. Technische Hochschule Deggendorf — High performance computing / quantum computing
+13. University of Applied Sciences Emden/Leer — Industrial Informatics
+14. Hamburg University of Applied Sciences — Information and Communications Engineering
+15. Hof University of Applied Sciences — Software Engineering for Industrial Applications
+16. Stuttgart University of Applied Sciences — Software Technology
+
+
+Data Science
+1. Heilbronn University — Applied Artificial Intelligence
+2. University of Göttingen — Applied Data Science
+3. Brandenburgische Technische Universität Cottbus-Senftenberg — Artificial Intelligence
+4. Technische Hochschule Ingolstadt — Artificial Intelligence
+5. University of Bonn — Artificial Intelligence
+6. University of Technology Nuremberg — Artificial Intelligence & Robotics
+7. University of Düsseldorf — Artificial Intelligence and Data Science
+8. Technische Hochschule Deggendorf — Artificial Intelligence and Data Science
+9. Hof University of Applied Sciences — Artificial Intelligence and Robotics
+10. University of Passau — Artificial Intelligence Engineering
+11. University of Applied Sciences Emden/Leer — Business Intelligence and Data Analytics
+12. Karlsruhe Institute of Technology (KIT) — Computational and Data Science
+13. IU International University — Computer Science
+14. Technical University of Darmstadt — Computer Science
+15. Karlsruhe Institute of Technology (KIT) — Computer Science
+16. Ruhr University Bochum — Computer Science
+17. SRH University of Applied Sciences Heidelberg — Computer Science - Big Data and Artificial Intelligence
+18. University of Konstanz — Computer Science for Industry and Business (COSIB)
+19. RWTH Aachen University — Data Analytics and Decision Science
+20. Technical University of Darmstadt — Data and Discourse Studies
+21. Munich University of Technology — Data Engineering and Analytics
+22. University of Marburg — Data Science
+23. Berlin University of Applied Sciences — Data Science
+24. Bielefeld University — Data Science
+25. Free University Berlin — Data Science
+26. IU International University — Data Science
+27. University of Erlangen-Nuremberg — Data Science
+28. Technical University Braunschweig — Data Science
+29. University of Europe for Applied Sciences — Data Science
+30. Fulda University of Applied Sciences — Data Science
+31. University of Greifswald — Data Science
+32. TU Dortmund University — Data Science
+33. Technische Universität Ilmenau — Data Science
+34. Catholic University in Eichstätt - Ingolstadt — Data Science
+35. University of Augsburg — Data Science
+36. University of Regensburg — Data Science
+37. XU Exponential University of Applied Sciences — Data Science
+38. University of Münster — Data Science
+39. Bielefeld University of Applied Sciences and Arts (HSBI) — Data Science (Research Master)
+40. University of Oldenburg — Data Science and Machine Learning
+41. Gisma University of Applied Sciences — Data Science, AI and Digital Business
+42. SRH University of Applied Sciences Heidelberg — Data Science: Business Analytics
+43. SRH University of Applied Sciences Heidelberg — Digital Health - Data Analytics
+44. University of Applied Sciences Neu-Ulm — Digital Innovation Management
+45. Technische Hochschule Köln — Digital Sciences
+46. TU Dortmund University — Econometrics
+47. Technische Hochschule Ingolstadt — Entrepreneurship and Corporate Venturing
+48. University of Applied Sciences for Medium-Sized Companies (FHM) — General Technology Management
+49. Media Design University for Design and Computer Science — Information Technology – Data Science (MSc)
+50. University of Europe for Applied Sciences — IoT Devices & Smart Services
+
+1. Eberhard Karls University Tübingen — Machine Learning
+2. University of Mannheim — Mannheim Master in Data Science (MMDS)
+3. University of Mannheim — Master in Management Analytics (Full-Time)
+4. Hertie School — Master of Data Science for Public Policy
+5. ESMT European School of Management and Technology — Master's in Analytics and Artificial Intelligence
+6. Brandenburgische Technische Universität Cottbus-Senftenberg — Mathematical Data Science
+7. University of Augsburg — Mathematics and Computer Science
+8. Munich University of Technology — Mathematics in Data Science
+9. Heidelberg University — Mathematics of Machine Learning and Data Science
+10. Berlin School of Applied Sciences (HTW) — Professional IT Business and Digitalisation
+11. Berlin School of Applied Sciences (HTW) — Project Management and Data Science
+12. University of Bayreuth — Scientific Computing
+13. Heilbronn University — Software Engineering
+14. Technische Universität Dresden — Transportation Economics and Data Science
+
+Information Systems and Management
+
+1. International School of Management — Applied Business Data Science
+2. Hof University of Applied Sciences — Applied Research in Computer Science
+3. Technical University of Applied Sciences Würzburg-Schweinfurt — Artificial Intelligence
+4. University of Applied Sciences Neu-Ulm — Artificial Intelligence and Data Analytics
+5. University of Mannheim — Business computing
+6. Furtwangen University - computer science, technology, economics, media, health — Business Consulting
+7. University of Marburg — Business Informatics
+8. University of Passau — Business Informatics (Information Systems)
+9. Berlin School of Economics and Law — Business Intelligence and Process Management
+10. SRH University of Applied Sciences Heidelberg — Computer Science - Cyber Security
+11. Hochschule der Bayerischen Wirtschaft für angewandte Wissenschaften - HDBW — Cyber Security
+12. University of Trier — Data Science
+13. Gisma University of Applied Sciences — Data Science, AI and Digital Business
+14. Hochschule der Bayerischen Wirtschaft für angewandte Wissenschaften - HDBW — Digital Business Modelling and Entrepreneurship
+15. European University Viadrina Frankfurt (Oder) — Digital Entrepreneurship
+16. XU Exponential University of Applied Sciences — Digital Transformation & Sustainability
+17. University of Koblenz — E-Government
+18. University of Applied Sciences Offenburg — Enterprise and IT Security
+19. University of Siegen — Human-Computer Interaction
+20. South Westphalia University of Applied Sciences — Informatics and Business
+21. University of Münster — Information Systems
+22. Munich University of Technology — Information Systems (Business Informatics)
+23. SRH University of Applied Sciences Heidelberg — Information Technology and Business Transformation
+24. University of Erlangen-Nuremberg — International Information Systems
+25. South Westphalia University of Applied Sciences — International Management & Information Systems
+26. Augsburg University of Applied Sciences — International Master of Research and Innovation
+27. Leuphana University Lüneburg — Management & Data Science
+28. Ludwig Maximilians University Munich — Management and Digital Technologies
+29. West Saxon University of Applied Sciences of Zwickau — Management and Information Technology
+30. University of Bremen — Management Information Systems
+31. University of Magdeburg — Operations Research and Business Analytics
+32. Heilbronn University — Software Engineering
+
+Theoretical Computer Science
+
+1. Technical University of Darmstadt — Computer Science
+2. University of Regensburg — Computer Science
+3. University of Wuppertal — Computer Simulation in Science
+4. Leuphana University Lüneburg — Management & Data Science
+5. University of Jena — Mathematics
+6. Saarland University — Mathematics and Computer Science

@@ -1,0 +1,897 @@
+Main filter,Sub filter,Sr No,University,Course
+Humanities and Social Sciences,-,1,Paderborn University,Applied Neurosciences in Sports and Exercise
+Humanities and Social Sciences,-,2,Paderborn University,Applied Sports Science
+Humanities and Social Sciences,-,3,Paderborn University,BeNeLux Studies
+Humanities and Social Sciences,-,4,Paderborn University,Comparative Theology of Religions
+Humanities and Social Sciences,-,5,Paderborn University,Education
+Humanities and Social Sciences,-,6,Paderborn University,Education
+Humanities and Social Sciences,-,7,Paderborn University,Gender Studies
+Humanities and Social Sciences,-,8,Paderborn University,Sociology
+Humanities and Social Sciences,-,9,Paderborn University,Theology in Dialogue
+Humanities and Social Sciences,-,10,Catholic University of Applied Sciences North-Rhine Westphalia,Social Work
+Humanities and Social Sciences,-,11,Catholic University of Applied Sciences North-Rhine Westphalia,Applied Theology
+Humanities and Social Sciences,-,12,Catholic University of Applied Sciences North-Rhine Westphalia,Childhood Pedagogy dual
+Humanities and Social Sciences,-,13,Catholic University of Applied Sciences North-Rhine Westphalia,Social Work
+Humanities and Social Sciences,-,14,Catholic University of Applied Sciences North-Rhine Westphalia,"Social Work, degree programme with vocational and academic elements"
+Humanities and Social Sciences,"Pedagogy, Educational Sciences",1,Paderborn University,Education
+Humanities and Social Sciences,"Pedagogy, Educational Sciences",2,Paderborn University,Education
+Humanities and Social Sciences,"Pedagogy, Educational Sciences",3,Catholic University of Applied Sciences North-Rhine Westphalia,Childhood Pedagogy dual
+Humanities and Social Sciences,"Pedagogy, Educational Sciences > Children's Education",1,Catholic University of Applied Sciences North-Rhine Westphalia,Childhood Pedagogy dual
+Humanities and Social Sciences,"Pedagogy, Educational Sciences > Pedagogy, Educational Science",1,Paderborn University,Education
+Humanities and Social Sciences,"Pedagogy, Educational Sciences > Pedagogy, Educational Science",2,Paderborn University,Education
+Humanities and Social Sciences,Political Sciences,1,Paderborn University,BeNeLux Studies
+Humanities and Social Sciences,Political Sciences > International Relations,1,Paderborn University,BeNeLux Studies
+Humanities and Social Sciences,"Social Work, Curative Pedagogy",1,Catholic University of Applied Sciences North-Rhine Westphalia,Social Work
+Humanities and Social Sciences,"Social Work, Curative Pedagogy",2,Catholic University of Applied Sciences North-Rhine Westphalia,Social Work
+Humanities and Social Sciences,"Social Work, Curative Pedagogy",3,Catholic University of Applied Sciences North-Rhine Westphalia,"Social Work, degree programme with vocational and academic elements"
+Humanities and Social Sciences,"Social Work, Curative Pedagogy > Social Work",1,Catholic University of Applied Sciences North-Rhine Westphalia,Social Work
+Humanities and Social Sciences,"Social Work, Curative Pedagogy > Social Work",2,Catholic University of Applied Sciences North-Rhine Westphalia,Social Work
+Humanities and Social Sciences,"Social Work, Curative Pedagogy > Social Work",3,Catholic University of Applied Sciences North-Rhine Westphalia,"Social Work, degree programme with vocational and academic elements"
+Humanities and Social Sciences,Social Sciences,1,Paderborn University,Gender Studies
+Humanities and Social Sciences,Social Sciences,2,Paderborn University,Sociology
+Humanities and Social Sciences,Social Sciences > Gender Studies,1,Paderborn University,Gender Studies
+Humanities and Social Sciences,"Social Sciences > Sociology, Social Science",1,Paderborn University,Gender Studies
+Humanities and Social Sciences,"Social Sciences > Sociology, Social Science",2,Paderborn University,Sociology
+Humanities and Social Sciences,Sport,1,Paderborn University,Applied Neurosciences in Sports and Exercise
+Humanities and Social Sciences,Sport,2,Paderborn University,Applied Sports Science
+Humanities and Social Sciences,Sport > Sport,1,Paderborn University,Applied Sports Science
+Humanities and Social Sciences,Sport > Sport Science,1,Paderborn University,Applied Neurosciences in Sports and Exercise
+Humanities and Social Sciences,"Theology, Religion",1,Paderborn University,Comparative Theology of Religions
+Humanities and Social Sciences,"Theology, Religion",2,Paderborn University,Theology in Dialogue
+Humanities and Social Sciences,"Theology, Religion",3,Catholic University of Applied Sciences North-Rhine Westphalia,Applied Theology
+Humanities and Social Sciences,"Theology, Religion > Catholic Religious Pedagogy",1,Catholic University of Applied Sciences North-Rhine Westphalia,Applied Theology
+Humanities and Social Sciences,"Theology, Religion > Religious Studies",1,Paderborn University,Theology in Dialogue
+Humanities and Social Sciences,"Theology, Religion > Theology",1,Paderborn University,Comparative Theology of Religions
+Humanities and Social Sciences,"Theology, Religion > Theology",2,Paderborn University,Theology in Dialogue
+Engineering Sciences,-,1,Paderborn University,Additive Manufacturing
+Engineering Sciences,-,2,Paderborn University,Chemical Engineering
+Engineering Sciences,-,3,Paderborn University,Chemical Engineering
+Engineering Sciences,-,4,Paderborn University,Computer Engineering
+Engineering Sciences,-,5,Paderborn University,Electrical engineering
+Engineering Sciences,-,6,Paderborn University,Electrical engineering
+Engineering Sciences,-,7,Paderborn University,Electrical Systems Engineering
+Engineering Sciences,-,8,Paderborn University,Industrial engineering
+Engineering Sciences,-,9,Paderborn University,Industrial engineering
+Engineering Sciences,-,10,Paderborn University,Materials Science
+Engineering Sciences,-,11,Paderborn University,Sustainable Mechanical Engineering
+Engineering Sciences,-,12,Paderborn University,Sustainable Mechanical Engineering
+Engineering Sciences,-,13,Paderborn University,Technological mathematics
+Engineering Sciences,"Chemical Engineering, Process Technology",1,Paderborn University,Chemical Engineering
+Engineering Sciences,"Chemical Engineering, Process Technology",2,Paderborn University,Chemical Engineering
+Engineering Sciences,"Chemical Engineering, Process Technology > Chemical Engineering",1,Paderborn University,Chemical Engineering
+Engineering Sciences,"Chemical Engineering, Process Technology > Chemical Engineering",2,Paderborn University,Chemical Engineering
+Engineering Sciences,"Chemical Engineering, Process Technology > Process Technology",1,Paderborn University,Chemical Engineering
+Engineering Sciences,Electrical Engineering,1,Paderborn University,Computer Engineering
+Engineering Sciences,Electrical Engineering,2,Paderborn University,Electrical engineering
+Engineering Sciences,Electrical Engineering,3,Paderborn University,Electrical engineering
+Engineering Sciences,Electrical Engineering,4,Paderborn University,Electrical Systems Engineering
+Engineering Sciences,Electrical Engineering,5,Paderborn University,Technological mathematics
+Engineering Sciences,Electrical Engineering > Electrical Engineering,1,Paderborn University,Computer Engineering
+Engineering Sciences,Electrical Engineering > Electrical Engineering,2,Paderborn University,Electrical engineering
+Engineering Sciences,Electrical Engineering > Electrical Engineering,3,Paderborn University,Electrical engineering
+Engineering Sciences,Electrical Engineering > Electrical Engineering,4,Paderborn University,Electrical Systems Engineering
+Engineering Sciences,Electrical Engineering > Electrical Engineering,5,Paderborn University,Technological mathematics
+Engineering Sciences,Mechanical Engineering,1,Paderborn University,Additive Manufacturing
+Engineering Sciences,Mechanical Engineering,2,Paderborn University,Sustainable Mechanical Engineering
+Engineering Sciences,Mechanical Engineering,3,Paderborn University,Sustainable Mechanical Engineering
+Engineering Sciences,Mechanical Engineering,4,Paderborn University,Technological mathematics
+Engineering Sciences,Mechanical Engineering > Manufacturing Engineering,1,Paderborn University,Additive Manufacturing
+Engineering Sciences,Mechanical Engineering > Mechanical Engineering,1,Paderborn University,Sustainable Mechanical Engineering
+Engineering Sciences,Mechanical Engineering > Mechanical Engineering,2,Paderborn University,Sustainable Mechanical Engineering
+Engineering Sciences,Mechanical Engineering > Mechanical Engineering,3,Paderborn University,Technological mathematics
+Engineering Sciences,Mechanical Engineering > Production Engineering,1,Paderborn University,Additive Manufacturing
+Engineering Sciences,Materials Science and Engineering,1,Paderborn University,Materials Science
+Engineering Sciences,Materials Science and Engineering > Materials Science,1,Paderborn University,Materials Science
+Engineering Sciences,Engineering and Management,1,Paderborn University,Industrial engineering
+Engineering Sciences,Engineering and Management,2,Paderborn University,Industrial engineering
+Engineering Sciences,Engineering and Management > Engineering and Management,1,Paderborn University,Industrial engineering
+Engineering Sciences,Engineering and Management > Engineering and Management,2,Paderborn University,Industrial engineering
+"Art, Music, Design",-,1,Paderborn University,Art and Teaching Art
+"Art, Music, Design",-,2,Paderborn University,Cultures of European Pre-Modern Era
+"Art, Music, Design",-,3,Paderborn University,Fashion Textile Design Studies
+"Art, Music, Design",-,4,Paderborn University,"Music and Media, popular"
+"Art, Music, Design",-,5,Paderborn University,"Music and Media, popular"
+"Art, Music, Design",-,6,Paderborn University,Musicology
+"Art, Music, Design",-,7,Paderborn University,Musicology
+"Art, Music, Design",-,8,Paderborn University,Musicology (dual-subject bachelor’s course)
+"Art, Music, Design",-,9,Paderborn University,Musicology (two-subject Master)
+"Art, Music, Design",Design,1,Paderborn University,Fashion Textile Design Studies
+"Art, Music, Design",Design > Design,1,Paderborn University,Fashion Textile Design Studies
+"Art, Music, Design","Art and Design Sciences, Art Pedagogy",1,Paderborn University,Art and Teaching Art
+"Art, Music, Design","Art and Design Sciences, Art Pedagogy",2,Paderborn University,Cultures of European Pre-Modern Era
+"Art, Music, Design","Art and Design Sciences, Art Pedagogy > Art History",1,Paderborn University,Cultures of European Pre-Modern Era
+"Art, Music, Design","Art and Design Sciences, Art Pedagogy > Art Studies",1,Paderborn University,Art and Teaching Art
+"Art, Music, Design","Art and Design Sciences, Art Pedagogy > Art Pedagogy",1,Paderborn University,Art and Teaching Art
+"Art, Music, Design","Musicology, Music Pedagogy",1,Paderborn University,Musicology
+"Art, Music, Design","Musicology, Music Pedagogy",2,Paderborn University,Musicology
+"Art, Music, Design","Musicology, Music Pedagogy",3,Paderborn University,Musicology (dual-subject bachelor’s course)
+"Art, Music, Design","Musicology, Music Pedagogy > Musicology",1,Paderborn University,Musicology
+"Art, Music, Design","Musicology, Music Pedagogy > Musicology",2,Paderborn University,Musicology
+"Art, Music, Design","Musicology, Music Pedagogy > Musicology",3,Paderborn University,Musicology (dual-subject bachelor’s course)
+"Art, Music, Design",Music,1,Paderborn University,"Music and Media, popular"
+"Art, Music, Design",Music,2,Paderborn University,"Music and Media, popular"
+"Art, Music, Design",Music,3,Paderborn University,Musicology (two-subject Master)
+"Art, Music, Design",Music > Music,1,Paderborn University,Musicology (two-subject Master)
+"Art, Music, Design",Music > Popular Music,1,Paderborn University,"Music and Media, popular"
+"Art, Music, Design",Music > Popular Music,2,Paderborn University,"Music and Media, popular"
+"Mathematics, Natural Sciences",-,1,Paderborn University,Business computing
+"Mathematics, Natural Sciences",-,2,Paderborn University,Business computing
+"Mathematics, Natural Sciences",-,3,Paderborn University,Chemistry
+"Mathematics, Natural Sciences",-,4,Paderborn University,Computer Engineering
+"Mathematics, Natural Sciences",-,5,Paderborn University,Computer Engineering
+"Mathematics, Natural Sciences",-,6,Paderborn University,Computer science
+"Mathematics, Natural Sciences",-,7,Paderborn University,Computer Science
+"Mathematics, Natural Sciences",-,8,Paderborn University,German
+"Mathematics, Natural Sciences",-,9,Paderborn University,German
+"Mathematics, Natural Sciences",-,10,Paderborn University,German
+"Mathematics, Natural Sciences",-,11,Paderborn University,Management Information Systems
+"Mathematics, Natural Sciences",-,12,Paderborn University,Materials Sciences
+"Mathematics, Natural Sciences",-,13,Paderborn University,Mathematics
+"Mathematics, Natural Sciences",-,14,Paderborn University,Mathematics
+"Mathematics, Natural Sciences",-,15,Paderborn University,Optoelectronic and Photonics
+"Mathematics, Natural Sciences",-,16,Paderborn University,Physics
+"Mathematics, Natural Sciences",-,17,Paderborn University,Physics
+"Mathematics, Natural Sciences",-,18,Paderborn University,Sustainable Chemistry
+"Mathematics, Natural Sciences",-,19,Paderborn University,Technological mathematics
+"Mathematics, Natural Sciences",-,20,Paderborn University,Technological mathematics
+"Mathematics, Natural Sciences",-,21,University of Business Studies Paderborn,Applied Computer Science
+"Mathematics, Natural Sciences",-,22,University of Business Studies Paderborn,Applied Computer Science
+"Mathematics, Natural Sciences",-,23,University of Business Studies Paderborn,Business Informatics
+"Mathematics, Natural Sciences",-,24,University of Business Studies Paderborn,Business Informatics
+"Mathematics, Natural Sciences",-,25,University of Business Studies Paderborn,Business Informatics
+"Mathematics, Natural Sciences",Chemistry,1,Paderborn University,Chemistry
+"Mathematics, Natural Sciences",Chemistry,2,Paderborn University,Materials Sciences
+"Mathematics, Natural Sciences",Chemistry,3,Paderborn University,Sustainable Chemistry
+"Mathematics, Natural Sciences",Chemistry > Chemistry,1,Paderborn University,Chemistry
+"Mathematics, Natural Sciences",Chemistry > Chemistry,2,Paderborn University,Materials Sciences
+"Mathematics, Natural Sciences",Chemistry > Chemistry,3,Paderborn University,Sustainable Chemistry
+"Mathematics, Natural Sciences",Computer Science,1,Paderborn University,Business computing
+"Mathematics, Natural Sciences",Computer Science,2,Paderborn University,Business computing
+"Mathematics, Natural Sciences",Computer Science,3,Paderborn University,Computer Engineering
+"Mathematics, Natural Sciences",Computer Science,4,Paderborn University,Computer Engineering
+"Mathematics, Natural Sciences",Computer Science,5,Paderborn University,Computer science
+"Mathematics, Natural Sciences",Computer Science,6,Paderborn University,Computer Science
+"Mathematics, Natural Sciences",Computer Science,7,Paderborn University,German
+"Mathematics, Natural Sciences",Computer Science,8,Paderborn University,German
+"Mathematics, Natural Sciences",Computer Science,9,Paderborn University,German
+"Mathematics, Natural Sciences",Computer Science,10,Paderborn University,Management Information Systems
+"Mathematics, Natural Sciences",Computer Science,11,University of Business Studies Paderborn,Applied Computer Science
+"Mathematics, Natural Sciences",Computer Science,12,University of Business Studies Paderborn,Applied Computer Science
+"Mathematics, Natural Sciences",Computer Science,13,University of Business Studies Paderborn,Business Informatics
+"Mathematics, Natural Sciences",Computer Science,14,University of Business Studies Paderborn,Business Informatics
+"Mathematics, Natural Sciences",Computer Science,15,University of Business Studies Paderborn,Business Informatics
+"Mathematics, Natural Sciences",Computer Science > Applied Computer Science,1,University of Business Studies Paderborn,Applied Computer Science
+"Mathematics, Natural Sciences",Computer Science > Computer Science,1,Paderborn University,Business computing
+"Mathematics, Natural Sciences",Computer Science > Computer Science,2,Paderborn University,Computer science
+"Mathematics, Natural Sciences",Computer Science > Computer Science,3,Paderborn University,Computer Science
+"Mathematics, Natural Sciences",Computer Science > Computer Science,4,Paderborn University,Management Information Systems
+"Mathematics, Natural Sciences",Computer Science > Computer Science,5,University of Business Studies Paderborn,Applied Computer Science
+"Mathematics, Natural Sciences",Computer Science > Computer Engineering,1,Paderborn University,Computer Engineering
+"Mathematics, Natural Sciences",Computer Science > Computer Engineering,2,Paderborn University,Computer Engineering
+"Mathematics, Natural Sciences",Computer Science > Computer Engineering,3,Paderborn University,German
+"Mathematics, Natural Sciences",Computer Science > Computer Engineering,4,Paderborn University,German
+"Mathematics, Natural Sciences",Computer Science > Computer Engineering,5,Paderborn University,German
+"Mathematics, Natural Sciences",Computer Science > Information Systems and Management,1,Paderborn University,Business computing
+"Mathematics, Natural Sciences",Computer Science > Information Systems and Management,2,Paderborn University,Business computing
+"Mathematics, Natural Sciences",Computer Science > Information Systems and Management,3,Paderborn University,Management Information Systems
+"Mathematics, Natural Sciences",Computer Science > Information Systems and Management,4,University of Business Studies Paderborn,Business Informatics
+"Mathematics, Natural Sciences",Computer Science > Information Systems and Management,5,University of Business Studies Paderborn,Business Informatics
+"Mathematics, Natural Sciences",Computer Science > Information Systems and Management,6,University of Business Studies Paderborn,Business Informatics
+"Mathematics, Natural Sciences",Computer Science > Engineering Informatics,1,Paderborn University,Computer Engineering
+"Mathematics, Natural Sciences",Mathematics,1,Paderborn University,Mathematics
+"Mathematics, Natural Sciences",Mathematics,2,Paderborn University,Mathematics
+"Mathematics, Natural Sciences",Mathematics,3,Paderborn University,Technological mathematics
+"Mathematics, Natural Sciences",Mathematics,4,Paderborn University,Technological mathematics
+"Mathematics, Natural Sciences",Mathematics > Mathematics,1,Paderborn University,Mathematics
+"Mathematics, Natural Sciences",Mathematics > Mathematics,2,Paderborn University,Mathematics
+"Mathematics, Natural Sciences",Mathematics > Technomathematics,1,Paderborn University,Technological mathematics
+"Mathematics, Natural Sciences",Mathematics > Technomathematics,2,Paderborn University,Technological mathematics
+"Mathematics, Natural Sciences","Physics, Astronomy",1,Paderborn University,Optoelectronic and Photonics
+"Mathematics, Natural Sciences","Physics, Astronomy",2,Paderborn University,Physics
+"Mathematics, Natural Sciences","Physics, Astronomy",3,Paderborn University,Physics
+"Mathematics, Natural Sciences","Physics, Astronomy > Physics",1,Paderborn University,Optoelectronic and Photonics
+"Mathematics, Natural Sciences","Physics, Astronomy > Physics",2,Paderborn University,Physics
+"Mathematics, Natural Sciences","Physics, Astronomy > Physics",3,Paderborn University,Physics
+"Medicine, Health Sciences",-,1,Paderborn University,Corporate Health Management
+"Medicine, Health Sciences",-,2,Catholic University of Applied Sciences North-Rhine Westphalia,"Marriage, Family and Life Guidance (Master of Counselling)"
+"Medicine, Health Sciences",Health and Nursing Sciences,1,Paderborn University,Corporate Health Management
+"Medicine, Health Sciences",Health and Nursing Sciences > Health Management,1,Paderborn University,Corporate Health Management
+"Medicine, Health Sciences",Therapies,1,Catholic University of Applied Sciences North-Rhine Westphalia,"Marriage, Family and Life Guidance (Master of Counselling)"
+"Medicine, Health Sciences","Therapies > Therapies, Miscellaneous",1,Catholic University of Applied Sciences North-Rhine Westphalia,"Marriage, Family and Life Guidance (Master of Counselling)"
+Language and Cultural Studies,-,1,Paderborn University,BeNeLux Studies
+Language and Cultural Studies,-,2,Paderborn University,Comparative Studies - Comparative Literature and Cultural Studies
+Language and Cultural Studies,-,3,Paderborn University,Comparative Studies - Comparative Literature and Cultural Studies
+Language and Cultural Studies,-,4,Paderborn University,Cultures of European Pre-Modern Era
+Language and Cultural Studies,-,5,Paderborn University,Digital Humanities
+Language and Cultural Studies,-,6,Paderborn University,English and American Literary and Cultural Studies
+Language and Cultural Studies,-,7,Paderborn University,English Linguistics
+Language and Cultural Studies,-,8,Paderborn University,English Linguistics
+Language and Cultural Studies,-,9,Paderborn University,English-Language Literature and Culture
+Language and Cultural Studies,-,10,Paderborn University,English-Language Literature and Culture
+Language and Cultural Studies,-,11,Paderborn University,European Studies / Études Européennes
+Language and Cultural Studies,-,12,Paderborn University,European Studies:
+Language and Cultural Studies,-,13,Paderborn University,Gender Studies
+Language and Cultural Studies,-,14,Paderborn University,German as a Second and Foreign Language for Career and Specialist Studies (DaZ/DaF)
+Language and Cultural Studies,-,15,Paderborn University,German Linguistics
+Language and Cultural Studies,-,16,Paderborn University,German Linguistics
+Language and Cultural Studies,-,17,Paderborn University,German Literatures
+Language and Cultural Studies,-,18,Paderborn University,German Literatures
+Language and Cultural Studies,-,19,Paderborn University,History
+Language and Cultural Studies,-,20,Paderborn University,History
+Language and Cultural Studies,-,21,Paderborn University,Linguistics
+Language and Cultural Studies,-,22,Paderborn University,Media Sciences
+Language and Cultural Studies,-,23,Paderborn University,Media Sciences
+Language and Cultural Studies,-,24,Paderborn University,Media Sciences
+Language and Cultural Studies,-,25,Paderborn University,Media Sciences
+Language and Cultural Studies,-,26,Paderborn University,"Music and Media, popular"
+Language and Cultural Studies,-,27,Paderborn University,Philosophy
+Language and Cultural Studies,-,28,Paderborn University,Philosophy
+Language and Cultural Studies,-,29,Paderborn University,"Philosophy, practical"
+Language and Cultural Studies,-,30,Paderborn University,PopMediaCulture
+Language and Cultural Studies,-,31,Paderborn University,Romance Studies / French
+Language and Cultural Studies,-,32,Paderborn University,Romance Studies / French
+Language and Cultural Studies,-,33,Paderborn University,Romance Studies / Spanish
+Language and Cultural Studies,-,34,Paderborn University,Romance Studies / Spanish
+Language and Cultural Studies,-,35,Paderborn University,Sociology
+Language and Cultural Studies,-,36,Paderborn University,Theology in Dialogue
+Language and Cultural Studies,"English Studies, American Studies",1,Paderborn University,English and American Literary and Cultural Studies
+Language and Cultural Studies,"English Studies, American Studies",2,Paderborn University,English Linguistics
+Language and Cultural Studies,"English Studies, American Studies",3,Paderborn University,English Linguistics
+Language and Cultural Studies,"English Studies, American Studies",4,Paderborn University,English-Language Literature and Culture
+Language and Cultural Studies,"English Studies, American Studies",5,Paderborn University,English-Language Literature and Culture
+Language and Cultural Studies,"English Studies, American Studies > English Studies",1,Paderborn University,English and American Literary and Cultural Studies
+Language and Cultural Studies,"English Studies, American Studies > English Studies",2,Paderborn University,English Linguistics
+Language and Cultural Studies,"English Studies, American Studies > English Studies",3,Paderborn University,English Linguistics
+Language and Cultural Studies,"English Studies, American Studies > English Studies",4,Paderborn University,English-Language Literature and Culture
+Language and Cultural Studies,"English Studies, American Studies > English Studies",5,Paderborn University,English-Language Literature and Culture
+Language and Cultural Studies,"English Studies, American Studies > American Studies",1,Paderborn University,English and American Literary and Cultural Studies
+Language and Cultural Studies,"English Studies, American Studies > American Studies",2,Paderborn University,English Linguistics
+Language and Cultural Studies,"English Studies, American Studies > American Studies",3,Paderborn University,English-Language Literature and Culture
+Language and Cultural Studies,"English Studies, American Studies > American Studies",4,Paderborn University,English-Language Literature and Culture
+Language and Cultural Studies,German Studies and Contemporary Germanic Languages,1,Paderborn University,German as a Second and Foreign Language for Career and Specialist Studies (DaZ/DaF)
+Language and Cultural Studies,German Studies and Contemporary Germanic Languages,2,Paderborn University,German Linguistics
+Language and Cultural Studies,German Studies and Contemporary Germanic Languages,3,Paderborn University,German Linguistics
+Language and Cultural Studies,German Studies and Contemporary Germanic Languages,4,Paderborn University,German Literatures
+Language and Cultural Studies,German Studies and Contemporary Germanic Languages > German as a Foreign Language,1,Paderborn University,German as a Second and Foreign Language for Career and Specialist Studies (DaZ/DaF)
+Language and Cultural Studies,German Studies and Contemporary Germanic Languages > German Studies,1,Paderborn University,German Linguistics
+Language and Cultural Studies,German Studies and Contemporary Germanic Languages > German Studies,2,Paderborn University,German Linguistics
+Language and Cultural Studies,German Studies and Contemporary Germanic Languages > German Studies,3,Paderborn University,German Literatures
+Language and Cultural Studies,"History, Ancient Studies",1,Paderborn University,Cultures of European Pre-Modern Era
+Language and Cultural Studies,"History, Ancient Studies",2,Paderborn University,History
+Language and Cultural Studies,"History, Ancient Studies",3,Paderborn University,History
+Language and Cultural Studies,"History, Ancient Studies > History",1,Paderborn University,Cultures of European Pre-Modern Era
+Language and Cultural Studies,"History, Ancient Studies > History",2,Paderborn University,History
+Language and Cultural Studies,"History, Ancient Studies > History",3,Paderborn University,History
+Language and Cultural Studies,Cultural Studies,1,Paderborn University,BeNeLux Studies
+Language and Cultural Studies,Cultural Studies,2,Paderborn University,Comparative Studies - Comparative Literature and Cultural Studies
+Language and Cultural Studies,Cultural Studies,3,Paderborn University,Digital Humanities
+Language and Cultural Studies,Cultural Studies,4,Paderborn University,European Studies:
+Language and Cultural Studies,Cultural Studies,5,Paderborn University,Gender Studies
+Language and Cultural Studies,Cultural Studies,6,Paderborn University,PopMediaCulture
+Language and Cultural Studies,Cultural Studies,7,Paderborn University,Sociology
+Language and Cultural Studies,Cultural Studies,8,Paderborn University,Theology in Dialogue
+Language and Cultural Studies,Cultural Studies > Intercultural Studies,1,Paderborn University,BeNeLux Studies
+Language and Cultural Studies,Cultural Studies > Cultural Studies,1,Paderborn University,Comparative Studies - Comparative Literature and Cultural Studies
+Language and Cultural Studies,Cultural Studies > Cultural Studies,2,Paderborn University,Digital Humanities
+Language and Cultural Studies,Cultural Studies > Cultural Studies,3,Paderborn University,European Studies:
+Language and Cultural Studies,Cultural Studies > Cultural Studies,4,Paderborn University,Gender Studies
+Language and Cultural Studies,Cultural Studies > Cultural Studies,5,Paderborn University,PopMediaCulture
+Language and Cultural Studies,Cultural Studies > Cultural Studies,6,Paderborn University,Sociology
+Language and Cultural Studies,Cultural Studies > Cultural Studies,7,Paderborn University,Theology in Dialogue
+Language and Cultural Studies,Media Studies,1,Paderborn University,Media Sciences
+Language and Cultural Studies,Media Studies,2,Paderborn University,Media Sciences
+Language and Cultural Studies,Media Studies,3,Paderborn University,Media Sciences
+Language and Cultural Studies,Media Studies,4,Paderborn University,Media Sciences
+Language and Cultural Studies,Media Studies,5,Paderborn University,"Music and Media, popular"
+Language and Cultural Studies,Media Studies > Media Studies,1,Paderborn University,Media Sciences
+Language and Cultural Studies,Media Studies > Media Studies,2,Paderborn University,Media Sciences
+Language and Cultural Studies,Media Studies > Media Studies,3,Paderborn University,Media Sciences
+Language and Cultural Studies,Media Studies > Media Studies,4,Paderborn University,Media Sciences
+Language and Cultural Studies,Media Studies > Media Studies,5,Paderborn University,"Music and Media, popular"
+Language and Cultural Studies,Philosophy,1,Paderborn University,Philosophy
+Language and Cultural Studies,Philosophy,2,Paderborn University,Philosophy
+Language and Cultural Studies,Philosophy,3,Paderborn University,"Philosophy, practical"
+Language and Cultural Studies,Philosophy > Philosophy,1,Paderborn University,Philosophy
+Language and Cultural Studies,Philosophy > Philosophy,2,Paderborn University,Philosophy
+Language and Cultural Studies,Philosophy > Philosophy,3,Paderborn University,"Philosophy, practical"
+Language and Cultural Studies,Regional Studies,1,Paderborn University,European Studies / Études Européennes
+Language and Cultural Studies,Regional Studies > European Studies,1,Paderborn University,European Studies / Études Européennes
+Language and Cultural Studies,Romance Studies,1,Paderborn University,Romance Studies / French
+Language and Cultural Studies,Romance Studies,2,Paderborn University,Romance Studies / French
+Language and Cultural Studies,Romance Studies,3,Paderborn University,Romance Studies / Spanish
+Language and Cultural Studies,Romance Studies,4,Paderborn University,Romance Studies / Spanish
+Language and Cultural Studies,Romance Studies > French,1,Paderborn University,Romance Studies / French
+Language and Cultural Studies,Romance Studies > French,2,Paderborn University,Romance Studies / French
+Language and Cultural Studies,Romance Studies > Romance Studies,1,Paderborn University,Romance Studies / French
+Language and Cultural Studies,Romance Studies > Romance Studies,2,Paderborn University,Romance Studies / Spanish
+Language and Cultural Studies,Romance Studies > Spanish,1,Paderborn University,Romance Studies / Spanish
+Language and Cultural Studies,Romance Studies > Spanish,2,Paderborn University,Romance Studies / Spanish
+Language and Cultural Studies,Language and Literary Studies,1,Paderborn University,Comparative Studies - Comparative Literature and Cultural Studies
+Language and Cultural Studies,Language and Literary Studies,2,Paderborn University,Cultures of European Pre-Modern Era
+Language and Cultural Studies,Language and Literary Studies,3,Paderborn University,English and American Literary and Cultural Studies
+Language and Cultural Studies,Language and Literary Studies,4,Paderborn University,English Linguistics
+Language and Cultural Studies,Language and Literary Studies,5,Paderborn University,English-Language Literature and Culture
+Language and Cultural Studies,Language and Literary Studies,6,Paderborn University,German Linguistics
+Language and Cultural Studies,Language and Literary Studies,7,Paderborn University,German Literatures
+Language and Cultural Studies,Language and Literary Studies,8,Paderborn University,German Literatures
+Language and Cultural Studies,Language and Literary Studies,9,Paderborn University,Linguistics
+Language and Cultural Studies,Language and Literary Studies > General Literary Studies,1,Paderborn University,English and American Literary and Cultural Studies
+Language and Cultural Studies,Language and Literary Studies > General Literary Studies,2,Paderborn University,English-Language Literature and Culture
+Language and Cultural Studies,Language and Literary Studies > General Literary Studies,3,Paderborn University,German Literatures
+Language and Cultural Studies,Language and Literary Studies > General Literary Studies,4,Paderborn University,German Literatures
+Language and Cultural Studies,Language and Literary Studies > General Linguistic Science,1,Paderborn University,English Linguistics
+Language and Cultural Studies,Language and Literary Studies > General Linguistic Science,2,Paderborn University,German Linguistics
+Language and Cultural Studies,Language and Literary Studies > General Linguistic Science,3,Paderborn University,Linguistics
+Language and Cultural Studies,Language and Literary Studies > Comparative Literary Studies,1,Paderborn University,Comparative Studies - Comparative Literature and Cultural Studies
+Language and Cultural Studies,Language and Literary Studies > Comparative Literary Studies,2,Paderborn University,Cultures of European Pre-Modern Era
+Language and Cultural Studies,Language and Literary Studies > Comparative Literary Studies,3,Paderborn University,German Literatures
+"Economic Sciences, Law",-,1,Paderborn University,Business Administration
+"Economic Sciences, Law",-,2,Paderborn University,Business computing
+"Economic Sciences, Law",-,3,Paderborn University,Corporate Health Management
+"Economic Sciences, Law",-,4,Paderborn University,Economics
+"Economic Sciences, Law",-,5,Paderborn University,Economics teaching
+"Economic Sciences, Law",-,6,Paderborn University,International Business Studies
+"Economic Sciences, Law",-,7,Paderborn University,International Business Studies
+"Economic Sciences, Law",-,8,Paderborn University,International Economics and Management
+"Economic Sciences, Law",-,9,Paderborn University,Management
+"Economic Sciences, Law",-,10,Paderborn University,Management
+"Economic Sciences, Law",-,11,Paderborn University,Management
+"Economic Sciences, Law",-,12,Paderborn University,Management Information Systems
+"Economic Sciences, Law",-,13,Paderborn University,Sports Economics
+"Economic Sciences, Law",-,14,Paderborn University,"Taxation, Accounting and Finance"
+"Economic Sciences, Law",-,15,University of Business Studies Paderborn,Business Administration
+"Economic Sciences, Law",-,16,University of Business Studies Paderborn,Business Administration
+"Economic Sciences, Law",-,17,University of Business Studies Paderborn,Business Administration
+"Economic Sciences, Law",-,18,University of Business Studies Paderborn,Business Administration
+"Economic Sciences, Law",-,19,University of Business Studies Paderborn,International Business Management
+"Economic Sciences, Law",-,20,Catholic University of Applied Sciences North-Rhine Westphalia,Social management
+"Economic Sciences, Law",Economic Sciences,1,Paderborn University,Business Administration
+"Economic Sciences, Law",Economic Sciences,2,Paderborn University,Business computing
+"Economic Sciences, Law",Economic Sciences,3,Paderborn University,Corporate Health Management
+"Economic Sciences, Law",Economic Sciences,4,Paderborn University,Economics
+"Economic Sciences, Law",Economic Sciences,5,Paderborn University,Economics teaching
+"Economic Sciences, Law",Economic Sciences,6,Paderborn University,International Business Studies
+"Economic Sciences, Law",Economic Sciences,7,Paderborn University,International Business Studies
+"Economic Sciences, Law",Economic Sciences,8,Paderborn University,International Economics and Management
+"Economic Sciences, Law",Economic Sciences,9,Paderborn University,Management
+"Economic Sciences, Law",Economic Sciences,10,Paderborn University,Management
+"Economic Sciences, Law",Economic Sciences,11,Paderborn University,Management
+"Economic Sciences, Law",Economic Sciences,12,Paderborn University,Management Information Systems
+"Economic Sciences, Law",Economic Sciences,13,Paderborn University,Sports Economics
+"Economic Sciences, Law",Economic Sciences,14,Paderborn University,"Taxation, Accounting and Finance"
+"Economic Sciences, Law",Economic Sciences,15,University of Business Studies Paderborn,Business Administration
+"Economic Sciences, Law",Economic Sciences,16,University of Business Studies Paderborn,Business Administration
+"Economic Sciences, Law",Economic Sciences,17,University of Business Studies Paderborn,Business Administration
+"Economic Sciences, Law",Economic Sciences,18,University of Business Studies Paderborn,Business Administration
+"Economic Sciences, Law",Economic Sciences,19,University of Business Studies Paderborn,International Business Management
+"Economic Sciences, Law",Economic Sciences,20,Catholic University of Applied Sciences North-Rhine Westphalia,Social management
+"Economic Sciences, Law",Economic Sciences > Business Administration,1,Paderborn University,Business Administration
+"Economic Sciences, Law",Economic Sciences > Business Administration,2,Paderborn University,Management
+"Economic Sciences, Law",Economic Sciences > Business Administration,3,Paderborn University,Management
+"Economic Sciences, Law",Economic Sciences > Business Administration,4,Paderborn University,Sports Economics
+"Economic Sciences, Law",Economic Sciences > Business Administration,5,University of Business Studies Paderborn,Business Administration
+"Economic Sciences, Law",Economic Sciences > Business Administration,6,University of Business Studies Paderborn,Business Administration
+"Economic Sciences, Law",Economic Sciences > Business Administration,7,University of Business Studies Paderborn,Business Administration
+"Economic Sciences, Law",Economic Sciences > International Business Administration,1,Paderborn University,International Business Studies
+"Economic Sciences, Law",Economic Sciences > International Business Administration,2,Paderborn University,International Business Studies
+"Economic Sciences, Law",Economic Sciences > International Business Administration,3,Paderborn University,International Economics and Management
+"Economic Sciences, Law",Economic Sciences > Human Resource Management,1,Paderborn University,Management
+"Economic Sciences, Law","Economic Sciences > Accounting, Taxation, Controlling",1,Paderborn University,"Taxation, Accounting and Finance"
+"Economic Sciences, Law","Economic Sciences > Sport, Event, Culture Management",1,Paderborn University,Corporate Health Management
+"Economic Sciences, Law",Economic Sciences > Business and Economics Pedagogy,1,Paderborn University,Economics teaching
+"Economic Sciences, Law","Economic Sciences > Economic Sciences, Economics",1,Paderborn University,Business computing
+"Economic Sciences, Law","Economic Sciences > Economic Sciences, Economics",2,Paderborn University,Economics
+"Economic Sciences, Law","Economic Sciences > Economic Sciences, Economics",3,Paderborn University,Management Information Systems
+"Economic Sciences, Law","Economic Sciences > Economic Sciences, Economics",4,University of Business Studies Paderborn,Business Administration
+"Economic Sciences, Law","Economic Sciences > Economic Sciences, Economics",5,University of Business Studies Paderborn,International Business Management
+"Economic Sciences, Law","Economic Sciences > Economic Sciences, Economics",6,Catholic University of Applied Sciences North-Rhine Westphalia,Social management
+Teaching Degrees,-,1,Paderborn University,Art
+Teaching Degrees,-,2,Paderborn University,Art
+Teaching Degrees,-,3,Paderborn University,Art
+Teaching Degrees,-,4,Paderborn University,Art
+Teaching Degrees,-,5,Paderborn University,Art
+Teaching Degrees,-,6,Paderborn University,Art
+Teaching Degrees,-,7,Paderborn University,Art
+Teaching Degrees,-,8,Paderborn University,Art
+Teaching Degrees,-,9,Paderborn University,Art
+Teaching Degrees,-,10,Paderborn University,Art
+Teaching Degrees,-,11,Paderborn University,Bromatology and Domestic Science
+Teaching Degrees,-,12,Paderborn University,Bromatology and Domestic Science
+Teaching Degrees,-,13,Paderborn University,Chemistry
+Teaching Degrees,-,14,Paderborn University,Chemistry
+Teaching Degrees,-,15,Paderborn University,Chemistry
+Teaching Degrees,-,16,Paderborn University,Chemistry
+Teaching Degrees,-,17,Paderborn University,Chemistry
+Teaching Degrees,-,18,Paderborn University,Chemistry
+Teaching Degrees,-,19,Paderborn University,Computer science
+Teaching Degrees,-,20,Paderborn University,Computer science
+Teaching Degrees,-,21,Paderborn University,Computer science
+Teaching Degrees,-,22,Paderborn University,Computer science
+Teaching Degrees,-,23,Paderborn University,Computer science
+Teaching Degrees,-,24,Paderborn University,Computer science
+Teaching Degrees,-,25,Paderborn University,Dietetics
+Teaching Degrees,-,26,Paderborn University,Dietetics
+Teaching Degrees,-,27,Paderborn University,Domestic Science
+Teaching Degrees,-,28,Paderborn University,Domestic Science
+Teaching Degrees,-,29,Paderborn University,Economics
+Teaching Degrees,-,30,Paderborn University,Economics
+Teaching Degrees,-,31,Paderborn University,Economics teaching
+Teaching Degrees,-,32,Paderborn University,Education
+Teaching Degrees,-,33,Paderborn University,Education
+Teaching Degrees,-,34,Paderborn University,Education
+Teaching Degrees,-,35,Paderborn University,Education
+Teaching Degrees,-,36,Paderborn University,Electrical engineering
+Teaching Degrees,-,37,Paderborn University,Electrical engineering
+Teaching Degrees,-,38,Paderborn University,Electrical engineering
+Teaching Degrees,-,39,Paderborn University,English
+Teaching Degrees,-,40,Paderborn University,English
+Teaching Degrees,-,41,Paderborn University,English
+Teaching Degrees,-,42,Paderborn University,English
+Teaching Degrees,-,43,Paderborn University,English
+Teaching Degrees,-,44,Paderborn University,English
+Teaching Degrees,-,45,Paderborn University,English
+Teaching Degrees,-,46,Paderborn University,English
+Teaching Degrees,-,47,Paderborn University,English
+Teaching Degrees,-,48,Paderborn University,English
+Teaching Degrees,-,49,Paderborn University,focal point of support - Emotional and Social Development
+Teaching Degrees,-,50,Paderborn University,focal point of support - Emotional and Social Development
+Teaching Degrees,-,51,Paderborn University,focal point of support - Learning
+Teaching Degrees,-,52,Paderborn University,focal point of support - Learning
+Teaching Degrees,-,53,Paderborn University,Food Stuff Engineering
+Teaching Degrees,-,54,Paderborn University,French
+Teaching Degrees,-,55,Paderborn University,French
+Teaching Degrees,-,56,Paderborn University,French
+Teaching Degrees,-,57,Paderborn University,French
+Teaching Degrees,-,58,Paderborn University,French
+Teaching Degrees,-,59,Paderborn University,French
+Teaching Degrees,-,60,Paderborn University,German
+Teaching Degrees,-,61,Paderborn University,German
+Teaching Degrees,-,62,Paderborn University,German
+Teaching Degrees,-,63,Paderborn University,German
+Teaching Degrees,-,64,Paderborn University,German
+Teaching Degrees,-,65,Paderborn University,German
+Teaching Degrees,-,66,Paderborn University,History
+Teaching Degrees,-,67,Paderborn University,History
+Teaching Degrees,-,68,Paderborn University,History
+Teaching Degrees,-,69,Paderborn University,History
+Teaching Degrees,-,70,Paderborn University,Islamic Religious Theory
+Teaching Degrees,-,71,Paderborn University,Islamic Religious Theory
+Teaching Degrees,-,72,Paderborn University,Islamic Religious Theory
+Teaching Degrees,-,73,Paderborn University,Islamic Religious Theory
+Teaching Degrees,-,74,Paderborn University,Islamic Religious Theory
+Teaching Degrees,-,75,Paderborn University,Islamic Religious Theory
+Teaching Degrees,-,76,Paderborn University,Islamic Religious Theory
+Teaching Degrees,-,77,Paderborn University,Islamic Religious Theory
+Teaching Degrees,-,78,Paderborn University,Learning Area Basic Education in Language
+Teaching Degrees,-,79,Paderborn University,Learning Area Basic Education in Language
+Teaching Degrees,-,80,Paderborn University,Learning Area Basic Education in Language
+Teaching Degrees,-,81,Paderborn University,Learning Area Basic Education in Language
+Teaching Degrees,-,82,Paderborn University,Learning Area Basic Education in Mathematics
+Teaching Degrees,-,83,Paderborn University,Learning Area Basic Education in Mathematics
+Teaching Degrees,-,84,Paderborn University,Learning Area Basic Education in Mathematics
+Teaching Degrees,-,85,Paderborn University,Learning Area Basic Education in Mathematics
+Teaching Degrees,-,86,Paderborn University,Learning Area Natural and Social Science
+Teaching Degrees,-,87,Paderborn University,Learning Area Natural and Social Science
+Teaching Degrees,-,88,Paderborn University,Learning Area Natural and Social Science
+Teaching Degrees,-,89,Paderborn University,Learning Area Natural and Social Science
+Teaching Degrees,-,90,Paderborn University,Mathematics
+Teaching Degrees,-,91,Paderborn University,Mathematics
+Teaching Degrees,-,92,Paderborn University,Mathematics
+Teaching Degrees,-,93,Paderborn University,Mathematics
+Teaching Degrees,-,94,Paderborn University,Mathematics
+Teaching Degrees,-,95,Paderborn University,Mathematics
+Teaching Degrees,-,96,Paderborn University,Mechanical Engineering
+Teaching Degrees,-,97,Paderborn University,Mechanical Engineering
+Teaching Degrees,-,98,Paderborn University,Mechanical Engineering
+Teaching Degrees,-,99,Paderborn University,Music
+Teaching Degrees,-,100,Paderborn University,Music
+Teaching Degrees,-,101,Paderborn University,Music
+Teaching Degrees,-,102,Paderborn University,Music
+Teaching Degrees,-,103,Paderborn University,Music
+Teaching Degrees,-,104,Paderborn University,Music
+Teaching Degrees,-,105,Paderborn University,Music
+Teaching Degrees,-,106,Paderborn University,Philosophy / Practical Philosophy
+Teaching Degrees,-,107,Paderborn University,Philosophy / Practical Philosophy
+Teaching Degrees,-,108,Paderborn University,"Philosophy, practical"
+Teaching Degrees,-,109,Paderborn University,"Philosophy, practical"
+Teaching Degrees,-,110,Paderborn University,"Philosophy, practical"
+Teaching Degrees,-,111,Paderborn University,"Philosophy, practical"
+Teaching Degrees,-,112,Paderborn University,Physics
+Teaching Degrees,-,113,Paderborn University,Physics
+Teaching Degrees,-,114,Paderborn University,Physics
+Teaching Degrees,-,115,Paderborn University,Physics
+Teaching Degrees,-,116,Paderborn University,Physics
+Teaching Degrees,-,117,Paderborn University,Physics
+Teaching Degrees,-,118,Paderborn University,Psychology
+Teaching Degrees,-,119,Paderborn University,Psychology
+Teaching Degrees,-,120,Paderborn University,Psychology
+Teaching Degrees,-,121,Paderborn University,Psychology
+Teaching Degrees,-,122,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,-,123,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,-,124,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,-,125,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,-,126,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,-,127,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,-,128,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,-,129,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,-,130,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,-,131,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,-,132,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,-,133,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,-,134,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,-,135,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,-,136,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,-,137,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,-,138,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,-,139,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,-,140,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,-,141,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,-,142,Paderborn University,Social Education
+Teaching Degrees,-,143,Paderborn University,Social Education
+Teaching Degrees,-,144,Paderborn University,Spanish
+Teaching Degrees,-,145,Paderborn University,Spanish
+Teaching Degrees,-,146,Paderborn University,Spanish
+Teaching Degrees,-,147,Paderborn University,Spanish
+Teaching Degrees,-,148,Paderborn University,Spanish
+Teaching Degrees,-,149,Paderborn University,Spanish
+Teaching Degrees,-,150,Paderborn University,Sport
+Teaching Degrees,-,151,Paderborn University,Sport
+Teaching Degrees,-,152,Paderborn University,Sport
+Teaching Degrees,-,153,Paderborn University,Sport
+Teaching Degrees,-,154,Paderborn University,Sport
+Teaching Degrees,-,155,Paderborn University,Sport
+Teaching Degrees,-,156,Paderborn University,Sport
+Teaching Degrees,-,157,Paderborn University,Sport
+Teaching Degrees,-,158,Paderborn University,Sport
+Teaching Degrees,-,159,Paderborn University,Sport
+Teaching Degrees,-,160,Paderborn University,Support Area Language
+Teaching Degrees,-,161,Paderborn University,Support Area Language
+Teaching Degrees,-,162,Paderborn University,Technology
+Teaching Degrees,-,163,Paderborn University,Technology
+Teaching Degrees,-,164,Paderborn University,Technology
+Teaching Degrees,-,165,Paderborn University,Technology
+Teaching Degrees,-,166,Paderborn University,Textile design
+Teaching Degrees,-,167,Paderborn University,Textile design
+Teaching Degrees,Vocational Disciplines,1,Paderborn University,Bromatology and Domestic Science
+Teaching Degrees,Vocational Disciplines,2,Paderborn University,Bromatology and Domestic Science
+Teaching Degrees,Vocational Disciplines,3,Paderborn University,Economics
+Teaching Degrees,Vocational Disciplines,4,Paderborn University,Economics
+Teaching Degrees,Vocational Disciplines,5,Paderborn University,Economics teaching
+Teaching Degrees,Vocational Disciplines,6,Paderborn University,Electrical engineering
+Teaching Degrees,Vocational Disciplines,7,Paderborn University,Electrical engineering
+Teaching Degrees,Vocational Disciplines,8,Paderborn University,Electrical engineering
+Teaching Degrees,Vocational Disciplines,9,Paderborn University,Food Stuff Engineering
+Teaching Degrees,Vocational Disciplines,10,Paderborn University,Mechanical Engineering
+Teaching Degrees,Vocational Disciplines,11,Paderborn University,Mechanical Engineering
+Teaching Degrees,Vocational Disciplines,12,Paderborn University,Mechanical Engineering
+Teaching Degrees,Vocational Disciplines,13,Paderborn University,Social Education
+Teaching Degrees,Vocational Disciplines,14,Paderborn University,Social Education
+Teaching Degrees,Vocational Disciplines,15,Paderborn University,Textile design
+Teaching Degrees,Vocational Disciplines > Electrical Engineering (Teaching Degree),1,Paderborn University,Electrical engineering
+Teaching Degrees,Vocational Disciplines > Electrical Engineering (Teaching Degree),2,Paderborn University,Electrical engineering
+Teaching Degrees,Vocational Disciplines > Electrical Engineering (Teaching Degree),3,Paderborn University,Electrical engineering
+Teaching Degrees,"Vocational Disciplines > Nutrition, Home Economics (Teaching Degree)",1,Paderborn University,Bromatology and Domestic Science
+Teaching Degrees,"Vocational Disciplines > Nutrition, Home Economics (Teaching Degree)",2,Paderborn University,Bromatology and Domestic Science
+Teaching Degrees,"Vocational Disciplines > Metal Engineering, Mechanical Engineering (Teaching Degree)",1,Paderborn University,Mechanical Engineering
+Teaching Degrees,"Vocational Disciplines > Metal Engineering, Mechanical Engineering (Teaching Degree)",2,Paderborn University,Mechanical Engineering
+Teaching Degrees,"Vocational Disciplines > Metal Engineering, Mechanical Engineering (Teaching Degree)",3,Paderborn University,Mechanical Engineering
+Teaching Degrees,Vocational Disciplines > Social Pedagogy (Teaching Degree),1,Paderborn University,Social Education
+Teaching Degrees,Vocational Disciplines > Social Pedagogy (Teaching Degree),2,Paderborn University,Social Education
+Teaching Degrees,Vocational Disciplines > Textile Engineering and Design (Teaching Degree),1,Paderborn University,Textile design
+Teaching Degrees,Vocational Disciplines > Economics and Administration (Teaching Degree),1,Paderborn University,Economics
+Teaching Degrees,Vocational Disciplines > Economics and Administration (Teaching Degree),2,Paderborn University,Economics teaching
+Teaching Degrees,"Vocational Disciplines > Vocational Education, Vocational Pedagogy (Teaching Degree)",1,Paderborn University,Economics
+Teaching Degrees,"Vocational Disciplines > Bioengineering, Chemical Engineering (Teaching Degree)",1,Paderborn University,Food Stuff Engineering
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy",1,Paderborn University,Art
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy",2,Paderborn University,English
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy",3,Paderborn University,focal point of support - Emotional and Social Development
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy",4,Paderborn University,focal point of support - Emotional and Social Development
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy",5,Paderborn University,focal point of support - Learning
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy",6,Paderborn University,focal point of support - Learning
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy",7,Paderborn University,Learning Area Basic Education in Language
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy",8,Paderborn University,Learning Area Basic Education in Mathematics
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy",9,Paderborn University,Learning Area Natural and Social Science
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy",10,Paderborn University,Music
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy",11,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy",12,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy",13,Paderborn University,Sport
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy",14,Paderborn University,Support Area Language
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy",15,Paderborn University,Support Area Language
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy > Special Pedagogy, Inclusive Pedagogy (Teaching Degree)",1,Paderborn University,Art
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy > Special Pedagogy, Inclusive Pedagogy (Teaching Degree)",2,Paderborn University,English
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy > Special Pedagogy, Inclusive Pedagogy (Teaching Degree)",3,Paderborn University,focal point of support - Emotional and Social Development
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy > Special Pedagogy, Inclusive Pedagogy (Teaching Degree)",4,Paderborn University,focal point of support - Emotional and Social Development
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy > Special Pedagogy, Inclusive Pedagogy (Teaching Degree)",5,Paderborn University,focal point of support - Learning
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy > Special Pedagogy, Inclusive Pedagogy (Teaching Degree)",6,Paderborn University,focal point of support - Learning
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy > Special Pedagogy, Inclusive Pedagogy (Teaching Degree)",7,Paderborn University,Learning Area Basic Education in Language
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy > Special Pedagogy, Inclusive Pedagogy (Teaching Degree)",8,Paderborn University,Learning Area Basic Education in Mathematics
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy > Special Pedagogy, Inclusive Pedagogy (Teaching Degree)",9,Paderborn University,Learning Area Natural and Social Science
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy > Special Pedagogy, Inclusive Pedagogy (Teaching Degree)",10,Paderborn University,Music
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy > Special Pedagogy, Inclusive Pedagogy (Teaching Degree)",11,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy > Special Pedagogy, Inclusive Pedagogy (Teaching Degree)",12,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy > Special Pedagogy, Inclusive Pedagogy (Teaching Degree)",13,Paderborn University,Sport
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy > Special Pedagogy, Inclusive Pedagogy (Teaching Degree)",14,Paderborn University,Support Area Language
+Teaching Degrees,"Special Pedagogy, Inclusive Pedagogy > Special Pedagogy, Inclusive Pedagogy (Teaching Degree)",15,Paderborn University,Support Area Language
+Teaching Degrees,School Subjects,1,Paderborn University,Art
+Teaching Degrees,School Subjects,2,Paderborn University,Art
+Teaching Degrees,School Subjects,3,Paderborn University,Art
+Teaching Degrees,School Subjects,4,Paderborn University,Art
+Teaching Degrees,School Subjects,5,Paderborn University,Art
+Teaching Degrees,School Subjects,6,Paderborn University,Art
+Teaching Degrees,School Subjects,7,Paderborn University,Art
+Teaching Degrees,School Subjects,8,Paderborn University,Art
+Teaching Degrees,School Subjects,9,Paderborn University,Art
+Teaching Degrees,School Subjects,10,Paderborn University,Chemistry
+Teaching Degrees,School Subjects,11,Paderborn University,Chemistry
+Teaching Degrees,School Subjects,12,Paderborn University,Chemistry
+Teaching Degrees,School Subjects,13,Paderborn University,Chemistry
+Teaching Degrees,School Subjects,14,Paderborn University,Chemistry
+Teaching Degrees,School Subjects,15,Paderborn University,Chemistry
+Teaching Degrees,School Subjects,16,Paderborn University,Computer science
+Teaching Degrees,School Subjects,17,Paderborn University,Computer science
+Teaching Degrees,School Subjects,18,Paderborn University,Computer science
+Teaching Degrees,School Subjects,19,Paderborn University,Computer science
+Teaching Degrees,School Subjects,20,Paderborn University,Computer science
+Teaching Degrees,School Subjects,21,Paderborn University,Computer science
+Teaching Degrees,School Subjects,22,Paderborn University,Dietetics
+Teaching Degrees,School Subjects,23,Paderborn University,Dietetics
+Teaching Degrees,School Subjects,24,Paderborn University,Domestic Science
+Teaching Degrees,School Subjects,25,Paderborn University,Domestic Science
+Teaching Degrees,School Subjects,26,Paderborn University,Education
+Teaching Degrees,School Subjects,27,Paderborn University,Education
+Teaching Degrees,School Subjects,28,Paderborn University,Education
+Teaching Degrees,School Subjects,29,Paderborn University,Education
+Teaching Degrees,School Subjects,30,Paderborn University,English
+Teaching Degrees,School Subjects,31,Paderborn University,English
+Teaching Degrees,School Subjects,32,Paderborn University,English
+Teaching Degrees,School Subjects,33,Paderborn University,English
+Teaching Degrees,School Subjects,34,Paderborn University,English
+Teaching Degrees,School Subjects,35,Paderborn University,English
+Teaching Degrees,School Subjects,36,Paderborn University,English
+Teaching Degrees,School Subjects,37,Paderborn University,English
+Teaching Degrees,School Subjects,38,Paderborn University,English
+Teaching Degrees,School Subjects,39,Paderborn University,French
+Teaching Degrees,School Subjects,40,Paderborn University,French
+Teaching Degrees,School Subjects,41,Paderborn University,French
+Teaching Degrees,School Subjects,42,Paderborn University,French
+Teaching Degrees,School Subjects,43,Paderborn University,French
+Teaching Degrees,School Subjects,44,Paderborn University,French
+Teaching Degrees,School Subjects,45,Paderborn University,German
+Teaching Degrees,School Subjects,46,Paderborn University,German
+Teaching Degrees,School Subjects,47,Paderborn University,German
+Teaching Degrees,School Subjects,48,Paderborn University,German
+Teaching Degrees,School Subjects,49,Paderborn University,German
+Teaching Degrees,School Subjects,50,Paderborn University,German
+Teaching Degrees,School Subjects,51,Paderborn University,History
+Teaching Degrees,School Subjects,52,Paderborn University,History
+Teaching Degrees,School Subjects,53,Paderborn University,History
+Teaching Degrees,School Subjects,54,Paderborn University,History
+Teaching Degrees,School Subjects,55,Paderborn University,Islamic Religious Theory
+Teaching Degrees,School Subjects,56,Paderborn University,Islamic Religious Theory
+Teaching Degrees,School Subjects,57,Paderborn University,Islamic Religious Theory
+Teaching Degrees,School Subjects,58,Paderborn University,Islamic Religious Theory
+Teaching Degrees,School Subjects,59,Paderborn University,Islamic Religious Theory
+Teaching Degrees,School Subjects,60,Paderborn University,Islamic Religious Theory
+Teaching Degrees,School Subjects,61,Paderborn University,Islamic Religious Theory
+Teaching Degrees,School Subjects,62,Paderborn University,Islamic Religious Theory
+Teaching Degrees,School Subjects,63,Paderborn University,Learning Area Basic Education in Language
+Teaching Degrees,School Subjects,64,Paderborn University,Learning Area Basic Education in Language
+Teaching Degrees,School Subjects,65,Paderborn University,Learning Area Basic Education in Language
+Teaching Degrees,School Subjects,66,Paderborn University,Learning Area Basic Education in Mathematics
+Teaching Degrees,School Subjects,67,Paderborn University,Learning Area Basic Education in Mathematics
+Teaching Degrees,School Subjects,68,Paderborn University,Learning Area Basic Education in Mathematics
+Teaching Degrees,School Subjects,69,Paderborn University,Learning Area Natural and Social Science
+Teaching Degrees,School Subjects,70,Paderborn University,Learning Area Natural and Social Science
+Teaching Degrees,School Subjects,71,Paderborn University,Learning Area Natural and Social Science
+Teaching Degrees,School Subjects,72,Paderborn University,Mathematics
+Teaching Degrees,School Subjects,73,Paderborn University,Mathematics
+Teaching Degrees,School Subjects,74,Paderborn University,Mathematics
+Teaching Degrees,School Subjects,75,Paderborn University,Mathematics
+Teaching Degrees,School Subjects,76,Paderborn University,Mathematics
+Teaching Degrees,School Subjects,77,Paderborn University,Mathematics
+Teaching Degrees,School Subjects,78,Paderborn University,Music
+Teaching Degrees,School Subjects,79,Paderborn University,Music
+Teaching Degrees,School Subjects,80,Paderborn University,Music
+Teaching Degrees,School Subjects,81,Paderborn University,Music
+Teaching Degrees,School Subjects,82,Paderborn University,Music
+Teaching Degrees,School Subjects,83,Paderborn University,Music
+Teaching Degrees,School Subjects,84,Paderborn University,Philosophy / Practical Philosophy
+Teaching Degrees,School Subjects,85,Paderborn University,Philosophy / Practical Philosophy
+Teaching Degrees,School Subjects,86,Paderborn University,"Philosophy, practical"
+Teaching Degrees,School Subjects,87,Paderborn University,"Philosophy, practical"
+Teaching Degrees,School Subjects,88,Paderborn University,"Philosophy, practical"
+Teaching Degrees,School Subjects,89,Paderborn University,"Philosophy, practical"
+Teaching Degrees,School Subjects,90,Paderborn University,Physics
+Teaching Degrees,School Subjects,91,Paderborn University,Physics
+Teaching Degrees,School Subjects,92,Paderborn University,Physics
+Teaching Degrees,School Subjects,93,Paderborn University,Physics
+Teaching Degrees,School Subjects,94,Paderborn University,Physics
+Teaching Degrees,School Subjects,95,Paderborn University,Physics
+Teaching Degrees,School Subjects,96,Paderborn University,Psychology
+Teaching Degrees,School Subjects,97,Paderborn University,Psychology
+Teaching Degrees,School Subjects,98,Paderborn University,Psychology
+Teaching Degrees,School Subjects,99,Paderborn University,Psychology
+Teaching Degrees,School Subjects,100,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,School Subjects,101,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,School Subjects,102,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,School Subjects,103,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,School Subjects,104,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,School Subjects,105,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,School Subjects,106,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,School Subjects,107,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,School Subjects,108,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,School Subjects,109,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,School Subjects,110,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,School Subjects,111,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,School Subjects,112,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,School Subjects,113,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,School Subjects,114,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,School Subjects,115,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,School Subjects,116,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,School Subjects,117,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,School Subjects,118,Paderborn University,Spanish
+Teaching Degrees,School Subjects,119,Paderborn University,Spanish
+Teaching Degrees,School Subjects,120,Paderborn University,Spanish
+Teaching Degrees,School Subjects,121,Paderborn University,Spanish
+Teaching Degrees,School Subjects,122,Paderborn University,Spanish
+Teaching Degrees,School Subjects,123,Paderborn University,Spanish
+Teaching Degrees,School Subjects,124,Paderborn University,Sport
+Teaching Degrees,School Subjects,125,Paderborn University,Sport
+Teaching Degrees,School Subjects,126,Paderborn University,Sport
+Teaching Degrees,School Subjects,127,Paderborn University,Sport
+Teaching Degrees,School Subjects,128,Paderborn University,Sport
+Teaching Degrees,School Subjects,129,Paderborn University,Sport
+Teaching Degrees,School Subjects,130,Paderborn University,Sport
+Teaching Degrees,School Subjects,131,Paderborn University,Sport
+Teaching Degrees,School Subjects,132,Paderborn University,Sport
+Teaching Degrees,School Subjects,133,Paderborn University,Technology
+Teaching Degrees,School Subjects,134,Paderborn University,Technology
+Teaching Degrees,School Subjects,135,Paderborn University,Technology
+Teaching Degrees,School Subjects,136,Paderborn University,Technology
+Teaching Degrees,School Subjects,137,Paderborn University,Textile design
+Teaching Degrees,School Subjects > English (Teaching Degree),1,Paderborn University,English
+Teaching Degrees,School Subjects > English (Teaching Degree),2,Paderborn University,English
+Teaching Degrees,School Subjects > English (Teaching Degree),3,Paderborn University,English
+Teaching Degrees,School Subjects > English (Teaching Degree),4,Paderborn University,English
+Teaching Degrees,School Subjects > English (Teaching Degree),5,Paderborn University,English
+Teaching Degrees,School Subjects > English (Teaching Degree),6,Paderborn University,English
+Teaching Degrees,School Subjects > English (Teaching Degree),7,Paderborn University,English
+Teaching Degrees,School Subjects > English (Teaching Degree),8,Paderborn University,English
+Teaching Degrees,School Subjects > English (Teaching Degree),9,Paderborn University,English
+Teaching Degrees,School Subjects > German (Teaching Degree),1,Paderborn University,German
+Teaching Degrees,School Subjects > German (Teaching Degree),2,Paderborn University,German
+Teaching Degrees,School Subjects > German (Teaching Degree),3,Paderborn University,German
+Teaching Degrees,School Subjects > German (Teaching Degree),4,Paderborn University,German
+Teaching Degrees,School Subjects > German (Teaching Degree),5,Paderborn University,German
+Teaching Degrees,School Subjects > German (Teaching Degree),6,Paderborn University,German
+Teaching Degrees,School Subjects > German (Teaching Degree),7,Paderborn University,Learning Area Basic Education in Language
+Teaching Degrees,School Subjects > German (Teaching Degree),8,Paderborn University,Learning Area Basic Education in Language
+Teaching Degrees,School Subjects > German (Teaching Degree),9,Paderborn University,Learning Area Basic Education in Language
+Teaching Degrees,School Subjects > Chemistry (Teaching Degree),1,Paderborn University,Chemistry
+Teaching Degrees,School Subjects > Chemistry (Teaching Degree),2,Paderborn University,Chemistry
+Teaching Degrees,School Subjects > Chemistry (Teaching Degree),3,Paderborn University,Chemistry
+Teaching Degrees,School Subjects > Chemistry (Teaching Degree),4,Paderborn University,Chemistry
+Teaching Degrees,School Subjects > Chemistry (Teaching Degree),5,Paderborn University,Chemistry
+Teaching Degrees,School Subjects > Chemistry (Teaching Degree),6,Paderborn University,Chemistry
+Teaching Degrees,"School Subjects > Ethics, Philosophy, Values and Norms (Teaching Degree)",1,Paderborn University,Philosophy / Practical Philosophy
+Teaching Degrees,"School Subjects > Ethics, Philosophy, Values and Norms (Teaching Degree)",2,Paderborn University,Philosophy / Practical Philosophy
+Teaching Degrees,"School Subjects > Ethics, Philosophy, Values and Norms (Teaching Degree)",3,Paderborn University,"Philosophy, practical"
+Teaching Degrees,"School Subjects > Ethics, Philosophy, Values and Norms (Teaching Degree)",4,Paderborn University,"Philosophy, practical"
+Teaching Degrees,"School Subjects > Ethics, Philosophy, Values and Norms (Teaching Degree)",5,Paderborn University,"Philosophy, practical"
+Teaching Degrees,"School Subjects > Ethics, Philosophy, Values and Norms (Teaching Degree)",6,Paderborn University,"Philosophy, practical"
+Teaching Degrees,School Subjects > Protestant Religion (Teaching Degree),1,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,School Subjects > Protestant Religion (Teaching Degree),2,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,School Subjects > Protestant Religion (Teaching Degree),3,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,School Subjects > Protestant Religion (Teaching Degree),4,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,School Subjects > Protestant Religion (Teaching Degree),5,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,School Subjects > Protestant Religion (Teaching Degree),6,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,School Subjects > Protestant Religion (Teaching Degree),7,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,School Subjects > Protestant Religion (Teaching Degree),8,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,School Subjects > Protestant Religion (Teaching Degree),9,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,School Subjects > French (Teaching Degree),1,Paderborn University,French
+Teaching Degrees,School Subjects > French (Teaching Degree),2,Paderborn University,French
+Teaching Degrees,School Subjects > French (Teaching Degree),3,Paderborn University,French
+Teaching Degrees,School Subjects > French (Teaching Degree),4,Paderborn University,French
+Teaching Degrees,School Subjects > French (Teaching Degree),5,Paderborn University,French
+Teaching Degrees,School Subjects > French (Teaching Degree),6,Paderborn University,French
+Teaching Degrees,School Subjects > History (Teaching Degree),1,Paderborn University,History
+Teaching Degrees,School Subjects > History (Teaching Degree),2,Paderborn University,History
+Teaching Degrees,School Subjects > History (Teaching Degree),3,Paderborn University,History
+Teaching Degrees,School Subjects > History (Teaching Degree),4,Paderborn University,History
+Teaching Degrees,"School Subjects > Health, Nutrition (Teaching Degree)",1,Paderborn University,Dietetics
+Teaching Degrees,"School Subjects > Health, Nutrition (Teaching Degree)",2,Paderborn University,Dietetics
+Teaching Degrees,"School Subjects > Primary Education, Primary School Pedagogy",1,Paderborn University,Art
+Teaching Degrees,"School Subjects > Primary Education, Primary School Pedagogy",2,Paderborn University,English
+Teaching Degrees,"School Subjects > Primary Education, Primary School Pedagogy",3,Paderborn University,Learning Area Basic Education in Language
+Teaching Degrees,"School Subjects > Primary Education, Primary School Pedagogy",4,Paderborn University,Learning Area Basic Education in Mathematics
+Teaching Degrees,"School Subjects > Primary Education, Primary School Pedagogy",5,Paderborn University,Learning Area Natural and Social Science
+Teaching Degrees,"School Subjects > Primary Education, Primary School Pedagogy",6,Paderborn University,Music
+Teaching Degrees,"School Subjects > Primary Education, Primary School Pedagogy",7,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,"School Subjects > Primary Education, Primary School Pedagogy",8,Paderborn University,"Religious education, Protestant"
+Teaching Degrees,"School Subjects > Primary Education, Primary School Pedagogy",9,Paderborn University,Sport
+Teaching Degrees,School Subjects > Home Economics (Teaching Degree),1,Paderborn University,Domestic Science
+Teaching Degrees,School Subjects > Home Economics (Teaching Degree),2,Paderborn University,Domestic Science
+Teaching Degrees,School Subjects > Computer Science (Teaching Degree),1,Paderborn University,Computer science
+Teaching Degrees,School Subjects > Computer Science (Teaching Degree),2,Paderborn University,Computer science
+Teaching Degrees,School Subjects > Computer Science (Teaching Degree),3,Paderborn University,Computer science
+Teaching Degrees,School Subjects > Computer Science (Teaching Degree),4,Paderborn University,Computer science
+Teaching Degrees,School Subjects > Computer Science (Teaching Degree),5,Paderborn University,Computer science
+Teaching Degrees,School Subjects > Computer Science (Teaching Degree),6,Paderborn University,Computer science
+Teaching Degrees,School Subjects > Islamic Religious Education (Teaching Degree),1,Paderborn University,Islamic Religious Theory
+Teaching Degrees,School Subjects > Islamic Religious Education (Teaching Degree),2,Paderborn University,Islamic Religious Theory
+Teaching Degrees,School Subjects > Islamic Religious Education (Teaching Degree),3,Paderborn University,Islamic Religious Theory
+Teaching Degrees,School Subjects > Islamic Religious Education (Teaching Degree),4,Paderborn University,Islamic Religious Theory
+Teaching Degrees,School Subjects > Islamic Religious Education (Teaching Degree),5,Paderborn University,Islamic Religious Theory
+Teaching Degrees,School Subjects > Islamic Religious Education (Teaching Degree),6,Paderborn University,Islamic Religious Theory
+Teaching Degrees,School Subjects > Islamic Religious Education (Teaching Degree),7,Paderborn University,Islamic Religious Theory
+Teaching Degrees,School Subjects > Islamic Religious Education (Teaching Degree),8,Paderborn University,Islamic Religious Theory
+Teaching Degrees,School Subjects > Catholic Religion (Teaching Degree),1,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,School Subjects > Catholic Religion (Teaching Degree),2,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,School Subjects > Catholic Religion (Teaching Degree),3,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,School Subjects > Catholic Religion (Teaching Degree),4,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,School Subjects > Catholic Religion (Teaching Degree),5,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,School Subjects > Catholic Religion (Teaching Degree),6,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,School Subjects > Catholic Religion (Teaching Degree),7,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,School Subjects > Catholic Religion (Teaching Degree),8,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,School Subjects > Catholic Religion (Teaching Degree),9,Paderborn University,"Religious education, Catholic"
+Teaching Degrees,School Subjects > Art (Teaching Degree),1,Paderborn University,Art
+Teaching Degrees,School Subjects > Art (Teaching Degree),2,Paderborn University,Art
+Teaching Degrees,School Subjects > Art (Teaching Degree),3,Paderborn University,Art
+Teaching Degrees,School Subjects > Art (Teaching Degree),4,Paderborn University,Art
+Teaching Degrees,School Subjects > Art (Teaching Degree),5,Paderborn University,Art
+Teaching Degrees,School Subjects > Art (Teaching Degree),6,Paderborn University,Art
+Teaching Degrees,School Subjects > Art (Teaching Degree),7,Paderborn University,Art
+Teaching Degrees,School Subjects > Art (Teaching Degree),8,Paderborn University,Art
+Teaching Degrees,School Subjects > Art (Teaching Degree),9,Paderborn University,Art
+Teaching Degrees,School Subjects > Pedagogy (Teaching Degree),1,Paderborn University,Education
+Teaching Degrees,School Subjects > Pedagogy (Teaching Degree),2,Paderborn University,Education
+Teaching Degrees,School Subjects > Pedagogy (Teaching Degree),3,Paderborn University,Education
+Teaching Degrees,School Subjects > Pedagogy (Teaching Degree),4,Paderborn University,Education
+Teaching Degrees,"School Subjects > Physics, Astronomy (Teaching Degree)",1,Paderborn University,Physics
+Teaching Degrees,"School Subjects > Physics, Astronomy (Teaching Degree)",2,Paderborn University,Physics
+Teaching Degrees,"School Subjects > Physics, Astronomy (Teaching Degree)",3,Paderborn University,Physics
+Teaching Degrees,"School Subjects > Physics, Astronomy (Teaching Degree)",4,Paderborn University,Physics
+Teaching Degrees,"School Subjects > Physics, Astronomy (Teaching Degree)",5,Paderborn University,Physics
+Teaching Degrees,"School Subjects > Physics, Astronomy (Teaching Degree)",6,Paderborn University,Physics
+Teaching Degrees,School Subjects > Psychology (Teaching Degree),1,Paderborn University,Psychology
+Teaching Degrees,School Subjects > Psychology (Teaching Degree),2,Paderborn University,Psychology
+Teaching Degrees,School Subjects > Psychology (Teaching Degree),3,Paderborn University,Psychology
+Teaching Degrees,School Subjects > Psychology (Teaching Degree),4,Paderborn University,Psychology
+Teaching Degrees,School Subjects > General Life and Learning Skills (Teaching Degree),1,Paderborn University,Learning Area Natural and Social Science
+Teaching Degrees,School Subjects > General Life and Learning Skills (Teaching Degree),2,Paderborn University,Learning Area Natural and Social Science
+Teaching Degrees,School Subjects > General Life and Learning Skills (Teaching Degree),3,Paderborn University,Learning Area Natural and Social Science
+Teaching Degrees,School Subjects > Spanish (Teaching Degree),1,Paderborn University,Spanish
+Teaching Degrees,School Subjects > Spanish (Teaching Degree),2,Paderborn University,Spanish
+Teaching Degrees,School Subjects > Spanish (Teaching Degree),3,Paderborn University,Spanish
+Teaching Degrees,School Subjects > Spanish (Teaching Degree),4,Paderborn University,Spanish
+Teaching Degrees,School Subjects > Spanish (Teaching Degree),5,Paderborn University,Spanish
+Teaching Degrees,School Subjects > Spanish (Teaching Degree),6,Paderborn University,Spanish
+Teaching Degrees,School Subjects > Sport (Teaching Degree),1,Paderborn University,Sport
+Teaching Degrees,School Subjects > Sport (Teaching Degree),2,Paderborn University,Sport
+Teaching Degrees,School Subjects > Sport (Teaching Degree),3,Paderborn University,Sport
+Teaching Degrees,School Subjects > Sport (Teaching Degree),4,Paderborn University,Sport
+Teaching Degrees,School Subjects > Sport (Teaching Degree),5,Paderborn University,Sport
+Teaching Degrees,School Subjects > Sport (Teaching Degree),6,Paderborn University,Sport
+Teaching Degrees,School Subjects > Sport (Teaching Degree),7,Paderborn University,Sport
+Teaching Degrees,School Subjects > Sport (Teaching Degree),8,Paderborn University,Sport
+Teaching Degrees,School Subjects > Sport (Teaching Degree),9,Paderborn University,Sport
+Teaching Degrees,School Subjects > Engineering (Teaching Degree),1,Paderborn University,Technology
+Teaching Degrees,School Subjects > Engineering (Teaching Degree),2,Paderborn University,Technology
+Teaching Degrees,School Subjects > Engineering (Teaching Degree),3,Paderborn University,Technology
+Teaching Degrees,School Subjects > Engineering (Teaching Degree),4,Paderborn University,Technology
+Teaching Degrees,School Subjects > Textiles (Teaching Degree),1,Paderborn University,Textile design
+Teaching Degrees,School Subjects > Mathematics (Teaching Degree),1,Paderborn University,Learning Area Basic Education in Mathematics
+Teaching Degrees,School Subjects > Mathematics (Teaching Degree),2,Paderborn University,Learning Area Basic Education in Mathematics
+Teaching Degrees,School Subjects > Mathematics (Teaching Degree),3,Paderborn University,Learning Area Basic Education in Mathematics
+Teaching Degrees,School Subjects > Mathematics (Teaching Degree),4,Paderborn University,Mathematics
+Teaching Degrees,School Subjects > Mathematics (Teaching Degree),5,Paderborn University,Mathematics
+Teaching Degrees,School Subjects > Mathematics (Teaching Degree),6,Paderborn University,Mathematics
+Teaching Degrees,School Subjects > Mathematics (Teaching Degree),7,Paderborn University,Mathematics
+Teaching Degrees,School Subjects > Mathematics (Teaching Degree),8,Paderborn University,Mathematics
+Teaching Degrees,School Subjects > Mathematics (Teaching Degree),9,Paderborn University,Mathematics
+Teaching Degrees,School Subjects > Music (Teaching Degree),1,Paderborn University,Music
+Teaching Degrees,School Subjects > Music (Teaching Degree),2,Paderborn University,Music
+Teaching Degrees,School Subjects > Music (Teaching Degree),3,Paderborn University,Music
+Teaching Degrees,School Subjects > Music (Teaching Degree),4,Paderborn University,Music
+Teaching Degrees,School Subjects > Music (Teaching Degree),5,Paderborn University,Music
+Teaching Degrees,School Subjects > Music (Teaching Degree),6,Paderborn University,Music
